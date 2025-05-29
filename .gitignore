@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+venv/
+.env
+.pytest_cache/
+
+# Airflow
+airflow/logs/
+airflow/dags/
+airflow/plugins/
+airflow/config/
+airflow/webserver_config.py
+airflow/data/
+airflow/unittests.cfg
+
+# Database
+*.sql
+*.db
+*.sqlite
+data/ # For raw data landing zone or generated data if local
+pg_data/ # For PostgreSQL persistent data
+
+# dbt
+dbt_project/dbt_packages/
+dbt_project/logs/
+dbt_project/target/
+dbt_project/.dbt/
+dbt_project/dbt_profiles.yml # Important for local credentials
+
+# IDE-specific files (e.g., VS Code)
+.vscode/
+
+# macOS specific
+.DS_Store
