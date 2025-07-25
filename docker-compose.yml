@@ -1,0 +1,128 @@
+
+services:
+  # PostgreSQL Database Service
+  postgres_source:
+    image: postgres:15
+    container_name: postgres_source_db
+    environment:
+      POSTGRES_DB: jeans_source_db
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5433:5432" # Map container port 5432 to host port 5433
+    volumes:
+      - pg_source_data:/var/lib/postgresql/data # Persistent data volume
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "user"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  postgres_dwh:
+    image: postgres:15
+    container_name: postgres_dwh_db
+    environment:
+      POSTGRES_DB: jeans_dwh_db
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5434:5432" # Map container port 5432 to host port 5434
+    volumes:
+      - pg_dwh_data:/var/lib/postgresql/data # Persistent data volume
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "user"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  # Airflow Services
+  airflow_scheduler:
+    build: ./airflow # Build from Dockerfile in airflow/ directory
+    container_name: airflow_scheduler
+    restart: always
+    command: scheduler
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags # Mount DAGs
+      - ./airflow/logs:/opt/airflow/logs # Store logs
+      - ./airflow/plugins:/opt/airflow/plugins # Custom plugins
+      - ./data_generator:/opt/airflow/data_generator # Access data generator scripts
+      - ./raw_data_landing_zone:/opt/airflow/raw_data_landing_zone # Access raw data
+      - ./dbt_project:/opt/airflow/dbt_project # Access dbt project
+    environment:
+      AIRFLOW_HOME: /opt/airflow
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor # For local development
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres_airflow/airflow # Airflow metadata DB
+      AIRFLOW__CELERY__RESULT_BACKEND: db+postgresql://airflow:airflow@postgres_airflow/airflow # For Celery if used
+      AIRFLOW__CELERY__BROKER_URL: redis://redis:6379/0 # For Celery if used
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false" # Don't load example DAGs
+      AIRFLOW__CORE__DAGS_FOLDER: /opt/airflow/dags
+      # Python PATH adjustments for custom modules
+      PYTHONPATH: /opt/airflow:/opt/airflow/data_generator:/opt/airflow/dbt
+    depends_on:
+      postgres_airflow:
+        condition: service_healthy # Wait for Airflow DB to be healthy
+      redis:
+        condition: service_healthy # Wait for Redis to be healthy (if using Celery)
+      postgres_source:
+        condition: service_healthy # Wait for Source DB to be healthy
+      postgres_dwh:
+        condition: service_healthy # Wait for DWH DB to be healthy
+
+  airflow_webserver:
+    build: ./airflow
+    container_name: airflow_webserver
+    restart: always
+    command: webserver
+    ports:
+      - "8081:8080" # Airflow UI
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./airflow/logs:/opt/airflow/logs
+      - ./airflow/plugins:/opt/airflow/plugins
+      - ./data_generator:/opt/airflow/data_generator
+      - ./raw_data_landing_zone:/opt/airflow/raw_data_landing_zone
+      - ./dbt_project:/opt/airflow/dbt_project
+    environment:
+      AIRFLOW_HOME: /opt/airflow
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres_airflow/airflow
+      AIRFLOW__CELERY__RESULT_BACKEND: db+postgresql://airflow:airflow@postgres_airflow/airflow
+      AIRFLOW__CELERY__BROKER_URL: redis://redis:6379/0
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__CORE__DAGS_FOLDER: /opt/airflow/dags
+      PYTHONPATH: /opt/airflow:/opt/airflow/data_generator:/opt/airflow/dbt
+    depends_on:
+      postgres_airflow:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+
+  postgres_airflow: # Airflow's internal metadata database
+    image: postgres:15
+    container_name: postgres_airflow_db
+    environment:
+      POSTGRES_DB: airflow
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+    healthcheck:
+          test: ["CMD", "pg_isready", "-U", "airflow"] # <-- Corrected
+          interval: 5s
+          timeout: 5s
+          retries: 5
+    volumes:
+      - pg_airflow_data:/var/lib/postgresql/data
+
+  redis: # Used by Airflow for Celery Executor (or just for a simple broker with LocalExecutor)
+    image: redis:latest
+    container_name: redis_broker
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+volumes:
+  pg_source_data: # Volume for persistent PostgreSQL source data
+  pg_dwh_data:    # Volume for persistent PostgreSQL DWH data
+  pg_airflow_data: # Volume for persistent PostgreSQL Airflow metadata data
+  # Airflow logs and dags are mounted directly from host to container, not dedicated volumes

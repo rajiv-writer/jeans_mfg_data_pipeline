@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: your_source_name # Choose a logical name for your source system
+    database: airflow       # The database where your raw tables are
+    schema: public          # The schema where your raw tables are
+
+    tables:
+      - name: raw_jeans_sales # Name of your first raw table
+      # - name: raw_production_data # Add more raw tables

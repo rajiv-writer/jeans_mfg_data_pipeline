@@ -1,0 +1,14 @@
+# C:\Users\Rajiv Nair\jeans_mfg_data_pipeline\dbt_project\profiles.yml
+
+jeans_mfg_pipeline: # NEW PROFILE FOR THIS PROJECT
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: postgres_airflow_db  # IMPORTANT: Use the Docker Compose service name!
+      port: 5432
+      user: airflow            # Matches your Airflow PostgreSQL user (from docker-compose.yaml POSTGRES_USER)
+      password: airflow        # Matches your Airflow PostgreSQL password (from docker-compose.yaml POSTGRES_PASSWORD)
+      dbname: airflow          # Matches your Airflow PostgreSQL database name (from docker-compose.yaml POSTGRES_DB)
+      schema: public           # Or your desired working schema for this project
+      threads: 1

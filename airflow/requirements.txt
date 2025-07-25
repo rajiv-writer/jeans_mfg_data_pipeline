@@ -1,0 +1,27 @@
+# Airflow core with extras - MUST match the base image version
+apache-airflow[cncf.kubernetes,http,postgres,redis,celery,ssh]==2.8.1
+
+# It's generally good practice to pin providers for reproducibility,
+# but if you rely on the constraints file, you can keep them unpinned.
+# For simplicity, let's keep them unpinned for now as Airflow's constraints
+# will handle their versions. If you get dependency issues with them later,
+# we can selectively pin the problematic ones.
+# apache-airflow-providers-cncf-kubernetes
+# apache-airflow-providers-http
+# apache-airflow-providers-postgres
+# apache-airflow-providers-redis
+# apache-airflow-providers-celery
+# apache-airflow-providers-ssh
+
+# Use the binary version for easier installation in Docker
+psycopg2-binary==2.9.9
+
+# supporting libraries - check these versions for compatibility with Airflow 2.8.1 and dbt 1.8.1
+Faker==25.0.0
+pandas==2.1.4
+sqlalchemy==1.4.54
+dbt-core==1.8.1
+dbt-postgres==1.8.1
+
+# REMOVE isodate pin - let Airflow constraints handle this dependency
+# isodate==0.6.1  # REMOVED: This conflicts with Airflow's required isodate version
