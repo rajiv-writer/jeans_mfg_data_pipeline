@@ -1,0 +1,2913 @@
+style_number,size,material_type,material_qty_per_unit,unit_of_measure
+M-SKINNY-LIGHT,18,Denim Fabric,0.81,meters
+M-SKINNY-LIGHT,18,Pocketing Fabric,0.2,meters
+M-SKINNY-LIGHT,18,Thread,100.8,meters
+M-SKINNY-LIGHT,18,Button,1.0,pieces
+M-SKINNY-LIGHT,18,Zipper,1.0,pieces
+M-SKINNY-LIGHT,18,Rivets,6.0,pieces
+M-SKINNY-LIGHT,18,Label,2.0,pieces
+M-SKINNY-LIGHT,20,Denim Fabric,0.88,meters
+M-SKINNY-LIGHT,20,Pocketing Fabric,0.22,meters
+M-SKINNY-LIGHT,20,Thread,110.25,meters
+M-SKINNY-LIGHT,20,Button,1.0,pieces
+M-SKINNY-LIGHT,20,Zipper,1.0,pieces
+M-SKINNY-LIGHT,20,Rivets,6.0,pieces
+M-SKINNY-LIGHT,20,Label,2.0,pieces
+M-SKINNY-LIGHT,22,Denim Fabric,0.96,meters
+M-SKINNY-LIGHT,22,Pocketing Fabric,0.24,meters
+M-SKINNY-LIGHT,22,Thread,119.7,meters
+M-SKINNY-LIGHT,22,Button,1.0,pieces
+M-SKINNY-LIGHT,22,Zipper,1.0,pieces
+M-SKINNY-LIGHT,22,Rivets,6.0,pieces
+M-SKINNY-LIGHT,22,Label,2.0,pieces
+M-SKINNY-LIGHT,24,Denim Fabric,1.03,meters
+M-SKINNY-LIGHT,24,Pocketing Fabric,0.26,meters
+M-SKINNY-LIGHT,24,Thread,129.15,meters
+M-SKINNY-LIGHT,24,Button,1.0,pieces
+M-SKINNY-LIGHT,24,Zipper,1.0,pieces
+M-SKINNY-LIGHT,24,Rivets,6.0,pieces
+M-SKINNY-LIGHT,24,Label,2.0,pieces
+M-SKINNY-LIGHT,26,Denim Fabric,1.11,meters
+M-SKINNY-LIGHT,26,Pocketing Fabric,0.27,meters
+M-SKINNY-LIGHT,26,Thread,138.6,meters
+M-SKINNY-LIGHT,26,Button,1.0,pieces
+M-SKINNY-LIGHT,26,Zipper,1.0,pieces
+M-SKINNY-LIGHT,26,Rivets,6.0,pieces
+M-SKINNY-LIGHT,26,Label,2.0,pieces
+M-SKINNY-LIGHT,28,Denim Fabric,1.19,meters
+M-SKINNY-LIGHT,28,Pocketing Fabric,0.29,meters
+M-SKINNY-LIGHT,28,Thread,148.05,meters
+M-SKINNY-LIGHT,28,Button,1.0,pieces
+M-SKINNY-LIGHT,28,Zipper,1.0,pieces
+M-SKINNY-LIGHT,28,Rivets,6.0,pieces
+M-SKINNY-LIGHT,28,Label,2.0,pieces
+M-SKINNY-LIGHT,30,Denim Fabric,1.26,meters
+M-SKINNY-LIGHT,30,Pocketing Fabric,0.32,meters
+M-SKINNY-LIGHT,30,Thread,157.5,meters
+M-SKINNY-LIGHT,30,Button,1.0,pieces
+M-SKINNY-LIGHT,30,Zipper,1.0,pieces
+M-SKINNY-LIGHT,30,Rivets,6.0,pieces
+M-SKINNY-LIGHT,30,Label,2.0,pieces
+M-SKINNY-LIGHT,32,Denim Fabric,1.33,meters
+M-SKINNY-LIGHT,32,Pocketing Fabric,0.34,meters
+M-SKINNY-LIGHT,32,Thread,166.95,meters
+M-SKINNY-LIGHT,32,Button,1.0,pieces
+M-SKINNY-LIGHT,32,Zipper,1.0,pieces
+M-SKINNY-LIGHT,32,Rivets,6.0,pieces
+M-SKINNY-LIGHT,32,Label,2.0,pieces
+M-SKINNY-LIGHT,34,Denim Fabric,1.41,meters
+M-SKINNY-LIGHT,34,Pocketing Fabric,0.36,meters
+M-SKINNY-LIGHT,34,Thread,176.4,meters
+M-SKINNY-LIGHT,34,Button,1.0,pieces
+M-SKINNY-LIGHT,34,Zipper,1.0,pieces
+M-SKINNY-LIGHT,34,Rivets,6.0,pieces
+M-SKINNY-LIGHT,34,Label,2.0,pieces
+M-SKINNY-LIGHT,36,Denim Fabric,1.49,meters
+M-SKINNY-LIGHT,36,Pocketing Fabric,0.37,meters
+M-SKINNY-LIGHT,36,Thread,185.85,meters
+M-SKINNY-LIGHT,36,Button,1.0,pieces
+M-SKINNY-LIGHT,36,Zipper,1.0,pieces
+M-SKINNY-LIGHT,36,Rivets,6.0,pieces
+M-SKINNY-LIGHT,36,Label,2.0,pieces
+M-SKINNY-LIGHT,38,Denim Fabric,1.56,meters
+M-SKINNY-LIGHT,38,Pocketing Fabric,0.39,meters
+M-SKINNY-LIGHT,38,Thread,195.3,meters
+M-SKINNY-LIGHT,38,Button,1.0,pieces
+M-SKINNY-LIGHT,38,Zipper,1.0,pieces
+M-SKINNY-LIGHT,38,Rivets,6.0,pieces
+M-SKINNY-LIGHT,38,Label,2.0,pieces
+M-SKINNY-LIGHT,40,Denim Fabric,1.64,meters
+M-SKINNY-LIGHT,40,Pocketing Fabric,0.41,meters
+M-SKINNY-LIGHT,40,Thread,204.75,meters
+M-SKINNY-LIGHT,40,Button,1.0,pieces
+M-SKINNY-LIGHT,40,Zipper,1.0,pieces
+M-SKINNY-LIGHT,40,Rivets,6.0,pieces
+M-SKINNY-LIGHT,40,Label,2.0,pieces
+M-SKINNY-LIGHT,42,Denim Fabric,1.71,meters
+M-SKINNY-LIGHT,42,Pocketing Fabric,0.43,meters
+M-SKINNY-LIGHT,42,Thread,214.2,meters
+M-SKINNY-LIGHT,42,Button,1.0,pieces
+M-SKINNY-LIGHT,42,Zipper,1.0,pieces
+M-SKINNY-LIGHT,42,Rivets,6.0,pieces
+M-SKINNY-LIGHT,42,Label,2.0,pieces
+M-SKINNY-MEDIUM,18,Denim Fabric,0.81,meters
+M-SKINNY-MEDIUM,18,Pocketing Fabric,0.2,meters
+M-SKINNY-MEDIUM,18,Thread,100.8,meters
+M-SKINNY-MEDIUM,18,Button,1.0,pieces
+M-SKINNY-MEDIUM,18,Zipper,1.0,pieces
+M-SKINNY-MEDIUM,18,Rivets,6.0,pieces
+M-SKINNY-MEDIUM,18,Label,2.0,pieces
+M-SKINNY-MEDIUM,20,Denim Fabric,0.88,meters
+M-SKINNY-MEDIUM,20,Pocketing Fabric,0.22,meters
+M-SKINNY-MEDIUM,20,Thread,110.25,meters
+M-SKINNY-MEDIUM,20,Button,1.0,pieces
+M-SKINNY-MEDIUM,20,Zipper,1.0,pieces
+M-SKINNY-MEDIUM,20,Rivets,6.0,pieces
+M-SKINNY-MEDIUM,20,Label,2.0,pieces
+M-SKINNY-MEDIUM,22,Denim Fabric,0.96,meters
+M-SKINNY-MEDIUM,22,Pocketing Fabric,0.24,meters
+M-SKINNY-MEDIUM,22,Thread,119.7,meters
+M-SKINNY-MEDIUM,22,Button,1.0,pieces
+M-SKINNY-MEDIUM,22,Zipper,1.0,pieces
+M-SKINNY-MEDIUM,22,Rivets,6.0,pieces
+M-SKINNY-MEDIUM,22,Label,2.0,pieces
+M-SKINNY-MEDIUM,24,Denim Fabric,1.03,meters
+M-SKINNY-MEDIUM,24,Pocketing Fabric,0.26,meters
+M-SKINNY-MEDIUM,24,Thread,129.15,meters
+M-SKINNY-MEDIUM,24,Button,1.0,pieces
+M-SKINNY-MEDIUM,24,Zipper,1.0,pieces
+M-SKINNY-MEDIUM,24,Rivets,6.0,pieces
+M-SKINNY-MEDIUM,24,Label,2.0,pieces
+M-SKINNY-MEDIUM,26,Denim Fabric,1.11,meters
+M-SKINNY-MEDIUM,26,Pocketing Fabric,0.27,meters
+M-SKINNY-MEDIUM,26,Thread,138.6,meters
+M-SKINNY-MEDIUM,26,Button,1.0,pieces
+M-SKINNY-MEDIUM,26,Zipper,1.0,pieces
+M-SKINNY-MEDIUM,26,Rivets,6.0,pieces
+M-SKINNY-MEDIUM,26,Label,2.0,pieces
+M-SKINNY-MEDIUM,28,Denim Fabric,1.19,meters
+M-SKINNY-MEDIUM,28,Pocketing Fabric,0.29,meters
+M-SKINNY-MEDIUM,28,Thread,148.05,meters
+M-SKINNY-MEDIUM,28,Button,1.0,pieces
+M-SKINNY-MEDIUM,28,Zipper,1.0,pieces
+M-SKINNY-MEDIUM,28,Rivets,6.0,pieces
+M-SKINNY-MEDIUM,28,Label,2.0,pieces
+M-SKINNY-MEDIUM,30,Denim Fabric,1.26,meters
+M-SKINNY-MEDIUM,30,Pocketing Fabric,0.32,meters
+M-SKINNY-MEDIUM,30,Thread,157.5,meters
+M-SKINNY-MEDIUM,30,Button,1.0,pieces
+M-SKINNY-MEDIUM,30,Zipper,1.0,pieces
+M-SKINNY-MEDIUM,30,Rivets,6.0,pieces
+M-SKINNY-MEDIUM,30,Label,2.0,pieces
+M-SKINNY-MEDIUM,32,Denim Fabric,1.33,meters
+M-SKINNY-MEDIUM,32,Pocketing Fabric,0.34,meters
+M-SKINNY-MEDIUM,32,Thread,166.95,meters
+M-SKINNY-MEDIUM,32,Button,1.0,pieces
+M-SKINNY-MEDIUM,32,Zipper,1.0,pieces
+M-SKINNY-MEDIUM,32,Rivets,6.0,pieces
+M-SKINNY-MEDIUM,32,Label,2.0,pieces
+M-SKINNY-MEDIUM,34,Denim Fabric,1.41,meters
+M-SKINNY-MEDIUM,34,Pocketing Fabric,0.36,meters
+M-SKINNY-MEDIUM,34,Thread,176.4,meters
+M-SKINNY-MEDIUM,34,Button,1.0,pieces
+M-SKINNY-MEDIUM,34,Zipper,1.0,pieces
+M-SKINNY-MEDIUM,34,Rivets,6.0,pieces
+M-SKINNY-MEDIUM,34,Label,2.0,pieces
+M-SKINNY-MEDIUM,36,Denim Fabric,1.49,meters
+M-SKINNY-MEDIUM,36,Pocketing Fabric,0.37,meters
+M-SKINNY-MEDIUM,36,Thread,185.85,meters
+M-SKINNY-MEDIUM,36,Button,1.0,pieces
+M-SKINNY-MEDIUM,36,Zipper,1.0,pieces
+M-SKINNY-MEDIUM,36,Rivets,6.0,pieces
+M-SKINNY-MEDIUM,36,Label,2.0,pieces
+M-SKINNY-MEDIUM,38,Denim Fabric,1.56,meters
+M-SKINNY-MEDIUM,38,Pocketing Fabric,0.39,meters
+M-SKINNY-MEDIUM,38,Thread,195.3,meters
+M-SKINNY-MEDIUM,38,Button,1.0,pieces
+M-SKINNY-MEDIUM,38,Zipper,1.0,pieces
+M-SKINNY-MEDIUM,38,Rivets,6.0,pieces
+M-SKINNY-MEDIUM,38,Label,2.0,pieces
+M-SKINNY-MEDIUM,40,Denim Fabric,1.64,meters
+M-SKINNY-MEDIUM,40,Pocketing Fabric,0.41,meters
+M-SKINNY-MEDIUM,40,Thread,204.75,meters
+M-SKINNY-MEDIUM,40,Button,1.0,pieces
+M-SKINNY-MEDIUM,40,Zipper,1.0,pieces
+M-SKINNY-MEDIUM,40,Rivets,6.0,pieces
+M-SKINNY-MEDIUM,40,Label,2.0,pieces
+M-SKINNY-MEDIUM,42,Denim Fabric,1.71,meters
+M-SKINNY-MEDIUM,42,Pocketing Fabric,0.43,meters
+M-SKINNY-MEDIUM,42,Thread,214.2,meters
+M-SKINNY-MEDIUM,42,Button,1.0,pieces
+M-SKINNY-MEDIUM,42,Zipper,1.0,pieces
+M-SKINNY-MEDIUM,42,Rivets,6.0,pieces
+M-SKINNY-MEDIUM,42,Label,2.0,pieces
+M-SKINNY-DARK,18,Denim Fabric,0.81,meters
+M-SKINNY-DARK,18,Pocketing Fabric,0.2,meters
+M-SKINNY-DARK,18,Thread,100.8,meters
+M-SKINNY-DARK,18,Button,1.0,pieces
+M-SKINNY-DARK,18,Zipper,1.0,pieces
+M-SKINNY-DARK,18,Rivets,6.0,pieces
+M-SKINNY-DARK,18,Label,2.0,pieces
+M-SKINNY-DARK,20,Denim Fabric,0.88,meters
+M-SKINNY-DARK,20,Pocketing Fabric,0.22,meters
+M-SKINNY-DARK,20,Thread,110.25,meters
+M-SKINNY-DARK,20,Button,1.0,pieces
+M-SKINNY-DARK,20,Zipper,1.0,pieces
+M-SKINNY-DARK,20,Rivets,6.0,pieces
+M-SKINNY-DARK,20,Label,2.0,pieces
+M-SKINNY-DARK,22,Denim Fabric,0.96,meters
+M-SKINNY-DARK,22,Pocketing Fabric,0.24,meters
+M-SKINNY-DARK,22,Thread,119.7,meters
+M-SKINNY-DARK,22,Button,1.0,pieces
+M-SKINNY-DARK,22,Zipper,1.0,pieces
+M-SKINNY-DARK,22,Rivets,6.0,pieces
+M-SKINNY-DARK,22,Label,2.0,pieces
+M-SKINNY-DARK,24,Denim Fabric,1.03,meters
+M-SKINNY-DARK,24,Pocketing Fabric,0.26,meters
+M-SKINNY-DARK,24,Thread,129.15,meters
+M-SKINNY-DARK,24,Button,1.0,pieces
+M-SKINNY-DARK,24,Zipper,1.0,pieces
+M-SKINNY-DARK,24,Rivets,6.0,pieces
+M-SKINNY-DARK,24,Label,2.0,pieces
+M-SKINNY-DARK,26,Denim Fabric,1.11,meters
+M-SKINNY-DARK,26,Pocketing Fabric,0.27,meters
+M-SKINNY-DARK,26,Thread,138.6,meters
+M-SKINNY-DARK,26,Button,1.0,pieces
+M-SKINNY-DARK,26,Zipper,1.0,pieces
+M-SKINNY-DARK,26,Rivets,6.0,pieces
+M-SKINNY-DARK,26,Label,2.0,pieces
+M-SKINNY-DARK,28,Denim Fabric,1.19,meters
+M-SKINNY-DARK,28,Pocketing Fabric,0.29,meters
+M-SKINNY-DARK,28,Thread,148.05,meters
+M-SKINNY-DARK,28,Button,1.0,pieces
+M-SKINNY-DARK,28,Zipper,1.0,pieces
+M-SKINNY-DARK,28,Rivets,6.0,pieces
+M-SKINNY-DARK,28,Label,2.0,pieces
+M-SKINNY-DARK,30,Denim Fabric,1.26,meters
+M-SKINNY-DARK,30,Pocketing Fabric,0.32,meters
+M-SKINNY-DARK,30,Thread,157.5,meters
+M-SKINNY-DARK,30,Button,1.0,pieces
+M-SKINNY-DARK,30,Zipper,1.0,pieces
+M-SKINNY-DARK,30,Rivets,6.0,pieces
+M-SKINNY-DARK,30,Label,2.0,pieces
+M-SKINNY-DARK,32,Denim Fabric,1.33,meters
+M-SKINNY-DARK,32,Pocketing Fabric,0.34,meters
+M-SKINNY-DARK,32,Thread,166.95,meters
+M-SKINNY-DARK,32,Button,1.0,pieces
+M-SKINNY-DARK,32,Zipper,1.0,pieces
+M-SKINNY-DARK,32,Rivets,6.0,pieces
+M-SKINNY-DARK,32,Label,2.0,pieces
+M-SKINNY-DARK,34,Denim Fabric,1.41,meters
+M-SKINNY-DARK,34,Pocketing Fabric,0.36,meters
+M-SKINNY-DARK,34,Thread,176.4,meters
+M-SKINNY-DARK,34,Button,1.0,pieces
+M-SKINNY-DARK,34,Zipper,1.0,pieces
+M-SKINNY-DARK,34,Rivets,6.0,pieces
+M-SKINNY-DARK,34,Label,2.0,pieces
+M-SKINNY-DARK,36,Denim Fabric,1.49,meters
+M-SKINNY-DARK,36,Pocketing Fabric,0.37,meters
+M-SKINNY-DARK,36,Thread,185.85,meters
+M-SKINNY-DARK,36,Button,1.0,pieces
+M-SKINNY-DARK,36,Zipper,1.0,pieces
+M-SKINNY-DARK,36,Rivets,6.0,pieces
+M-SKINNY-DARK,36,Label,2.0,pieces
+M-SKINNY-DARK,38,Denim Fabric,1.56,meters
+M-SKINNY-DARK,38,Pocketing Fabric,0.39,meters
+M-SKINNY-DARK,38,Thread,195.3,meters
+M-SKINNY-DARK,38,Button,1.0,pieces
+M-SKINNY-DARK,38,Zipper,1.0,pieces
+M-SKINNY-DARK,38,Rivets,6.0,pieces
+M-SKINNY-DARK,38,Label,2.0,pieces
+M-SKINNY-DARK,40,Denim Fabric,1.64,meters
+M-SKINNY-DARK,40,Pocketing Fabric,0.41,meters
+M-SKINNY-DARK,40,Thread,204.75,meters
+M-SKINNY-DARK,40,Button,1.0,pieces
+M-SKINNY-DARK,40,Zipper,1.0,pieces
+M-SKINNY-DARK,40,Rivets,6.0,pieces
+M-SKINNY-DARK,40,Label,2.0,pieces
+M-SKINNY-DARK,42,Denim Fabric,1.71,meters
+M-SKINNY-DARK,42,Pocketing Fabric,0.43,meters
+M-SKINNY-DARK,42,Thread,214.2,meters
+M-SKINNY-DARK,42,Button,1.0,pieces
+M-SKINNY-DARK,42,Zipper,1.0,pieces
+M-SKINNY-DARK,42,Rivets,6.0,pieces
+M-SKINNY-DARK,42,Label,2.0,pieces
+M-SKINNY-BLACK,18,Denim Fabric,0.81,meters
+M-SKINNY-BLACK,18,Pocketing Fabric,0.2,meters
+M-SKINNY-BLACK,18,Thread,100.8,meters
+M-SKINNY-BLACK,18,Button,1.0,pieces
+M-SKINNY-BLACK,18,Zipper,1.0,pieces
+M-SKINNY-BLACK,18,Rivets,6.0,pieces
+M-SKINNY-BLACK,18,Label,2.0,pieces
+M-SKINNY-BLACK,20,Denim Fabric,0.88,meters
+M-SKINNY-BLACK,20,Pocketing Fabric,0.22,meters
+M-SKINNY-BLACK,20,Thread,110.25,meters
+M-SKINNY-BLACK,20,Button,1.0,pieces
+M-SKINNY-BLACK,20,Zipper,1.0,pieces
+M-SKINNY-BLACK,20,Rivets,6.0,pieces
+M-SKINNY-BLACK,20,Label,2.0,pieces
+M-SKINNY-BLACK,22,Denim Fabric,0.96,meters
+M-SKINNY-BLACK,22,Pocketing Fabric,0.24,meters
+M-SKINNY-BLACK,22,Thread,119.7,meters
+M-SKINNY-BLACK,22,Button,1.0,pieces
+M-SKINNY-BLACK,22,Zipper,1.0,pieces
+M-SKINNY-BLACK,22,Rivets,6.0,pieces
+M-SKINNY-BLACK,22,Label,2.0,pieces
+M-SKINNY-BLACK,24,Denim Fabric,1.03,meters
+M-SKINNY-BLACK,24,Pocketing Fabric,0.26,meters
+M-SKINNY-BLACK,24,Thread,129.15,meters
+M-SKINNY-BLACK,24,Button,1.0,pieces
+M-SKINNY-BLACK,24,Zipper,1.0,pieces
+M-SKINNY-BLACK,24,Rivets,6.0,pieces
+M-SKINNY-BLACK,24,Label,2.0,pieces
+M-SKINNY-BLACK,26,Denim Fabric,1.11,meters
+M-SKINNY-BLACK,26,Pocketing Fabric,0.27,meters
+M-SKINNY-BLACK,26,Thread,138.6,meters
+M-SKINNY-BLACK,26,Button,1.0,pieces
+M-SKINNY-BLACK,26,Zipper,1.0,pieces
+M-SKINNY-BLACK,26,Rivets,6.0,pieces
+M-SKINNY-BLACK,26,Label,2.0,pieces
+M-SKINNY-BLACK,28,Denim Fabric,1.19,meters
+M-SKINNY-BLACK,28,Pocketing Fabric,0.29,meters
+M-SKINNY-BLACK,28,Thread,148.05,meters
+M-SKINNY-BLACK,28,Button,1.0,pieces
+M-SKINNY-BLACK,28,Zipper,1.0,pieces
+M-SKINNY-BLACK,28,Rivets,6.0,pieces
+M-SKINNY-BLACK,28,Label,2.0,pieces
+M-SKINNY-BLACK,30,Denim Fabric,1.26,meters
+M-SKINNY-BLACK,30,Pocketing Fabric,0.32,meters
+M-SKINNY-BLACK,30,Thread,157.5,meters
+M-SKINNY-BLACK,30,Button,1.0,pieces
+M-SKINNY-BLACK,30,Zipper,1.0,pieces
+M-SKINNY-BLACK,30,Rivets,6.0,pieces
+M-SKINNY-BLACK,30,Label,2.0,pieces
+M-SKINNY-BLACK,32,Denim Fabric,1.33,meters
+M-SKINNY-BLACK,32,Pocketing Fabric,0.34,meters
+M-SKINNY-BLACK,32,Thread,166.95,meters
+M-SKINNY-BLACK,32,Button,1.0,pieces
+M-SKINNY-BLACK,32,Zipper,1.0,pieces
+M-SKINNY-BLACK,32,Rivets,6.0,pieces
+M-SKINNY-BLACK,32,Label,2.0,pieces
+M-SKINNY-BLACK,34,Denim Fabric,1.41,meters
+M-SKINNY-BLACK,34,Pocketing Fabric,0.36,meters
+M-SKINNY-BLACK,34,Thread,176.4,meters
+M-SKINNY-BLACK,34,Button,1.0,pieces
+M-SKINNY-BLACK,34,Zipper,1.0,pieces
+M-SKINNY-BLACK,34,Rivets,6.0,pieces
+M-SKINNY-BLACK,34,Label,2.0,pieces
+M-SKINNY-BLACK,36,Denim Fabric,1.49,meters
+M-SKINNY-BLACK,36,Pocketing Fabric,0.37,meters
+M-SKINNY-BLACK,36,Thread,185.85,meters
+M-SKINNY-BLACK,36,Button,1.0,pieces
+M-SKINNY-BLACK,36,Zipper,1.0,pieces
+M-SKINNY-BLACK,36,Rivets,6.0,pieces
+M-SKINNY-BLACK,36,Label,2.0,pieces
+M-SKINNY-BLACK,38,Denim Fabric,1.56,meters
+M-SKINNY-BLACK,38,Pocketing Fabric,0.39,meters
+M-SKINNY-BLACK,38,Thread,195.3,meters
+M-SKINNY-BLACK,38,Button,1.0,pieces
+M-SKINNY-BLACK,38,Zipper,1.0,pieces
+M-SKINNY-BLACK,38,Rivets,6.0,pieces
+M-SKINNY-BLACK,38,Label,2.0,pieces
+M-SKINNY-BLACK,40,Denim Fabric,1.64,meters
+M-SKINNY-BLACK,40,Pocketing Fabric,0.41,meters
+M-SKINNY-BLACK,40,Thread,204.75,meters
+M-SKINNY-BLACK,40,Button,1.0,pieces
+M-SKINNY-BLACK,40,Zipper,1.0,pieces
+M-SKINNY-BLACK,40,Rivets,6.0,pieces
+M-SKINNY-BLACK,40,Label,2.0,pieces
+M-SKINNY-BLACK,42,Denim Fabric,1.71,meters
+M-SKINNY-BLACK,42,Pocketing Fabric,0.43,meters
+M-SKINNY-BLACK,42,Thread,214.2,meters
+M-SKINNY-BLACK,42,Button,1.0,pieces
+M-SKINNY-BLACK,42,Zipper,1.0,pieces
+M-SKINNY-BLACK,42,Rivets,6.0,pieces
+M-SKINNY-BLACK,42,Label,2.0,pieces
+M-SLIM-LIGHT,18,Denim Fabric,0.81,meters
+M-SLIM-LIGHT,18,Pocketing Fabric,0.2,meters
+M-SLIM-LIGHT,18,Thread,100.8,meters
+M-SLIM-LIGHT,18,Button,1.0,pieces
+M-SLIM-LIGHT,18,Zipper,1.0,pieces
+M-SLIM-LIGHT,18,Rivets,6.0,pieces
+M-SLIM-LIGHT,18,Label,2.0,pieces
+M-SLIM-LIGHT,20,Denim Fabric,0.88,meters
+M-SLIM-LIGHT,20,Pocketing Fabric,0.22,meters
+M-SLIM-LIGHT,20,Thread,110.25,meters
+M-SLIM-LIGHT,20,Button,1.0,pieces
+M-SLIM-LIGHT,20,Zipper,1.0,pieces
+M-SLIM-LIGHT,20,Rivets,6.0,pieces
+M-SLIM-LIGHT,20,Label,2.0,pieces
+M-SLIM-LIGHT,22,Denim Fabric,0.96,meters
+M-SLIM-LIGHT,22,Pocketing Fabric,0.24,meters
+M-SLIM-LIGHT,22,Thread,119.7,meters
+M-SLIM-LIGHT,22,Button,1.0,pieces
+M-SLIM-LIGHT,22,Zipper,1.0,pieces
+M-SLIM-LIGHT,22,Rivets,6.0,pieces
+M-SLIM-LIGHT,22,Label,2.0,pieces
+M-SLIM-LIGHT,24,Denim Fabric,1.03,meters
+M-SLIM-LIGHT,24,Pocketing Fabric,0.26,meters
+M-SLIM-LIGHT,24,Thread,129.15,meters
+M-SLIM-LIGHT,24,Button,1.0,pieces
+M-SLIM-LIGHT,24,Zipper,1.0,pieces
+M-SLIM-LIGHT,24,Rivets,6.0,pieces
+M-SLIM-LIGHT,24,Label,2.0,pieces
+M-SLIM-LIGHT,26,Denim Fabric,1.11,meters
+M-SLIM-LIGHT,26,Pocketing Fabric,0.27,meters
+M-SLIM-LIGHT,26,Thread,138.6,meters
+M-SLIM-LIGHT,26,Button,1.0,pieces
+M-SLIM-LIGHT,26,Zipper,1.0,pieces
+M-SLIM-LIGHT,26,Rivets,6.0,pieces
+M-SLIM-LIGHT,26,Label,2.0,pieces
+M-SLIM-LIGHT,28,Denim Fabric,1.19,meters
+M-SLIM-LIGHT,28,Pocketing Fabric,0.29,meters
+M-SLIM-LIGHT,28,Thread,148.05,meters
+M-SLIM-LIGHT,28,Button,1.0,pieces
+M-SLIM-LIGHT,28,Zipper,1.0,pieces
+M-SLIM-LIGHT,28,Rivets,6.0,pieces
+M-SLIM-LIGHT,28,Label,2.0,pieces
+M-SLIM-LIGHT,30,Denim Fabric,1.26,meters
+M-SLIM-LIGHT,30,Pocketing Fabric,0.32,meters
+M-SLIM-LIGHT,30,Thread,157.5,meters
+M-SLIM-LIGHT,30,Button,1.0,pieces
+M-SLIM-LIGHT,30,Zipper,1.0,pieces
+M-SLIM-LIGHT,30,Rivets,6.0,pieces
+M-SLIM-LIGHT,30,Label,2.0,pieces
+M-SLIM-LIGHT,32,Denim Fabric,1.33,meters
+M-SLIM-LIGHT,32,Pocketing Fabric,0.34,meters
+M-SLIM-LIGHT,32,Thread,166.95,meters
+M-SLIM-LIGHT,32,Button,1.0,pieces
+M-SLIM-LIGHT,32,Zipper,1.0,pieces
+M-SLIM-LIGHT,32,Rivets,6.0,pieces
+M-SLIM-LIGHT,32,Label,2.0,pieces
+M-SLIM-LIGHT,34,Denim Fabric,1.41,meters
+M-SLIM-LIGHT,34,Pocketing Fabric,0.36,meters
+M-SLIM-LIGHT,34,Thread,176.4,meters
+M-SLIM-LIGHT,34,Button,1.0,pieces
+M-SLIM-LIGHT,34,Zipper,1.0,pieces
+M-SLIM-LIGHT,34,Rivets,6.0,pieces
+M-SLIM-LIGHT,34,Label,2.0,pieces
+M-SLIM-LIGHT,36,Denim Fabric,1.49,meters
+M-SLIM-LIGHT,36,Pocketing Fabric,0.37,meters
+M-SLIM-LIGHT,36,Thread,185.85,meters
+M-SLIM-LIGHT,36,Button,1.0,pieces
+M-SLIM-LIGHT,36,Zipper,1.0,pieces
+M-SLIM-LIGHT,36,Rivets,6.0,pieces
+M-SLIM-LIGHT,36,Label,2.0,pieces
+M-SLIM-LIGHT,38,Denim Fabric,1.56,meters
+M-SLIM-LIGHT,38,Pocketing Fabric,0.39,meters
+M-SLIM-LIGHT,38,Thread,195.3,meters
+M-SLIM-LIGHT,38,Button,1.0,pieces
+M-SLIM-LIGHT,38,Zipper,1.0,pieces
+M-SLIM-LIGHT,38,Rivets,6.0,pieces
+M-SLIM-LIGHT,38,Label,2.0,pieces
+M-SLIM-LIGHT,40,Denim Fabric,1.64,meters
+M-SLIM-LIGHT,40,Pocketing Fabric,0.41,meters
+M-SLIM-LIGHT,40,Thread,204.75,meters
+M-SLIM-LIGHT,40,Button,1.0,pieces
+M-SLIM-LIGHT,40,Zipper,1.0,pieces
+M-SLIM-LIGHT,40,Rivets,6.0,pieces
+M-SLIM-LIGHT,40,Label,2.0,pieces
+M-SLIM-LIGHT,42,Denim Fabric,1.71,meters
+M-SLIM-LIGHT,42,Pocketing Fabric,0.43,meters
+M-SLIM-LIGHT,42,Thread,214.2,meters
+M-SLIM-LIGHT,42,Button,1.0,pieces
+M-SLIM-LIGHT,42,Zipper,1.0,pieces
+M-SLIM-LIGHT,42,Rivets,6.0,pieces
+M-SLIM-LIGHT,42,Label,2.0,pieces
+M-SLIM-MEDIUM,18,Denim Fabric,0.81,meters
+M-SLIM-MEDIUM,18,Pocketing Fabric,0.2,meters
+M-SLIM-MEDIUM,18,Thread,100.8,meters
+M-SLIM-MEDIUM,18,Button,1.0,pieces
+M-SLIM-MEDIUM,18,Zipper,1.0,pieces
+M-SLIM-MEDIUM,18,Rivets,6.0,pieces
+M-SLIM-MEDIUM,18,Label,2.0,pieces
+M-SLIM-MEDIUM,20,Denim Fabric,0.88,meters
+M-SLIM-MEDIUM,20,Pocketing Fabric,0.22,meters
+M-SLIM-MEDIUM,20,Thread,110.25,meters
+M-SLIM-MEDIUM,20,Button,1.0,pieces
+M-SLIM-MEDIUM,20,Zipper,1.0,pieces
+M-SLIM-MEDIUM,20,Rivets,6.0,pieces
+M-SLIM-MEDIUM,20,Label,2.0,pieces
+M-SLIM-MEDIUM,22,Denim Fabric,0.96,meters
+M-SLIM-MEDIUM,22,Pocketing Fabric,0.24,meters
+M-SLIM-MEDIUM,22,Thread,119.7,meters
+M-SLIM-MEDIUM,22,Button,1.0,pieces
+M-SLIM-MEDIUM,22,Zipper,1.0,pieces
+M-SLIM-MEDIUM,22,Rivets,6.0,pieces
+M-SLIM-MEDIUM,22,Label,2.0,pieces
+M-SLIM-MEDIUM,24,Denim Fabric,1.03,meters
+M-SLIM-MEDIUM,24,Pocketing Fabric,0.26,meters
+M-SLIM-MEDIUM,24,Thread,129.15,meters
+M-SLIM-MEDIUM,24,Button,1.0,pieces
+M-SLIM-MEDIUM,24,Zipper,1.0,pieces
+M-SLIM-MEDIUM,24,Rivets,6.0,pieces
+M-SLIM-MEDIUM,24,Label,2.0,pieces
+M-SLIM-MEDIUM,26,Denim Fabric,1.11,meters
+M-SLIM-MEDIUM,26,Pocketing Fabric,0.27,meters
+M-SLIM-MEDIUM,26,Thread,138.6,meters
+M-SLIM-MEDIUM,26,Button,1.0,pieces
+M-SLIM-MEDIUM,26,Zipper,1.0,pieces
+M-SLIM-MEDIUM,26,Rivets,6.0,pieces
+M-SLIM-MEDIUM,26,Label,2.0,pieces
+M-SLIM-MEDIUM,28,Denim Fabric,1.19,meters
+M-SLIM-MEDIUM,28,Pocketing Fabric,0.29,meters
+M-SLIM-MEDIUM,28,Thread,148.05,meters
+M-SLIM-MEDIUM,28,Button,1.0,pieces
+M-SLIM-MEDIUM,28,Zipper,1.0,pieces
+M-SLIM-MEDIUM,28,Rivets,6.0,pieces
+M-SLIM-MEDIUM,28,Label,2.0,pieces
+M-SLIM-MEDIUM,30,Denim Fabric,1.26,meters
+M-SLIM-MEDIUM,30,Pocketing Fabric,0.32,meters
+M-SLIM-MEDIUM,30,Thread,157.5,meters
+M-SLIM-MEDIUM,30,Button,1.0,pieces
+M-SLIM-MEDIUM,30,Zipper,1.0,pieces
+M-SLIM-MEDIUM,30,Rivets,6.0,pieces
+M-SLIM-MEDIUM,30,Label,2.0,pieces
+M-SLIM-MEDIUM,32,Denim Fabric,1.33,meters
+M-SLIM-MEDIUM,32,Pocketing Fabric,0.34,meters
+M-SLIM-MEDIUM,32,Thread,166.95,meters
+M-SLIM-MEDIUM,32,Button,1.0,pieces
+M-SLIM-MEDIUM,32,Zipper,1.0,pieces
+M-SLIM-MEDIUM,32,Rivets,6.0,pieces
+M-SLIM-MEDIUM,32,Label,2.0,pieces
+M-SLIM-MEDIUM,34,Denim Fabric,1.41,meters
+M-SLIM-MEDIUM,34,Pocketing Fabric,0.36,meters
+M-SLIM-MEDIUM,34,Thread,176.4,meters
+M-SLIM-MEDIUM,34,Button,1.0,pieces
+M-SLIM-MEDIUM,34,Zipper,1.0,pieces
+M-SLIM-MEDIUM,34,Rivets,6.0,pieces
+M-SLIM-MEDIUM,34,Label,2.0,pieces
+M-SLIM-MEDIUM,36,Denim Fabric,1.49,meters
+M-SLIM-MEDIUM,36,Pocketing Fabric,0.37,meters
+M-SLIM-MEDIUM,36,Thread,185.85,meters
+M-SLIM-MEDIUM,36,Button,1.0,pieces
+M-SLIM-MEDIUM,36,Zipper,1.0,pieces
+M-SLIM-MEDIUM,36,Rivets,6.0,pieces
+M-SLIM-MEDIUM,36,Label,2.0,pieces
+M-SLIM-MEDIUM,38,Denim Fabric,1.56,meters
+M-SLIM-MEDIUM,38,Pocketing Fabric,0.39,meters
+M-SLIM-MEDIUM,38,Thread,195.3,meters
+M-SLIM-MEDIUM,38,Button,1.0,pieces
+M-SLIM-MEDIUM,38,Zipper,1.0,pieces
+M-SLIM-MEDIUM,38,Rivets,6.0,pieces
+M-SLIM-MEDIUM,38,Label,2.0,pieces
+M-SLIM-MEDIUM,40,Denim Fabric,1.64,meters
+M-SLIM-MEDIUM,40,Pocketing Fabric,0.41,meters
+M-SLIM-MEDIUM,40,Thread,204.75,meters
+M-SLIM-MEDIUM,40,Button,1.0,pieces
+M-SLIM-MEDIUM,40,Zipper,1.0,pieces
+M-SLIM-MEDIUM,40,Rivets,6.0,pieces
+M-SLIM-MEDIUM,40,Label,2.0,pieces
+M-SLIM-MEDIUM,42,Denim Fabric,1.71,meters
+M-SLIM-MEDIUM,42,Pocketing Fabric,0.43,meters
+M-SLIM-MEDIUM,42,Thread,214.2,meters
+M-SLIM-MEDIUM,42,Button,1.0,pieces
+M-SLIM-MEDIUM,42,Zipper,1.0,pieces
+M-SLIM-MEDIUM,42,Rivets,6.0,pieces
+M-SLIM-MEDIUM,42,Label,2.0,pieces
+M-SLIM-DARK,18,Denim Fabric,0.81,meters
+M-SLIM-DARK,18,Pocketing Fabric,0.2,meters
+M-SLIM-DARK,18,Thread,100.8,meters
+M-SLIM-DARK,18,Button,1.0,pieces
+M-SLIM-DARK,18,Zipper,1.0,pieces
+M-SLIM-DARK,18,Rivets,6.0,pieces
+M-SLIM-DARK,18,Label,2.0,pieces
+M-SLIM-DARK,20,Denim Fabric,0.88,meters
+M-SLIM-DARK,20,Pocketing Fabric,0.22,meters
+M-SLIM-DARK,20,Thread,110.25,meters
+M-SLIM-DARK,20,Button,1.0,pieces
+M-SLIM-DARK,20,Zipper,1.0,pieces
+M-SLIM-DARK,20,Rivets,6.0,pieces
+M-SLIM-DARK,20,Label,2.0,pieces
+M-SLIM-DARK,22,Denim Fabric,0.96,meters
+M-SLIM-DARK,22,Pocketing Fabric,0.24,meters
+M-SLIM-DARK,22,Thread,119.7,meters
+M-SLIM-DARK,22,Button,1.0,pieces
+M-SLIM-DARK,22,Zipper,1.0,pieces
+M-SLIM-DARK,22,Rivets,6.0,pieces
+M-SLIM-DARK,22,Label,2.0,pieces
+M-SLIM-DARK,24,Denim Fabric,1.03,meters
+M-SLIM-DARK,24,Pocketing Fabric,0.26,meters
+M-SLIM-DARK,24,Thread,129.15,meters
+M-SLIM-DARK,24,Button,1.0,pieces
+M-SLIM-DARK,24,Zipper,1.0,pieces
+M-SLIM-DARK,24,Rivets,6.0,pieces
+M-SLIM-DARK,24,Label,2.0,pieces
+M-SLIM-DARK,26,Denim Fabric,1.11,meters
+M-SLIM-DARK,26,Pocketing Fabric,0.27,meters
+M-SLIM-DARK,26,Thread,138.6,meters
+M-SLIM-DARK,26,Button,1.0,pieces
+M-SLIM-DARK,26,Zipper,1.0,pieces
+M-SLIM-DARK,26,Rivets,6.0,pieces
+M-SLIM-DARK,26,Label,2.0,pieces
+M-SLIM-DARK,28,Denim Fabric,1.19,meters
+M-SLIM-DARK,28,Pocketing Fabric,0.29,meters
+M-SLIM-DARK,28,Thread,148.05,meters
+M-SLIM-DARK,28,Button,1.0,pieces
+M-SLIM-DARK,28,Zipper,1.0,pieces
+M-SLIM-DARK,28,Rivets,6.0,pieces
+M-SLIM-DARK,28,Label,2.0,pieces
+M-SLIM-DARK,30,Denim Fabric,1.26,meters
+M-SLIM-DARK,30,Pocketing Fabric,0.32,meters
+M-SLIM-DARK,30,Thread,157.5,meters
+M-SLIM-DARK,30,Button,1.0,pieces
+M-SLIM-DARK,30,Zipper,1.0,pieces
+M-SLIM-DARK,30,Rivets,6.0,pieces
+M-SLIM-DARK,30,Label,2.0,pieces
+M-SLIM-DARK,32,Denim Fabric,1.33,meters
+M-SLIM-DARK,32,Pocketing Fabric,0.34,meters
+M-SLIM-DARK,32,Thread,166.95,meters
+M-SLIM-DARK,32,Button,1.0,pieces
+M-SLIM-DARK,32,Zipper,1.0,pieces
+M-SLIM-DARK,32,Rivets,6.0,pieces
+M-SLIM-DARK,32,Label,2.0,pieces
+M-SLIM-DARK,34,Denim Fabric,1.41,meters
+M-SLIM-DARK,34,Pocketing Fabric,0.36,meters
+M-SLIM-DARK,34,Thread,176.4,meters
+M-SLIM-DARK,34,Button,1.0,pieces
+M-SLIM-DARK,34,Zipper,1.0,pieces
+M-SLIM-DARK,34,Rivets,6.0,pieces
+M-SLIM-DARK,34,Label,2.0,pieces
+M-SLIM-DARK,36,Denim Fabric,1.49,meters
+M-SLIM-DARK,36,Pocketing Fabric,0.37,meters
+M-SLIM-DARK,36,Thread,185.85,meters
+M-SLIM-DARK,36,Button,1.0,pieces
+M-SLIM-DARK,36,Zipper,1.0,pieces
+M-SLIM-DARK,36,Rivets,6.0,pieces
+M-SLIM-DARK,36,Label,2.0,pieces
+M-SLIM-DARK,38,Denim Fabric,1.56,meters
+M-SLIM-DARK,38,Pocketing Fabric,0.39,meters
+M-SLIM-DARK,38,Thread,195.3,meters
+M-SLIM-DARK,38,Button,1.0,pieces
+M-SLIM-DARK,38,Zipper,1.0,pieces
+M-SLIM-DARK,38,Rivets,6.0,pieces
+M-SLIM-DARK,38,Label,2.0,pieces
+M-SLIM-DARK,40,Denim Fabric,1.64,meters
+M-SLIM-DARK,40,Pocketing Fabric,0.41,meters
+M-SLIM-DARK,40,Thread,204.75,meters
+M-SLIM-DARK,40,Button,1.0,pieces
+M-SLIM-DARK,40,Zipper,1.0,pieces
+M-SLIM-DARK,40,Rivets,6.0,pieces
+M-SLIM-DARK,40,Label,2.0,pieces
+M-SLIM-DARK,42,Denim Fabric,1.71,meters
+M-SLIM-DARK,42,Pocketing Fabric,0.43,meters
+M-SLIM-DARK,42,Thread,214.2,meters
+M-SLIM-DARK,42,Button,1.0,pieces
+M-SLIM-DARK,42,Zipper,1.0,pieces
+M-SLIM-DARK,42,Rivets,6.0,pieces
+M-SLIM-DARK,42,Label,2.0,pieces
+M-SLIM-BLACK,18,Denim Fabric,0.81,meters
+M-SLIM-BLACK,18,Pocketing Fabric,0.2,meters
+M-SLIM-BLACK,18,Thread,100.8,meters
+M-SLIM-BLACK,18,Button,1.0,pieces
+M-SLIM-BLACK,18,Zipper,1.0,pieces
+M-SLIM-BLACK,18,Rivets,6.0,pieces
+M-SLIM-BLACK,18,Label,2.0,pieces
+M-SLIM-BLACK,20,Denim Fabric,0.88,meters
+M-SLIM-BLACK,20,Pocketing Fabric,0.22,meters
+M-SLIM-BLACK,20,Thread,110.25,meters
+M-SLIM-BLACK,20,Button,1.0,pieces
+M-SLIM-BLACK,20,Zipper,1.0,pieces
+M-SLIM-BLACK,20,Rivets,6.0,pieces
+M-SLIM-BLACK,20,Label,2.0,pieces
+M-SLIM-BLACK,22,Denim Fabric,0.96,meters
+M-SLIM-BLACK,22,Pocketing Fabric,0.24,meters
+M-SLIM-BLACK,22,Thread,119.7,meters
+M-SLIM-BLACK,22,Button,1.0,pieces
+M-SLIM-BLACK,22,Zipper,1.0,pieces
+M-SLIM-BLACK,22,Rivets,6.0,pieces
+M-SLIM-BLACK,22,Label,2.0,pieces
+M-SLIM-BLACK,24,Denim Fabric,1.03,meters
+M-SLIM-BLACK,24,Pocketing Fabric,0.26,meters
+M-SLIM-BLACK,24,Thread,129.15,meters
+M-SLIM-BLACK,24,Button,1.0,pieces
+M-SLIM-BLACK,24,Zipper,1.0,pieces
+M-SLIM-BLACK,24,Rivets,6.0,pieces
+M-SLIM-BLACK,24,Label,2.0,pieces
+M-SLIM-BLACK,26,Denim Fabric,1.11,meters
+M-SLIM-BLACK,26,Pocketing Fabric,0.27,meters
+M-SLIM-BLACK,26,Thread,138.6,meters
+M-SLIM-BLACK,26,Button,1.0,pieces
+M-SLIM-BLACK,26,Zipper,1.0,pieces
+M-SLIM-BLACK,26,Rivets,6.0,pieces
+M-SLIM-BLACK,26,Label,2.0,pieces
+M-SLIM-BLACK,28,Denim Fabric,1.19,meters
+M-SLIM-BLACK,28,Pocketing Fabric,0.29,meters
+M-SLIM-BLACK,28,Thread,148.05,meters
+M-SLIM-BLACK,28,Button,1.0,pieces
+M-SLIM-BLACK,28,Zipper,1.0,pieces
+M-SLIM-BLACK,28,Rivets,6.0,pieces
+M-SLIM-BLACK,28,Label,2.0,pieces
+M-SLIM-BLACK,30,Denim Fabric,1.26,meters
+M-SLIM-BLACK,30,Pocketing Fabric,0.32,meters
+M-SLIM-BLACK,30,Thread,157.5,meters
+M-SLIM-BLACK,30,Button,1.0,pieces
+M-SLIM-BLACK,30,Zipper,1.0,pieces
+M-SLIM-BLACK,30,Rivets,6.0,pieces
+M-SLIM-BLACK,30,Label,2.0,pieces
+M-SLIM-BLACK,32,Denim Fabric,1.33,meters
+M-SLIM-BLACK,32,Pocketing Fabric,0.34,meters
+M-SLIM-BLACK,32,Thread,166.95,meters
+M-SLIM-BLACK,32,Button,1.0,pieces
+M-SLIM-BLACK,32,Zipper,1.0,pieces
+M-SLIM-BLACK,32,Rivets,6.0,pieces
+M-SLIM-BLACK,32,Label,2.0,pieces
+M-SLIM-BLACK,34,Denim Fabric,1.41,meters
+M-SLIM-BLACK,34,Pocketing Fabric,0.36,meters
+M-SLIM-BLACK,34,Thread,176.4,meters
+M-SLIM-BLACK,34,Button,1.0,pieces
+M-SLIM-BLACK,34,Zipper,1.0,pieces
+M-SLIM-BLACK,34,Rivets,6.0,pieces
+M-SLIM-BLACK,34,Label,2.0,pieces
+M-SLIM-BLACK,36,Denim Fabric,1.49,meters
+M-SLIM-BLACK,36,Pocketing Fabric,0.37,meters
+M-SLIM-BLACK,36,Thread,185.85,meters
+M-SLIM-BLACK,36,Button,1.0,pieces
+M-SLIM-BLACK,36,Zipper,1.0,pieces
+M-SLIM-BLACK,36,Rivets,6.0,pieces
+M-SLIM-BLACK,36,Label,2.0,pieces
+M-SLIM-BLACK,38,Denim Fabric,1.56,meters
+M-SLIM-BLACK,38,Pocketing Fabric,0.39,meters
+M-SLIM-BLACK,38,Thread,195.3,meters
+M-SLIM-BLACK,38,Button,1.0,pieces
+M-SLIM-BLACK,38,Zipper,1.0,pieces
+M-SLIM-BLACK,38,Rivets,6.0,pieces
+M-SLIM-BLACK,38,Label,2.0,pieces
+M-SLIM-BLACK,40,Denim Fabric,1.64,meters
+M-SLIM-BLACK,40,Pocketing Fabric,0.41,meters
+M-SLIM-BLACK,40,Thread,204.75,meters
+M-SLIM-BLACK,40,Button,1.0,pieces
+M-SLIM-BLACK,40,Zipper,1.0,pieces
+M-SLIM-BLACK,40,Rivets,6.0,pieces
+M-SLIM-BLACK,40,Label,2.0,pieces
+M-SLIM-BLACK,42,Denim Fabric,1.71,meters
+M-SLIM-BLACK,42,Pocketing Fabric,0.43,meters
+M-SLIM-BLACK,42,Thread,214.2,meters
+M-SLIM-BLACK,42,Button,1.0,pieces
+M-SLIM-BLACK,42,Zipper,1.0,pieces
+M-SLIM-BLACK,42,Rivets,6.0,pieces
+M-SLIM-BLACK,42,Label,2.0,pieces
+M-REGULAR-LIGHT,18,Denim Fabric,0.81,meters
+M-REGULAR-LIGHT,18,Pocketing Fabric,0.2,meters
+M-REGULAR-LIGHT,18,Thread,100.8,meters
+M-REGULAR-LIGHT,18,Button,1.0,pieces
+M-REGULAR-LIGHT,18,Zipper,1.0,pieces
+M-REGULAR-LIGHT,18,Rivets,6.0,pieces
+M-REGULAR-LIGHT,18,Label,2.0,pieces
+M-REGULAR-LIGHT,20,Denim Fabric,0.88,meters
+M-REGULAR-LIGHT,20,Pocketing Fabric,0.22,meters
+M-REGULAR-LIGHT,20,Thread,110.25,meters
+M-REGULAR-LIGHT,20,Button,1.0,pieces
+M-REGULAR-LIGHT,20,Zipper,1.0,pieces
+M-REGULAR-LIGHT,20,Rivets,6.0,pieces
+M-REGULAR-LIGHT,20,Label,2.0,pieces
+M-REGULAR-LIGHT,22,Denim Fabric,0.96,meters
+M-REGULAR-LIGHT,22,Pocketing Fabric,0.24,meters
+M-REGULAR-LIGHT,22,Thread,119.7,meters
+M-REGULAR-LIGHT,22,Button,1.0,pieces
+M-REGULAR-LIGHT,22,Zipper,1.0,pieces
+M-REGULAR-LIGHT,22,Rivets,6.0,pieces
+M-REGULAR-LIGHT,22,Label,2.0,pieces
+M-REGULAR-LIGHT,24,Denim Fabric,1.03,meters
+M-REGULAR-LIGHT,24,Pocketing Fabric,0.26,meters
+M-REGULAR-LIGHT,24,Thread,129.15,meters
+M-REGULAR-LIGHT,24,Button,1.0,pieces
+M-REGULAR-LIGHT,24,Zipper,1.0,pieces
+M-REGULAR-LIGHT,24,Rivets,6.0,pieces
+M-REGULAR-LIGHT,24,Label,2.0,pieces
+M-REGULAR-LIGHT,26,Denim Fabric,1.11,meters
+M-REGULAR-LIGHT,26,Pocketing Fabric,0.27,meters
+M-REGULAR-LIGHT,26,Thread,138.6,meters
+M-REGULAR-LIGHT,26,Button,1.0,pieces
+M-REGULAR-LIGHT,26,Zipper,1.0,pieces
+M-REGULAR-LIGHT,26,Rivets,6.0,pieces
+M-REGULAR-LIGHT,26,Label,2.0,pieces
+M-REGULAR-LIGHT,28,Denim Fabric,1.19,meters
+M-REGULAR-LIGHT,28,Pocketing Fabric,0.29,meters
+M-REGULAR-LIGHT,28,Thread,148.05,meters
+M-REGULAR-LIGHT,28,Button,1.0,pieces
+M-REGULAR-LIGHT,28,Zipper,1.0,pieces
+M-REGULAR-LIGHT,28,Rivets,6.0,pieces
+M-REGULAR-LIGHT,28,Label,2.0,pieces
+M-REGULAR-LIGHT,30,Denim Fabric,1.26,meters
+M-REGULAR-LIGHT,30,Pocketing Fabric,0.32,meters
+M-REGULAR-LIGHT,30,Thread,157.5,meters
+M-REGULAR-LIGHT,30,Button,1.0,pieces
+M-REGULAR-LIGHT,30,Zipper,1.0,pieces
+M-REGULAR-LIGHT,30,Rivets,6.0,pieces
+M-REGULAR-LIGHT,30,Label,2.0,pieces
+M-REGULAR-LIGHT,32,Denim Fabric,1.33,meters
+M-REGULAR-LIGHT,32,Pocketing Fabric,0.34,meters
+M-REGULAR-LIGHT,32,Thread,166.95,meters
+M-REGULAR-LIGHT,32,Button,1.0,pieces
+M-REGULAR-LIGHT,32,Zipper,1.0,pieces
+M-REGULAR-LIGHT,32,Rivets,6.0,pieces
+M-REGULAR-LIGHT,32,Label,2.0,pieces
+M-REGULAR-LIGHT,34,Denim Fabric,1.41,meters
+M-REGULAR-LIGHT,34,Pocketing Fabric,0.36,meters
+M-REGULAR-LIGHT,34,Thread,176.4,meters
+M-REGULAR-LIGHT,34,Button,1.0,pieces
+M-REGULAR-LIGHT,34,Zipper,1.0,pieces
+M-REGULAR-LIGHT,34,Rivets,6.0,pieces
+M-REGULAR-LIGHT,34,Label,2.0,pieces
+M-REGULAR-LIGHT,36,Denim Fabric,1.49,meters
+M-REGULAR-LIGHT,36,Pocketing Fabric,0.37,meters
+M-REGULAR-LIGHT,36,Thread,185.85,meters
+M-REGULAR-LIGHT,36,Button,1.0,pieces
+M-REGULAR-LIGHT,36,Zipper,1.0,pieces
+M-REGULAR-LIGHT,36,Rivets,6.0,pieces
+M-REGULAR-LIGHT,36,Label,2.0,pieces
+M-REGULAR-LIGHT,38,Denim Fabric,1.56,meters
+M-REGULAR-LIGHT,38,Pocketing Fabric,0.39,meters
+M-REGULAR-LIGHT,38,Thread,195.3,meters
+M-REGULAR-LIGHT,38,Button,1.0,pieces
+M-REGULAR-LIGHT,38,Zipper,1.0,pieces
+M-REGULAR-LIGHT,38,Rivets,6.0,pieces
+M-REGULAR-LIGHT,38,Label,2.0,pieces
+M-REGULAR-LIGHT,40,Denim Fabric,1.64,meters
+M-REGULAR-LIGHT,40,Pocketing Fabric,0.41,meters
+M-REGULAR-LIGHT,40,Thread,204.75,meters
+M-REGULAR-LIGHT,40,Button,1.0,pieces
+M-REGULAR-LIGHT,40,Zipper,1.0,pieces
+M-REGULAR-LIGHT,40,Rivets,6.0,pieces
+M-REGULAR-LIGHT,40,Label,2.0,pieces
+M-REGULAR-LIGHT,42,Denim Fabric,1.71,meters
+M-REGULAR-LIGHT,42,Pocketing Fabric,0.43,meters
+M-REGULAR-LIGHT,42,Thread,214.2,meters
+M-REGULAR-LIGHT,42,Button,1.0,pieces
+M-REGULAR-LIGHT,42,Zipper,1.0,pieces
+M-REGULAR-LIGHT,42,Rivets,6.0,pieces
+M-REGULAR-LIGHT,42,Label,2.0,pieces
+M-REGULAR-MEDIUM,18,Denim Fabric,0.81,meters
+M-REGULAR-MEDIUM,18,Pocketing Fabric,0.2,meters
+M-REGULAR-MEDIUM,18,Thread,100.8,meters
+M-REGULAR-MEDIUM,18,Button,1.0,pieces
+M-REGULAR-MEDIUM,18,Zipper,1.0,pieces
+M-REGULAR-MEDIUM,18,Rivets,6.0,pieces
+M-REGULAR-MEDIUM,18,Label,2.0,pieces
+M-REGULAR-MEDIUM,20,Denim Fabric,0.88,meters
+M-REGULAR-MEDIUM,20,Pocketing Fabric,0.22,meters
+M-REGULAR-MEDIUM,20,Thread,110.25,meters
+M-REGULAR-MEDIUM,20,Button,1.0,pieces
+M-REGULAR-MEDIUM,20,Zipper,1.0,pieces
+M-REGULAR-MEDIUM,20,Rivets,6.0,pieces
+M-REGULAR-MEDIUM,20,Label,2.0,pieces
+M-REGULAR-MEDIUM,22,Denim Fabric,0.96,meters
+M-REGULAR-MEDIUM,22,Pocketing Fabric,0.24,meters
+M-REGULAR-MEDIUM,22,Thread,119.7,meters
+M-REGULAR-MEDIUM,22,Button,1.0,pieces
+M-REGULAR-MEDIUM,22,Zipper,1.0,pieces
+M-REGULAR-MEDIUM,22,Rivets,6.0,pieces
+M-REGULAR-MEDIUM,22,Label,2.0,pieces
+M-REGULAR-MEDIUM,24,Denim Fabric,1.03,meters
+M-REGULAR-MEDIUM,24,Pocketing Fabric,0.26,meters
+M-REGULAR-MEDIUM,24,Thread,129.15,meters
+M-REGULAR-MEDIUM,24,Button,1.0,pieces
+M-REGULAR-MEDIUM,24,Zipper,1.0,pieces
+M-REGULAR-MEDIUM,24,Rivets,6.0,pieces
+M-REGULAR-MEDIUM,24,Label,2.0,pieces
+M-REGULAR-MEDIUM,26,Denim Fabric,1.11,meters
+M-REGULAR-MEDIUM,26,Pocketing Fabric,0.27,meters
+M-REGULAR-MEDIUM,26,Thread,138.6,meters
+M-REGULAR-MEDIUM,26,Button,1.0,pieces
+M-REGULAR-MEDIUM,26,Zipper,1.0,pieces
+M-REGULAR-MEDIUM,26,Rivets,6.0,pieces
+M-REGULAR-MEDIUM,26,Label,2.0,pieces
+M-REGULAR-MEDIUM,28,Denim Fabric,1.19,meters
+M-REGULAR-MEDIUM,28,Pocketing Fabric,0.29,meters
+M-REGULAR-MEDIUM,28,Thread,148.05,meters
+M-REGULAR-MEDIUM,28,Button,1.0,pieces
+M-REGULAR-MEDIUM,28,Zipper,1.0,pieces
+M-REGULAR-MEDIUM,28,Rivets,6.0,pieces
+M-REGULAR-MEDIUM,28,Label,2.0,pieces
+M-REGULAR-MEDIUM,30,Denim Fabric,1.26,meters
+M-REGULAR-MEDIUM,30,Pocketing Fabric,0.32,meters
+M-REGULAR-MEDIUM,30,Thread,157.5,meters
+M-REGULAR-MEDIUM,30,Button,1.0,pieces
+M-REGULAR-MEDIUM,30,Zipper,1.0,pieces
+M-REGULAR-MEDIUM,30,Rivets,6.0,pieces
+M-REGULAR-MEDIUM,30,Label,2.0,pieces
+M-REGULAR-MEDIUM,32,Denim Fabric,1.33,meters
+M-REGULAR-MEDIUM,32,Pocketing Fabric,0.34,meters
+M-REGULAR-MEDIUM,32,Thread,166.95,meters
+M-REGULAR-MEDIUM,32,Button,1.0,pieces
+M-REGULAR-MEDIUM,32,Zipper,1.0,pieces
+M-REGULAR-MEDIUM,32,Rivets,6.0,pieces
+M-REGULAR-MEDIUM,32,Label,2.0,pieces
+M-REGULAR-MEDIUM,34,Denim Fabric,1.41,meters
+M-REGULAR-MEDIUM,34,Pocketing Fabric,0.36,meters
+M-REGULAR-MEDIUM,34,Thread,176.4,meters
+M-REGULAR-MEDIUM,34,Button,1.0,pieces
+M-REGULAR-MEDIUM,34,Zipper,1.0,pieces
+M-REGULAR-MEDIUM,34,Rivets,6.0,pieces
+M-REGULAR-MEDIUM,34,Label,2.0,pieces
+M-REGULAR-MEDIUM,36,Denim Fabric,1.49,meters
+M-REGULAR-MEDIUM,36,Pocketing Fabric,0.37,meters
+M-REGULAR-MEDIUM,36,Thread,185.85,meters
+M-REGULAR-MEDIUM,36,Button,1.0,pieces
+M-REGULAR-MEDIUM,36,Zipper,1.0,pieces
+M-REGULAR-MEDIUM,36,Rivets,6.0,pieces
+M-REGULAR-MEDIUM,36,Label,2.0,pieces
+M-REGULAR-MEDIUM,38,Denim Fabric,1.56,meters
+M-REGULAR-MEDIUM,38,Pocketing Fabric,0.39,meters
+M-REGULAR-MEDIUM,38,Thread,195.3,meters
+M-REGULAR-MEDIUM,38,Button,1.0,pieces
+M-REGULAR-MEDIUM,38,Zipper,1.0,pieces
+M-REGULAR-MEDIUM,38,Rivets,6.0,pieces
+M-REGULAR-MEDIUM,38,Label,2.0,pieces
+M-REGULAR-MEDIUM,40,Denim Fabric,1.64,meters
+M-REGULAR-MEDIUM,40,Pocketing Fabric,0.41,meters
+M-REGULAR-MEDIUM,40,Thread,204.75,meters
+M-REGULAR-MEDIUM,40,Button,1.0,pieces
+M-REGULAR-MEDIUM,40,Zipper,1.0,pieces
+M-REGULAR-MEDIUM,40,Rivets,6.0,pieces
+M-REGULAR-MEDIUM,40,Label,2.0,pieces
+M-REGULAR-MEDIUM,42,Denim Fabric,1.71,meters
+M-REGULAR-MEDIUM,42,Pocketing Fabric,0.43,meters
+M-REGULAR-MEDIUM,42,Thread,214.2,meters
+M-REGULAR-MEDIUM,42,Button,1.0,pieces
+M-REGULAR-MEDIUM,42,Zipper,1.0,pieces
+M-REGULAR-MEDIUM,42,Rivets,6.0,pieces
+M-REGULAR-MEDIUM,42,Label,2.0,pieces
+M-REGULAR-DARK,18,Denim Fabric,0.81,meters
+M-REGULAR-DARK,18,Pocketing Fabric,0.2,meters
+M-REGULAR-DARK,18,Thread,100.8,meters
+M-REGULAR-DARK,18,Button,1.0,pieces
+M-REGULAR-DARK,18,Zipper,1.0,pieces
+M-REGULAR-DARK,18,Rivets,6.0,pieces
+M-REGULAR-DARK,18,Label,2.0,pieces
+M-REGULAR-DARK,20,Denim Fabric,0.88,meters
+M-REGULAR-DARK,20,Pocketing Fabric,0.22,meters
+M-REGULAR-DARK,20,Thread,110.25,meters
+M-REGULAR-DARK,20,Button,1.0,pieces
+M-REGULAR-DARK,20,Zipper,1.0,pieces
+M-REGULAR-DARK,20,Rivets,6.0,pieces
+M-REGULAR-DARK,20,Label,2.0,pieces
+M-REGULAR-DARK,22,Denim Fabric,0.96,meters
+M-REGULAR-DARK,22,Pocketing Fabric,0.24,meters
+M-REGULAR-DARK,22,Thread,119.7,meters
+M-REGULAR-DARK,22,Button,1.0,pieces
+M-REGULAR-DARK,22,Zipper,1.0,pieces
+M-REGULAR-DARK,22,Rivets,6.0,pieces
+M-REGULAR-DARK,22,Label,2.0,pieces
+M-REGULAR-DARK,24,Denim Fabric,1.03,meters
+M-REGULAR-DARK,24,Pocketing Fabric,0.26,meters
+M-REGULAR-DARK,24,Thread,129.15,meters
+M-REGULAR-DARK,24,Button,1.0,pieces
+M-REGULAR-DARK,24,Zipper,1.0,pieces
+M-REGULAR-DARK,24,Rivets,6.0,pieces
+M-REGULAR-DARK,24,Label,2.0,pieces
+M-REGULAR-DARK,26,Denim Fabric,1.11,meters
+M-REGULAR-DARK,26,Pocketing Fabric,0.27,meters
+M-REGULAR-DARK,26,Thread,138.6,meters
+M-REGULAR-DARK,26,Button,1.0,pieces
+M-REGULAR-DARK,26,Zipper,1.0,pieces
+M-REGULAR-DARK,26,Rivets,6.0,pieces
+M-REGULAR-DARK,26,Label,2.0,pieces
+M-REGULAR-DARK,28,Denim Fabric,1.19,meters
+M-REGULAR-DARK,28,Pocketing Fabric,0.29,meters
+M-REGULAR-DARK,28,Thread,148.05,meters
+M-REGULAR-DARK,28,Button,1.0,pieces
+M-REGULAR-DARK,28,Zipper,1.0,pieces
+M-REGULAR-DARK,28,Rivets,6.0,pieces
+M-REGULAR-DARK,28,Label,2.0,pieces
+M-REGULAR-DARK,30,Denim Fabric,1.26,meters
+M-REGULAR-DARK,30,Pocketing Fabric,0.32,meters
+M-REGULAR-DARK,30,Thread,157.5,meters
+M-REGULAR-DARK,30,Button,1.0,pieces
+M-REGULAR-DARK,30,Zipper,1.0,pieces
+M-REGULAR-DARK,30,Rivets,6.0,pieces
+M-REGULAR-DARK,30,Label,2.0,pieces
+M-REGULAR-DARK,32,Denim Fabric,1.33,meters
+M-REGULAR-DARK,32,Pocketing Fabric,0.34,meters
+M-REGULAR-DARK,32,Thread,166.95,meters
+M-REGULAR-DARK,32,Button,1.0,pieces
+M-REGULAR-DARK,32,Zipper,1.0,pieces
+M-REGULAR-DARK,32,Rivets,6.0,pieces
+M-REGULAR-DARK,32,Label,2.0,pieces
+M-REGULAR-DARK,34,Denim Fabric,1.41,meters
+M-REGULAR-DARK,34,Pocketing Fabric,0.36,meters
+M-REGULAR-DARK,34,Thread,176.4,meters
+M-REGULAR-DARK,34,Button,1.0,pieces
+M-REGULAR-DARK,34,Zipper,1.0,pieces
+M-REGULAR-DARK,34,Rivets,6.0,pieces
+M-REGULAR-DARK,34,Label,2.0,pieces
+M-REGULAR-DARK,36,Denim Fabric,1.49,meters
+M-REGULAR-DARK,36,Pocketing Fabric,0.37,meters
+M-REGULAR-DARK,36,Thread,185.85,meters
+M-REGULAR-DARK,36,Button,1.0,pieces
+M-REGULAR-DARK,36,Zipper,1.0,pieces
+M-REGULAR-DARK,36,Rivets,6.0,pieces
+M-REGULAR-DARK,36,Label,2.0,pieces
+M-REGULAR-DARK,38,Denim Fabric,1.56,meters
+M-REGULAR-DARK,38,Pocketing Fabric,0.39,meters
+M-REGULAR-DARK,38,Thread,195.3,meters
+M-REGULAR-DARK,38,Button,1.0,pieces
+M-REGULAR-DARK,38,Zipper,1.0,pieces
+M-REGULAR-DARK,38,Rivets,6.0,pieces
+M-REGULAR-DARK,38,Label,2.0,pieces
+M-REGULAR-DARK,40,Denim Fabric,1.64,meters
+M-REGULAR-DARK,40,Pocketing Fabric,0.41,meters
+M-REGULAR-DARK,40,Thread,204.75,meters
+M-REGULAR-DARK,40,Button,1.0,pieces
+M-REGULAR-DARK,40,Zipper,1.0,pieces
+M-REGULAR-DARK,40,Rivets,6.0,pieces
+M-REGULAR-DARK,40,Label,2.0,pieces
+M-REGULAR-DARK,42,Denim Fabric,1.71,meters
+M-REGULAR-DARK,42,Pocketing Fabric,0.43,meters
+M-REGULAR-DARK,42,Thread,214.2,meters
+M-REGULAR-DARK,42,Button,1.0,pieces
+M-REGULAR-DARK,42,Zipper,1.0,pieces
+M-REGULAR-DARK,42,Rivets,6.0,pieces
+M-REGULAR-DARK,42,Label,2.0,pieces
+M-REGULAR-BLACK,18,Denim Fabric,0.81,meters
+M-REGULAR-BLACK,18,Pocketing Fabric,0.2,meters
+M-REGULAR-BLACK,18,Thread,100.8,meters
+M-REGULAR-BLACK,18,Button,1.0,pieces
+M-REGULAR-BLACK,18,Zipper,1.0,pieces
+M-REGULAR-BLACK,18,Rivets,6.0,pieces
+M-REGULAR-BLACK,18,Label,2.0,pieces
+M-REGULAR-BLACK,20,Denim Fabric,0.88,meters
+M-REGULAR-BLACK,20,Pocketing Fabric,0.22,meters
+M-REGULAR-BLACK,20,Thread,110.25,meters
+M-REGULAR-BLACK,20,Button,1.0,pieces
+M-REGULAR-BLACK,20,Zipper,1.0,pieces
+M-REGULAR-BLACK,20,Rivets,6.0,pieces
+M-REGULAR-BLACK,20,Label,2.0,pieces
+M-REGULAR-BLACK,22,Denim Fabric,0.96,meters
+M-REGULAR-BLACK,22,Pocketing Fabric,0.24,meters
+M-REGULAR-BLACK,22,Thread,119.7,meters
+M-REGULAR-BLACK,22,Button,1.0,pieces
+M-REGULAR-BLACK,22,Zipper,1.0,pieces
+M-REGULAR-BLACK,22,Rivets,6.0,pieces
+M-REGULAR-BLACK,22,Label,2.0,pieces
+M-REGULAR-BLACK,24,Denim Fabric,1.03,meters
+M-REGULAR-BLACK,24,Pocketing Fabric,0.26,meters
+M-REGULAR-BLACK,24,Thread,129.15,meters
+M-REGULAR-BLACK,24,Button,1.0,pieces
+M-REGULAR-BLACK,24,Zipper,1.0,pieces
+M-REGULAR-BLACK,24,Rivets,6.0,pieces
+M-REGULAR-BLACK,24,Label,2.0,pieces
+M-REGULAR-BLACK,26,Denim Fabric,1.11,meters
+M-REGULAR-BLACK,26,Pocketing Fabric,0.27,meters
+M-REGULAR-BLACK,26,Thread,138.6,meters
+M-REGULAR-BLACK,26,Button,1.0,pieces
+M-REGULAR-BLACK,26,Zipper,1.0,pieces
+M-REGULAR-BLACK,26,Rivets,6.0,pieces
+M-REGULAR-BLACK,26,Label,2.0,pieces
+M-REGULAR-BLACK,28,Denim Fabric,1.19,meters
+M-REGULAR-BLACK,28,Pocketing Fabric,0.29,meters
+M-REGULAR-BLACK,28,Thread,148.05,meters
+M-REGULAR-BLACK,28,Button,1.0,pieces
+M-REGULAR-BLACK,28,Zipper,1.0,pieces
+M-REGULAR-BLACK,28,Rivets,6.0,pieces
+M-REGULAR-BLACK,28,Label,2.0,pieces
+M-REGULAR-BLACK,30,Denim Fabric,1.26,meters
+M-REGULAR-BLACK,30,Pocketing Fabric,0.32,meters
+M-REGULAR-BLACK,30,Thread,157.5,meters
+M-REGULAR-BLACK,30,Button,1.0,pieces
+M-REGULAR-BLACK,30,Zipper,1.0,pieces
+M-REGULAR-BLACK,30,Rivets,6.0,pieces
+M-REGULAR-BLACK,30,Label,2.0,pieces
+M-REGULAR-BLACK,32,Denim Fabric,1.33,meters
+M-REGULAR-BLACK,32,Pocketing Fabric,0.34,meters
+M-REGULAR-BLACK,32,Thread,166.95,meters
+M-REGULAR-BLACK,32,Button,1.0,pieces
+M-REGULAR-BLACK,32,Zipper,1.0,pieces
+M-REGULAR-BLACK,32,Rivets,6.0,pieces
+M-REGULAR-BLACK,32,Label,2.0,pieces
+M-REGULAR-BLACK,34,Denim Fabric,1.41,meters
+M-REGULAR-BLACK,34,Pocketing Fabric,0.36,meters
+M-REGULAR-BLACK,34,Thread,176.4,meters
+M-REGULAR-BLACK,34,Button,1.0,pieces
+M-REGULAR-BLACK,34,Zipper,1.0,pieces
+M-REGULAR-BLACK,34,Rivets,6.0,pieces
+M-REGULAR-BLACK,34,Label,2.0,pieces
+M-REGULAR-BLACK,36,Denim Fabric,1.49,meters
+M-REGULAR-BLACK,36,Pocketing Fabric,0.37,meters
+M-REGULAR-BLACK,36,Thread,185.85,meters
+M-REGULAR-BLACK,36,Button,1.0,pieces
+M-REGULAR-BLACK,36,Zipper,1.0,pieces
+M-REGULAR-BLACK,36,Rivets,6.0,pieces
+M-REGULAR-BLACK,36,Label,2.0,pieces
+M-REGULAR-BLACK,38,Denim Fabric,1.56,meters
+M-REGULAR-BLACK,38,Pocketing Fabric,0.39,meters
+M-REGULAR-BLACK,38,Thread,195.3,meters
+M-REGULAR-BLACK,38,Button,1.0,pieces
+M-REGULAR-BLACK,38,Zipper,1.0,pieces
+M-REGULAR-BLACK,38,Rivets,6.0,pieces
+M-REGULAR-BLACK,38,Label,2.0,pieces
+M-REGULAR-BLACK,40,Denim Fabric,1.64,meters
+M-REGULAR-BLACK,40,Pocketing Fabric,0.41,meters
+M-REGULAR-BLACK,40,Thread,204.75,meters
+M-REGULAR-BLACK,40,Button,1.0,pieces
+M-REGULAR-BLACK,40,Zipper,1.0,pieces
+M-REGULAR-BLACK,40,Rivets,6.0,pieces
+M-REGULAR-BLACK,40,Label,2.0,pieces
+M-REGULAR-BLACK,42,Denim Fabric,1.71,meters
+M-REGULAR-BLACK,42,Pocketing Fabric,0.43,meters
+M-REGULAR-BLACK,42,Thread,214.2,meters
+M-REGULAR-BLACK,42,Button,1.0,pieces
+M-REGULAR-BLACK,42,Zipper,1.0,pieces
+M-REGULAR-BLACK,42,Rivets,6.0,pieces
+M-REGULAR-BLACK,42,Label,2.0,pieces
+M-RELAXED-LIGHT,18,Denim Fabric,0.81,meters
+M-RELAXED-LIGHT,18,Pocketing Fabric,0.2,meters
+M-RELAXED-LIGHT,18,Thread,100.8,meters
+M-RELAXED-LIGHT,18,Button,1.0,pieces
+M-RELAXED-LIGHT,18,Zipper,1.0,pieces
+M-RELAXED-LIGHT,18,Rivets,6.0,pieces
+M-RELAXED-LIGHT,18,Label,2.0,pieces
+M-RELAXED-LIGHT,20,Denim Fabric,0.88,meters
+M-RELAXED-LIGHT,20,Pocketing Fabric,0.22,meters
+M-RELAXED-LIGHT,20,Thread,110.25,meters
+M-RELAXED-LIGHT,20,Button,1.0,pieces
+M-RELAXED-LIGHT,20,Zipper,1.0,pieces
+M-RELAXED-LIGHT,20,Rivets,6.0,pieces
+M-RELAXED-LIGHT,20,Label,2.0,pieces
+M-RELAXED-LIGHT,22,Denim Fabric,0.96,meters
+M-RELAXED-LIGHT,22,Pocketing Fabric,0.24,meters
+M-RELAXED-LIGHT,22,Thread,119.7,meters
+M-RELAXED-LIGHT,22,Button,1.0,pieces
+M-RELAXED-LIGHT,22,Zipper,1.0,pieces
+M-RELAXED-LIGHT,22,Rivets,6.0,pieces
+M-RELAXED-LIGHT,22,Label,2.0,pieces
+M-RELAXED-LIGHT,24,Denim Fabric,1.03,meters
+M-RELAXED-LIGHT,24,Pocketing Fabric,0.26,meters
+M-RELAXED-LIGHT,24,Thread,129.15,meters
+M-RELAXED-LIGHT,24,Button,1.0,pieces
+M-RELAXED-LIGHT,24,Zipper,1.0,pieces
+M-RELAXED-LIGHT,24,Rivets,6.0,pieces
+M-RELAXED-LIGHT,24,Label,2.0,pieces
+M-RELAXED-LIGHT,26,Denim Fabric,1.11,meters
+M-RELAXED-LIGHT,26,Pocketing Fabric,0.27,meters
+M-RELAXED-LIGHT,26,Thread,138.6,meters
+M-RELAXED-LIGHT,26,Button,1.0,pieces
+M-RELAXED-LIGHT,26,Zipper,1.0,pieces
+M-RELAXED-LIGHT,26,Rivets,6.0,pieces
+M-RELAXED-LIGHT,26,Label,2.0,pieces
+M-RELAXED-LIGHT,28,Denim Fabric,1.19,meters
+M-RELAXED-LIGHT,28,Pocketing Fabric,0.29,meters
+M-RELAXED-LIGHT,28,Thread,148.05,meters
+M-RELAXED-LIGHT,28,Button,1.0,pieces
+M-RELAXED-LIGHT,28,Zipper,1.0,pieces
+M-RELAXED-LIGHT,28,Rivets,6.0,pieces
+M-RELAXED-LIGHT,28,Label,2.0,pieces
+M-RELAXED-LIGHT,30,Denim Fabric,1.26,meters
+M-RELAXED-LIGHT,30,Pocketing Fabric,0.32,meters
+M-RELAXED-LIGHT,30,Thread,157.5,meters
+M-RELAXED-LIGHT,30,Button,1.0,pieces
+M-RELAXED-LIGHT,30,Zipper,1.0,pieces
+M-RELAXED-LIGHT,30,Rivets,6.0,pieces
+M-RELAXED-LIGHT,30,Label,2.0,pieces
+M-RELAXED-LIGHT,32,Denim Fabric,1.33,meters
+M-RELAXED-LIGHT,32,Pocketing Fabric,0.34,meters
+M-RELAXED-LIGHT,32,Thread,166.95,meters
+M-RELAXED-LIGHT,32,Button,1.0,pieces
+M-RELAXED-LIGHT,32,Zipper,1.0,pieces
+M-RELAXED-LIGHT,32,Rivets,6.0,pieces
+M-RELAXED-LIGHT,32,Label,2.0,pieces
+M-RELAXED-LIGHT,34,Denim Fabric,1.41,meters
+M-RELAXED-LIGHT,34,Pocketing Fabric,0.36,meters
+M-RELAXED-LIGHT,34,Thread,176.4,meters
+M-RELAXED-LIGHT,34,Button,1.0,pieces
+M-RELAXED-LIGHT,34,Zipper,1.0,pieces
+M-RELAXED-LIGHT,34,Rivets,6.0,pieces
+M-RELAXED-LIGHT,34,Label,2.0,pieces
+M-RELAXED-LIGHT,36,Denim Fabric,1.49,meters
+M-RELAXED-LIGHT,36,Pocketing Fabric,0.37,meters
+M-RELAXED-LIGHT,36,Thread,185.85,meters
+M-RELAXED-LIGHT,36,Button,1.0,pieces
+M-RELAXED-LIGHT,36,Zipper,1.0,pieces
+M-RELAXED-LIGHT,36,Rivets,6.0,pieces
+M-RELAXED-LIGHT,36,Label,2.0,pieces
+M-RELAXED-LIGHT,38,Denim Fabric,1.56,meters
+M-RELAXED-LIGHT,38,Pocketing Fabric,0.39,meters
+M-RELAXED-LIGHT,38,Thread,195.3,meters
+M-RELAXED-LIGHT,38,Button,1.0,pieces
+M-RELAXED-LIGHT,38,Zipper,1.0,pieces
+M-RELAXED-LIGHT,38,Rivets,6.0,pieces
+M-RELAXED-LIGHT,38,Label,2.0,pieces
+M-RELAXED-LIGHT,40,Denim Fabric,1.64,meters
+M-RELAXED-LIGHT,40,Pocketing Fabric,0.41,meters
+M-RELAXED-LIGHT,40,Thread,204.75,meters
+M-RELAXED-LIGHT,40,Button,1.0,pieces
+M-RELAXED-LIGHT,40,Zipper,1.0,pieces
+M-RELAXED-LIGHT,40,Rivets,6.0,pieces
+M-RELAXED-LIGHT,40,Label,2.0,pieces
+M-RELAXED-LIGHT,42,Denim Fabric,1.71,meters
+M-RELAXED-LIGHT,42,Pocketing Fabric,0.43,meters
+M-RELAXED-LIGHT,42,Thread,214.2,meters
+M-RELAXED-LIGHT,42,Button,1.0,pieces
+M-RELAXED-LIGHT,42,Zipper,1.0,pieces
+M-RELAXED-LIGHT,42,Rivets,6.0,pieces
+M-RELAXED-LIGHT,42,Label,2.0,pieces
+M-RELAXED-MEDIUM,18,Denim Fabric,0.81,meters
+M-RELAXED-MEDIUM,18,Pocketing Fabric,0.2,meters
+M-RELAXED-MEDIUM,18,Thread,100.8,meters
+M-RELAXED-MEDIUM,18,Button,1.0,pieces
+M-RELAXED-MEDIUM,18,Zipper,1.0,pieces
+M-RELAXED-MEDIUM,18,Rivets,6.0,pieces
+M-RELAXED-MEDIUM,18,Label,2.0,pieces
+M-RELAXED-MEDIUM,20,Denim Fabric,0.88,meters
+M-RELAXED-MEDIUM,20,Pocketing Fabric,0.22,meters
+M-RELAXED-MEDIUM,20,Thread,110.25,meters
+M-RELAXED-MEDIUM,20,Button,1.0,pieces
+M-RELAXED-MEDIUM,20,Zipper,1.0,pieces
+M-RELAXED-MEDIUM,20,Rivets,6.0,pieces
+M-RELAXED-MEDIUM,20,Label,2.0,pieces
+M-RELAXED-MEDIUM,22,Denim Fabric,0.96,meters
+M-RELAXED-MEDIUM,22,Pocketing Fabric,0.24,meters
+M-RELAXED-MEDIUM,22,Thread,119.7,meters
+M-RELAXED-MEDIUM,22,Button,1.0,pieces
+M-RELAXED-MEDIUM,22,Zipper,1.0,pieces
+M-RELAXED-MEDIUM,22,Rivets,6.0,pieces
+M-RELAXED-MEDIUM,22,Label,2.0,pieces
+M-RELAXED-MEDIUM,24,Denim Fabric,1.03,meters
+M-RELAXED-MEDIUM,24,Pocketing Fabric,0.26,meters
+M-RELAXED-MEDIUM,24,Thread,129.15,meters
+M-RELAXED-MEDIUM,24,Button,1.0,pieces
+M-RELAXED-MEDIUM,24,Zipper,1.0,pieces
+M-RELAXED-MEDIUM,24,Rivets,6.0,pieces
+M-RELAXED-MEDIUM,24,Label,2.0,pieces
+M-RELAXED-MEDIUM,26,Denim Fabric,1.11,meters
+M-RELAXED-MEDIUM,26,Pocketing Fabric,0.27,meters
+M-RELAXED-MEDIUM,26,Thread,138.6,meters
+M-RELAXED-MEDIUM,26,Button,1.0,pieces
+M-RELAXED-MEDIUM,26,Zipper,1.0,pieces
+M-RELAXED-MEDIUM,26,Rivets,6.0,pieces
+M-RELAXED-MEDIUM,26,Label,2.0,pieces
+M-RELAXED-MEDIUM,28,Denim Fabric,1.19,meters
+M-RELAXED-MEDIUM,28,Pocketing Fabric,0.29,meters
+M-RELAXED-MEDIUM,28,Thread,148.05,meters
+M-RELAXED-MEDIUM,28,Button,1.0,pieces
+M-RELAXED-MEDIUM,28,Zipper,1.0,pieces
+M-RELAXED-MEDIUM,28,Rivets,6.0,pieces
+M-RELAXED-MEDIUM,28,Label,2.0,pieces
+M-RELAXED-MEDIUM,30,Denim Fabric,1.26,meters
+M-RELAXED-MEDIUM,30,Pocketing Fabric,0.32,meters
+M-RELAXED-MEDIUM,30,Thread,157.5,meters
+M-RELAXED-MEDIUM,30,Button,1.0,pieces
+M-RELAXED-MEDIUM,30,Zipper,1.0,pieces
+M-RELAXED-MEDIUM,30,Rivets,6.0,pieces
+M-RELAXED-MEDIUM,30,Label,2.0,pieces
+M-RELAXED-MEDIUM,32,Denim Fabric,1.33,meters
+M-RELAXED-MEDIUM,32,Pocketing Fabric,0.34,meters
+M-RELAXED-MEDIUM,32,Thread,166.95,meters
+M-RELAXED-MEDIUM,32,Button,1.0,pieces
+M-RELAXED-MEDIUM,32,Zipper,1.0,pieces
+M-RELAXED-MEDIUM,32,Rivets,6.0,pieces
+M-RELAXED-MEDIUM,32,Label,2.0,pieces
+M-RELAXED-MEDIUM,34,Denim Fabric,1.41,meters
+M-RELAXED-MEDIUM,34,Pocketing Fabric,0.36,meters
+M-RELAXED-MEDIUM,34,Thread,176.4,meters
+M-RELAXED-MEDIUM,34,Button,1.0,pieces
+M-RELAXED-MEDIUM,34,Zipper,1.0,pieces
+M-RELAXED-MEDIUM,34,Rivets,6.0,pieces
+M-RELAXED-MEDIUM,34,Label,2.0,pieces
+M-RELAXED-MEDIUM,36,Denim Fabric,1.49,meters
+M-RELAXED-MEDIUM,36,Pocketing Fabric,0.37,meters
+M-RELAXED-MEDIUM,36,Thread,185.85,meters
+M-RELAXED-MEDIUM,36,Button,1.0,pieces
+M-RELAXED-MEDIUM,36,Zipper,1.0,pieces
+M-RELAXED-MEDIUM,36,Rivets,6.0,pieces
+M-RELAXED-MEDIUM,36,Label,2.0,pieces
+M-RELAXED-MEDIUM,38,Denim Fabric,1.56,meters
+M-RELAXED-MEDIUM,38,Pocketing Fabric,0.39,meters
+M-RELAXED-MEDIUM,38,Thread,195.3,meters
+M-RELAXED-MEDIUM,38,Button,1.0,pieces
+M-RELAXED-MEDIUM,38,Zipper,1.0,pieces
+M-RELAXED-MEDIUM,38,Rivets,6.0,pieces
+M-RELAXED-MEDIUM,38,Label,2.0,pieces
+M-RELAXED-MEDIUM,40,Denim Fabric,1.64,meters
+M-RELAXED-MEDIUM,40,Pocketing Fabric,0.41,meters
+M-RELAXED-MEDIUM,40,Thread,204.75,meters
+M-RELAXED-MEDIUM,40,Button,1.0,pieces
+M-RELAXED-MEDIUM,40,Zipper,1.0,pieces
+M-RELAXED-MEDIUM,40,Rivets,6.0,pieces
+M-RELAXED-MEDIUM,40,Label,2.0,pieces
+M-RELAXED-MEDIUM,42,Denim Fabric,1.71,meters
+M-RELAXED-MEDIUM,42,Pocketing Fabric,0.43,meters
+M-RELAXED-MEDIUM,42,Thread,214.2,meters
+M-RELAXED-MEDIUM,42,Button,1.0,pieces
+M-RELAXED-MEDIUM,42,Zipper,1.0,pieces
+M-RELAXED-MEDIUM,42,Rivets,6.0,pieces
+M-RELAXED-MEDIUM,42,Label,2.0,pieces
+M-RELAXED-DARK,18,Denim Fabric,0.81,meters
+M-RELAXED-DARK,18,Pocketing Fabric,0.2,meters
+M-RELAXED-DARK,18,Thread,100.8,meters
+M-RELAXED-DARK,18,Button,1.0,pieces
+M-RELAXED-DARK,18,Zipper,1.0,pieces
+M-RELAXED-DARK,18,Rivets,6.0,pieces
+M-RELAXED-DARK,18,Label,2.0,pieces
+M-RELAXED-DARK,20,Denim Fabric,0.88,meters
+M-RELAXED-DARK,20,Pocketing Fabric,0.22,meters
+M-RELAXED-DARK,20,Thread,110.25,meters
+M-RELAXED-DARK,20,Button,1.0,pieces
+M-RELAXED-DARK,20,Zipper,1.0,pieces
+M-RELAXED-DARK,20,Rivets,6.0,pieces
+M-RELAXED-DARK,20,Label,2.0,pieces
+M-RELAXED-DARK,22,Denim Fabric,0.96,meters
+M-RELAXED-DARK,22,Pocketing Fabric,0.24,meters
+M-RELAXED-DARK,22,Thread,119.7,meters
+M-RELAXED-DARK,22,Button,1.0,pieces
+M-RELAXED-DARK,22,Zipper,1.0,pieces
+M-RELAXED-DARK,22,Rivets,6.0,pieces
+M-RELAXED-DARK,22,Label,2.0,pieces
+M-RELAXED-DARK,24,Denim Fabric,1.03,meters
+M-RELAXED-DARK,24,Pocketing Fabric,0.26,meters
+M-RELAXED-DARK,24,Thread,129.15,meters
+M-RELAXED-DARK,24,Button,1.0,pieces
+M-RELAXED-DARK,24,Zipper,1.0,pieces
+M-RELAXED-DARK,24,Rivets,6.0,pieces
+M-RELAXED-DARK,24,Label,2.0,pieces
+M-RELAXED-DARK,26,Denim Fabric,1.11,meters
+M-RELAXED-DARK,26,Pocketing Fabric,0.27,meters
+M-RELAXED-DARK,26,Thread,138.6,meters
+M-RELAXED-DARK,26,Button,1.0,pieces
+M-RELAXED-DARK,26,Zipper,1.0,pieces
+M-RELAXED-DARK,26,Rivets,6.0,pieces
+M-RELAXED-DARK,26,Label,2.0,pieces
+M-RELAXED-DARK,28,Denim Fabric,1.19,meters
+M-RELAXED-DARK,28,Pocketing Fabric,0.29,meters
+M-RELAXED-DARK,28,Thread,148.05,meters
+M-RELAXED-DARK,28,Button,1.0,pieces
+M-RELAXED-DARK,28,Zipper,1.0,pieces
+M-RELAXED-DARK,28,Rivets,6.0,pieces
+M-RELAXED-DARK,28,Label,2.0,pieces
+M-RELAXED-DARK,30,Denim Fabric,1.26,meters
+M-RELAXED-DARK,30,Pocketing Fabric,0.32,meters
+M-RELAXED-DARK,30,Thread,157.5,meters
+M-RELAXED-DARK,30,Button,1.0,pieces
+M-RELAXED-DARK,30,Zipper,1.0,pieces
+M-RELAXED-DARK,30,Rivets,6.0,pieces
+M-RELAXED-DARK,30,Label,2.0,pieces
+M-RELAXED-DARK,32,Denim Fabric,1.33,meters
+M-RELAXED-DARK,32,Pocketing Fabric,0.34,meters
+M-RELAXED-DARK,32,Thread,166.95,meters
+M-RELAXED-DARK,32,Button,1.0,pieces
+M-RELAXED-DARK,32,Zipper,1.0,pieces
+M-RELAXED-DARK,32,Rivets,6.0,pieces
+M-RELAXED-DARK,32,Label,2.0,pieces
+M-RELAXED-DARK,34,Denim Fabric,1.41,meters
+M-RELAXED-DARK,34,Pocketing Fabric,0.36,meters
+M-RELAXED-DARK,34,Thread,176.4,meters
+M-RELAXED-DARK,34,Button,1.0,pieces
+M-RELAXED-DARK,34,Zipper,1.0,pieces
+M-RELAXED-DARK,34,Rivets,6.0,pieces
+M-RELAXED-DARK,34,Label,2.0,pieces
+M-RELAXED-DARK,36,Denim Fabric,1.49,meters
+M-RELAXED-DARK,36,Pocketing Fabric,0.37,meters
+M-RELAXED-DARK,36,Thread,185.85,meters
+M-RELAXED-DARK,36,Button,1.0,pieces
+M-RELAXED-DARK,36,Zipper,1.0,pieces
+M-RELAXED-DARK,36,Rivets,6.0,pieces
+M-RELAXED-DARK,36,Label,2.0,pieces
+M-RELAXED-DARK,38,Denim Fabric,1.56,meters
+M-RELAXED-DARK,38,Pocketing Fabric,0.39,meters
+M-RELAXED-DARK,38,Thread,195.3,meters
+M-RELAXED-DARK,38,Button,1.0,pieces
+M-RELAXED-DARK,38,Zipper,1.0,pieces
+M-RELAXED-DARK,38,Rivets,6.0,pieces
+M-RELAXED-DARK,38,Label,2.0,pieces
+M-RELAXED-DARK,40,Denim Fabric,1.64,meters
+M-RELAXED-DARK,40,Pocketing Fabric,0.41,meters
+M-RELAXED-DARK,40,Thread,204.75,meters
+M-RELAXED-DARK,40,Button,1.0,pieces
+M-RELAXED-DARK,40,Zipper,1.0,pieces
+M-RELAXED-DARK,40,Rivets,6.0,pieces
+M-RELAXED-DARK,40,Label,2.0,pieces
+M-RELAXED-DARK,42,Denim Fabric,1.71,meters
+M-RELAXED-DARK,42,Pocketing Fabric,0.43,meters
+M-RELAXED-DARK,42,Thread,214.2,meters
+M-RELAXED-DARK,42,Button,1.0,pieces
+M-RELAXED-DARK,42,Zipper,1.0,pieces
+M-RELAXED-DARK,42,Rivets,6.0,pieces
+M-RELAXED-DARK,42,Label,2.0,pieces
+M-RELAXED-BLACK,18,Denim Fabric,0.81,meters
+M-RELAXED-BLACK,18,Pocketing Fabric,0.2,meters
+M-RELAXED-BLACK,18,Thread,100.8,meters
+M-RELAXED-BLACK,18,Button,1.0,pieces
+M-RELAXED-BLACK,18,Zipper,1.0,pieces
+M-RELAXED-BLACK,18,Rivets,6.0,pieces
+M-RELAXED-BLACK,18,Label,2.0,pieces
+M-RELAXED-BLACK,20,Denim Fabric,0.88,meters
+M-RELAXED-BLACK,20,Pocketing Fabric,0.22,meters
+M-RELAXED-BLACK,20,Thread,110.25,meters
+M-RELAXED-BLACK,20,Button,1.0,pieces
+M-RELAXED-BLACK,20,Zipper,1.0,pieces
+M-RELAXED-BLACK,20,Rivets,6.0,pieces
+M-RELAXED-BLACK,20,Label,2.0,pieces
+M-RELAXED-BLACK,22,Denim Fabric,0.96,meters
+M-RELAXED-BLACK,22,Pocketing Fabric,0.24,meters
+M-RELAXED-BLACK,22,Thread,119.7,meters
+M-RELAXED-BLACK,22,Button,1.0,pieces
+M-RELAXED-BLACK,22,Zipper,1.0,pieces
+M-RELAXED-BLACK,22,Rivets,6.0,pieces
+M-RELAXED-BLACK,22,Label,2.0,pieces
+M-RELAXED-BLACK,24,Denim Fabric,1.03,meters
+M-RELAXED-BLACK,24,Pocketing Fabric,0.26,meters
+M-RELAXED-BLACK,24,Thread,129.15,meters
+M-RELAXED-BLACK,24,Button,1.0,pieces
+M-RELAXED-BLACK,24,Zipper,1.0,pieces
+M-RELAXED-BLACK,24,Rivets,6.0,pieces
+M-RELAXED-BLACK,24,Label,2.0,pieces
+M-RELAXED-BLACK,26,Denim Fabric,1.11,meters
+M-RELAXED-BLACK,26,Pocketing Fabric,0.27,meters
+M-RELAXED-BLACK,26,Thread,138.6,meters
+M-RELAXED-BLACK,26,Button,1.0,pieces
+M-RELAXED-BLACK,26,Zipper,1.0,pieces
+M-RELAXED-BLACK,26,Rivets,6.0,pieces
+M-RELAXED-BLACK,26,Label,2.0,pieces
+M-RELAXED-BLACK,28,Denim Fabric,1.19,meters
+M-RELAXED-BLACK,28,Pocketing Fabric,0.29,meters
+M-RELAXED-BLACK,28,Thread,148.05,meters
+M-RELAXED-BLACK,28,Button,1.0,pieces
+M-RELAXED-BLACK,28,Zipper,1.0,pieces
+M-RELAXED-BLACK,28,Rivets,6.0,pieces
+M-RELAXED-BLACK,28,Label,2.0,pieces
+M-RELAXED-BLACK,30,Denim Fabric,1.26,meters
+M-RELAXED-BLACK,30,Pocketing Fabric,0.32,meters
+M-RELAXED-BLACK,30,Thread,157.5,meters
+M-RELAXED-BLACK,30,Button,1.0,pieces
+M-RELAXED-BLACK,30,Zipper,1.0,pieces
+M-RELAXED-BLACK,30,Rivets,6.0,pieces
+M-RELAXED-BLACK,30,Label,2.0,pieces
+M-RELAXED-BLACK,32,Denim Fabric,1.33,meters
+M-RELAXED-BLACK,32,Pocketing Fabric,0.34,meters
+M-RELAXED-BLACK,32,Thread,166.95,meters
+M-RELAXED-BLACK,32,Button,1.0,pieces
+M-RELAXED-BLACK,32,Zipper,1.0,pieces
+M-RELAXED-BLACK,32,Rivets,6.0,pieces
+M-RELAXED-BLACK,32,Label,2.0,pieces
+M-RELAXED-BLACK,34,Denim Fabric,1.41,meters
+M-RELAXED-BLACK,34,Pocketing Fabric,0.36,meters
+M-RELAXED-BLACK,34,Thread,176.4,meters
+M-RELAXED-BLACK,34,Button,1.0,pieces
+M-RELAXED-BLACK,34,Zipper,1.0,pieces
+M-RELAXED-BLACK,34,Rivets,6.0,pieces
+M-RELAXED-BLACK,34,Label,2.0,pieces
+M-RELAXED-BLACK,36,Denim Fabric,1.49,meters
+M-RELAXED-BLACK,36,Pocketing Fabric,0.37,meters
+M-RELAXED-BLACK,36,Thread,185.85,meters
+M-RELAXED-BLACK,36,Button,1.0,pieces
+M-RELAXED-BLACK,36,Zipper,1.0,pieces
+M-RELAXED-BLACK,36,Rivets,6.0,pieces
+M-RELAXED-BLACK,36,Label,2.0,pieces
+M-RELAXED-BLACK,38,Denim Fabric,1.56,meters
+M-RELAXED-BLACK,38,Pocketing Fabric,0.39,meters
+M-RELAXED-BLACK,38,Thread,195.3,meters
+M-RELAXED-BLACK,38,Button,1.0,pieces
+M-RELAXED-BLACK,38,Zipper,1.0,pieces
+M-RELAXED-BLACK,38,Rivets,6.0,pieces
+M-RELAXED-BLACK,38,Label,2.0,pieces
+M-RELAXED-BLACK,40,Denim Fabric,1.64,meters
+M-RELAXED-BLACK,40,Pocketing Fabric,0.41,meters
+M-RELAXED-BLACK,40,Thread,204.75,meters
+M-RELAXED-BLACK,40,Button,1.0,pieces
+M-RELAXED-BLACK,40,Zipper,1.0,pieces
+M-RELAXED-BLACK,40,Rivets,6.0,pieces
+M-RELAXED-BLACK,40,Label,2.0,pieces
+M-RELAXED-BLACK,42,Denim Fabric,1.71,meters
+M-RELAXED-BLACK,42,Pocketing Fabric,0.43,meters
+M-RELAXED-BLACK,42,Thread,214.2,meters
+M-RELAXED-BLACK,42,Button,1.0,pieces
+M-RELAXED-BLACK,42,Zipper,1.0,pieces
+M-RELAXED-BLACK,42,Rivets,6.0,pieces
+M-RELAXED-BLACK,42,Label,2.0,pieces
+W-SKINNY-LIGHT,18,Denim Fabric,0.77,meters
+W-SKINNY-LIGHT,18,Pocketing Fabric,0.19,meters
+W-SKINNY-LIGHT,18,Thread,96.0,meters
+W-SKINNY-LIGHT,18,Button,1.0,pieces
+W-SKINNY-LIGHT,18,Zipper,1.0,pieces
+W-SKINNY-LIGHT,18,Rivets,6.0,pieces
+W-SKINNY-LIGHT,18,Label,2.0,pieces
+W-SKINNY-LIGHT,20,Denim Fabric,0.84,meters
+W-SKINNY-LIGHT,20,Pocketing Fabric,0.21,meters
+W-SKINNY-LIGHT,20,Thread,105.0,meters
+W-SKINNY-LIGHT,20,Button,1.0,pieces
+W-SKINNY-LIGHT,20,Zipper,1.0,pieces
+W-SKINNY-LIGHT,20,Rivets,6.0,pieces
+W-SKINNY-LIGHT,20,Label,2.0,pieces
+W-SKINNY-LIGHT,22,Denim Fabric,0.91,meters
+W-SKINNY-LIGHT,22,Pocketing Fabric,0.23,meters
+W-SKINNY-LIGHT,22,Thread,114.0,meters
+W-SKINNY-LIGHT,22,Button,1.0,pieces
+W-SKINNY-LIGHT,22,Zipper,1.0,pieces
+W-SKINNY-LIGHT,22,Rivets,6.0,pieces
+W-SKINNY-LIGHT,22,Label,2.0,pieces
+W-SKINNY-LIGHT,24,Denim Fabric,0.98,meters
+W-SKINNY-LIGHT,24,Pocketing Fabric,0.25,meters
+W-SKINNY-LIGHT,24,Thread,123.0,meters
+W-SKINNY-LIGHT,24,Button,1.0,pieces
+W-SKINNY-LIGHT,24,Zipper,1.0,pieces
+W-SKINNY-LIGHT,24,Rivets,6.0,pieces
+W-SKINNY-LIGHT,24,Label,2.0,pieces
+W-SKINNY-LIGHT,26,Denim Fabric,1.06,meters
+W-SKINNY-LIGHT,26,Pocketing Fabric,0.26,meters
+W-SKINNY-LIGHT,26,Thread,132.0,meters
+W-SKINNY-LIGHT,26,Button,1.0,pieces
+W-SKINNY-LIGHT,26,Zipper,1.0,pieces
+W-SKINNY-LIGHT,26,Rivets,6.0,pieces
+W-SKINNY-LIGHT,26,Label,2.0,pieces
+W-SKINNY-LIGHT,28,Denim Fabric,1.13,meters
+W-SKINNY-LIGHT,28,Pocketing Fabric,0.28,meters
+W-SKINNY-LIGHT,28,Thread,141.0,meters
+W-SKINNY-LIGHT,28,Button,1.0,pieces
+W-SKINNY-LIGHT,28,Zipper,1.0,pieces
+W-SKINNY-LIGHT,28,Rivets,6.0,pieces
+W-SKINNY-LIGHT,28,Label,2.0,pieces
+W-SKINNY-LIGHT,30,Denim Fabric,1.2,meters
+W-SKINNY-LIGHT,30,Pocketing Fabric,0.3,meters
+W-SKINNY-LIGHT,30,Thread,150.0,meters
+W-SKINNY-LIGHT,30,Button,1.0,pieces
+W-SKINNY-LIGHT,30,Zipper,1.0,pieces
+W-SKINNY-LIGHT,30,Rivets,6.0,pieces
+W-SKINNY-LIGHT,30,Label,2.0,pieces
+W-SKINNY-LIGHT,32,Denim Fabric,1.27,meters
+W-SKINNY-LIGHT,32,Pocketing Fabric,0.32,meters
+W-SKINNY-LIGHT,32,Thread,159.0,meters
+W-SKINNY-LIGHT,32,Button,1.0,pieces
+W-SKINNY-LIGHT,32,Zipper,1.0,pieces
+W-SKINNY-LIGHT,32,Rivets,6.0,pieces
+W-SKINNY-LIGHT,32,Label,2.0,pieces
+W-SKINNY-LIGHT,34,Denim Fabric,1.34,meters
+W-SKINNY-LIGHT,34,Pocketing Fabric,0.34,meters
+W-SKINNY-LIGHT,34,Thread,168.0,meters
+W-SKINNY-LIGHT,34,Button,1.0,pieces
+W-SKINNY-LIGHT,34,Zipper,1.0,pieces
+W-SKINNY-LIGHT,34,Rivets,6.0,pieces
+W-SKINNY-LIGHT,34,Label,2.0,pieces
+W-SKINNY-LIGHT,36,Denim Fabric,1.42,meters
+W-SKINNY-LIGHT,36,Pocketing Fabric,0.35,meters
+W-SKINNY-LIGHT,36,Thread,177.0,meters
+W-SKINNY-LIGHT,36,Button,1.0,pieces
+W-SKINNY-LIGHT,36,Zipper,1.0,pieces
+W-SKINNY-LIGHT,36,Rivets,6.0,pieces
+W-SKINNY-LIGHT,36,Label,2.0,pieces
+W-SKINNY-LIGHT,38,Denim Fabric,1.49,meters
+W-SKINNY-LIGHT,38,Pocketing Fabric,0.37,meters
+W-SKINNY-LIGHT,38,Thread,186.0,meters
+W-SKINNY-LIGHT,38,Button,1.0,pieces
+W-SKINNY-LIGHT,38,Zipper,1.0,pieces
+W-SKINNY-LIGHT,38,Rivets,6.0,pieces
+W-SKINNY-LIGHT,38,Label,2.0,pieces
+W-SKINNY-LIGHT,40,Denim Fabric,1.56,meters
+W-SKINNY-LIGHT,40,Pocketing Fabric,0.39,meters
+W-SKINNY-LIGHT,40,Thread,195.0,meters
+W-SKINNY-LIGHT,40,Button,1.0,pieces
+W-SKINNY-LIGHT,40,Zipper,1.0,pieces
+W-SKINNY-LIGHT,40,Rivets,6.0,pieces
+W-SKINNY-LIGHT,40,Label,2.0,pieces
+W-SKINNY-LIGHT,42,Denim Fabric,1.63,meters
+W-SKINNY-LIGHT,42,Pocketing Fabric,0.41,meters
+W-SKINNY-LIGHT,42,Thread,204.0,meters
+W-SKINNY-LIGHT,42,Button,1.0,pieces
+W-SKINNY-LIGHT,42,Zipper,1.0,pieces
+W-SKINNY-LIGHT,42,Rivets,6.0,pieces
+W-SKINNY-LIGHT,42,Label,2.0,pieces
+W-SKINNY-MEDIUM,18,Denim Fabric,0.77,meters
+W-SKINNY-MEDIUM,18,Pocketing Fabric,0.19,meters
+W-SKINNY-MEDIUM,18,Thread,96.0,meters
+W-SKINNY-MEDIUM,18,Button,1.0,pieces
+W-SKINNY-MEDIUM,18,Zipper,1.0,pieces
+W-SKINNY-MEDIUM,18,Rivets,6.0,pieces
+W-SKINNY-MEDIUM,18,Label,2.0,pieces
+W-SKINNY-MEDIUM,20,Denim Fabric,0.84,meters
+W-SKINNY-MEDIUM,20,Pocketing Fabric,0.21,meters
+W-SKINNY-MEDIUM,20,Thread,105.0,meters
+W-SKINNY-MEDIUM,20,Button,1.0,pieces
+W-SKINNY-MEDIUM,20,Zipper,1.0,pieces
+W-SKINNY-MEDIUM,20,Rivets,6.0,pieces
+W-SKINNY-MEDIUM,20,Label,2.0,pieces
+W-SKINNY-MEDIUM,22,Denim Fabric,0.91,meters
+W-SKINNY-MEDIUM,22,Pocketing Fabric,0.23,meters
+W-SKINNY-MEDIUM,22,Thread,114.0,meters
+W-SKINNY-MEDIUM,22,Button,1.0,pieces
+W-SKINNY-MEDIUM,22,Zipper,1.0,pieces
+W-SKINNY-MEDIUM,22,Rivets,6.0,pieces
+W-SKINNY-MEDIUM,22,Label,2.0,pieces
+W-SKINNY-MEDIUM,24,Denim Fabric,0.98,meters
+W-SKINNY-MEDIUM,24,Pocketing Fabric,0.25,meters
+W-SKINNY-MEDIUM,24,Thread,123.0,meters
+W-SKINNY-MEDIUM,24,Button,1.0,pieces
+W-SKINNY-MEDIUM,24,Zipper,1.0,pieces
+W-SKINNY-MEDIUM,24,Rivets,6.0,pieces
+W-SKINNY-MEDIUM,24,Label,2.0,pieces
+W-SKINNY-MEDIUM,26,Denim Fabric,1.06,meters
+W-SKINNY-MEDIUM,26,Pocketing Fabric,0.26,meters
+W-SKINNY-MEDIUM,26,Thread,132.0,meters
+W-SKINNY-MEDIUM,26,Button,1.0,pieces
+W-SKINNY-MEDIUM,26,Zipper,1.0,pieces
+W-SKINNY-MEDIUM,26,Rivets,6.0,pieces
+W-SKINNY-MEDIUM,26,Label,2.0,pieces
+W-SKINNY-MEDIUM,28,Denim Fabric,1.13,meters
+W-SKINNY-MEDIUM,28,Pocketing Fabric,0.28,meters
+W-SKINNY-MEDIUM,28,Thread,141.0,meters
+W-SKINNY-MEDIUM,28,Button,1.0,pieces
+W-SKINNY-MEDIUM,28,Zipper,1.0,pieces
+W-SKINNY-MEDIUM,28,Rivets,6.0,pieces
+W-SKINNY-MEDIUM,28,Label,2.0,pieces
+W-SKINNY-MEDIUM,30,Denim Fabric,1.2,meters
+W-SKINNY-MEDIUM,30,Pocketing Fabric,0.3,meters
+W-SKINNY-MEDIUM,30,Thread,150.0,meters
+W-SKINNY-MEDIUM,30,Button,1.0,pieces
+W-SKINNY-MEDIUM,30,Zipper,1.0,pieces
+W-SKINNY-MEDIUM,30,Rivets,6.0,pieces
+W-SKINNY-MEDIUM,30,Label,2.0,pieces
+W-SKINNY-MEDIUM,32,Denim Fabric,1.27,meters
+W-SKINNY-MEDIUM,32,Pocketing Fabric,0.32,meters
+W-SKINNY-MEDIUM,32,Thread,159.0,meters
+W-SKINNY-MEDIUM,32,Button,1.0,pieces
+W-SKINNY-MEDIUM,32,Zipper,1.0,pieces
+W-SKINNY-MEDIUM,32,Rivets,6.0,pieces
+W-SKINNY-MEDIUM,32,Label,2.0,pieces
+W-SKINNY-MEDIUM,34,Denim Fabric,1.34,meters
+W-SKINNY-MEDIUM,34,Pocketing Fabric,0.34,meters
+W-SKINNY-MEDIUM,34,Thread,168.0,meters
+W-SKINNY-MEDIUM,34,Button,1.0,pieces
+W-SKINNY-MEDIUM,34,Zipper,1.0,pieces
+W-SKINNY-MEDIUM,34,Rivets,6.0,pieces
+W-SKINNY-MEDIUM,34,Label,2.0,pieces
+W-SKINNY-MEDIUM,36,Denim Fabric,1.42,meters
+W-SKINNY-MEDIUM,36,Pocketing Fabric,0.35,meters
+W-SKINNY-MEDIUM,36,Thread,177.0,meters
+W-SKINNY-MEDIUM,36,Button,1.0,pieces
+W-SKINNY-MEDIUM,36,Zipper,1.0,pieces
+W-SKINNY-MEDIUM,36,Rivets,6.0,pieces
+W-SKINNY-MEDIUM,36,Label,2.0,pieces
+W-SKINNY-MEDIUM,38,Denim Fabric,1.49,meters
+W-SKINNY-MEDIUM,38,Pocketing Fabric,0.37,meters
+W-SKINNY-MEDIUM,38,Thread,186.0,meters
+W-SKINNY-MEDIUM,38,Button,1.0,pieces
+W-SKINNY-MEDIUM,38,Zipper,1.0,pieces
+W-SKINNY-MEDIUM,38,Rivets,6.0,pieces
+W-SKINNY-MEDIUM,38,Label,2.0,pieces
+W-SKINNY-MEDIUM,40,Denim Fabric,1.56,meters
+W-SKINNY-MEDIUM,40,Pocketing Fabric,0.39,meters
+W-SKINNY-MEDIUM,40,Thread,195.0,meters
+W-SKINNY-MEDIUM,40,Button,1.0,pieces
+W-SKINNY-MEDIUM,40,Zipper,1.0,pieces
+W-SKINNY-MEDIUM,40,Rivets,6.0,pieces
+W-SKINNY-MEDIUM,40,Label,2.0,pieces
+W-SKINNY-MEDIUM,42,Denim Fabric,1.63,meters
+W-SKINNY-MEDIUM,42,Pocketing Fabric,0.41,meters
+W-SKINNY-MEDIUM,42,Thread,204.0,meters
+W-SKINNY-MEDIUM,42,Button,1.0,pieces
+W-SKINNY-MEDIUM,42,Zipper,1.0,pieces
+W-SKINNY-MEDIUM,42,Rivets,6.0,pieces
+W-SKINNY-MEDIUM,42,Label,2.0,pieces
+W-SKINNY-DARK,18,Denim Fabric,0.77,meters
+W-SKINNY-DARK,18,Pocketing Fabric,0.19,meters
+W-SKINNY-DARK,18,Thread,96.0,meters
+W-SKINNY-DARK,18,Button,1.0,pieces
+W-SKINNY-DARK,18,Zipper,1.0,pieces
+W-SKINNY-DARK,18,Rivets,6.0,pieces
+W-SKINNY-DARK,18,Label,2.0,pieces
+W-SKINNY-DARK,20,Denim Fabric,0.84,meters
+W-SKINNY-DARK,20,Pocketing Fabric,0.21,meters
+W-SKINNY-DARK,20,Thread,105.0,meters
+W-SKINNY-DARK,20,Button,1.0,pieces
+W-SKINNY-DARK,20,Zipper,1.0,pieces
+W-SKINNY-DARK,20,Rivets,6.0,pieces
+W-SKINNY-DARK,20,Label,2.0,pieces
+W-SKINNY-DARK,22,Denim Fabric,0.91,meters
+W-SKINNY-DARK,22,Pocketing Fabric,0.23,meters
+W-SKINNY-DARK,22,Thread,114.0,meters
+W-SKINNY-DARK,22,Button,1.0,pieces
+W-SKINNY-DARK,22,Zipper,1.0,pieces
+W-SKINNY-DARK,22,Rivets,6.0,pieces
+W-SKINNY-DARK,22,Label,2.0,pieces
+W-SKINNY-DARK,24,Denim Fabric,0.98,meters
+W-SKINNY-DARK,24,Pocketing Fabric,0.25,meters
+W-SKINNY-DARK,24,Thread,123.0,meters
+W-SKINNY-DARK,24,Button,1.0,pieces
+W-SKINNY-DARK,24,Zipper,1.0,pieces
+W-SKINNY-DARK,24,Rivets,6.0,pieces
+W-SKINNY-DARK,24,Label,2.0,pieces
+W-SKINNY-DARK,26,Denim Fabric,1.06,meters
+W-SKINNY-DARK,26,Pocketing Fabric,0.26,meters
+W-SKINNY-DARK,26,Thread,132.0,meters
+W-SKINNY-DARK,26,Button,1.0,pieces
+W-SKINNY-DARK,26,Zipper,1.0,pieces
+W-SKINNY-DARK,26,Rivets,6.0,pieces
+W-SKINNY-DARK,26,Label,2.0,pieces
+W-SKINNY-DARK,28,Denim Fabric,1.13,meters
+W-SKINNY-DARK,28,Pocketing Fabric,0.28,meters
+W-SKINNY-DARK,28,Thread,141.0,meters
+W-SKINNY-DARK,28,Button,1.0,pieces
+W-SKINNY-DARK,28,Zipper,1.0,pieces
+W-SKINNY-DARK,28,Rivets,6.0,pieces
+W-SKINNY-DARK,28,Label,2.0,pieces
+W-SKINNY-DARK,30,Denim Fabric,1.2,meters
+W-SKINNY-DARK,30,Pocketing Fabric,0.3,meters
+W-SKINNY-DARK,30,Thread,150.0,meters
+W-SKINNY-DARK,30,Button,1.0,pieces
+W-SKINNY-DARK,30,Zipper,1.0,pieces
+W-SKINNY-DARK,30,Rivets,6.0,pieces
+W-SKINNY-DARK,30,Label,2.0,pieces
+W-SKINNY-DARK,32,Denim Fabric,1.27,meters
+W-SKINNY-DARK,32,Pocketing Fabric,0.32,meters
+W-SKINNY-DARK,32,Thread,159.0,meters
+W-SKINNY-DARK,32,Button,1.0,pieces
+W-SKINNY-DARK,32,Zipper,1.0,pieces
+W-SKINNY-DARK,32,Rivets,6.0,pieces
+W-SKINNY-DARK,32,Label,2.0,pieces
+W-SKINNY-DARK,34,Denim Fabric,1.34,meters
+W-SKINNY-DARK,34,Pocketing Fabric,0.34,meters
+W-SKINNY-DARK,34,Thread,168.0,meters
+W-SKINNY-DARK,34,Button,1.0,pieces
+W-SKINNY-DARK,34,Zipper,1.0,pieces
+W-SKINNY-DARK,34,Rivets,6.0,pieces
+W-SKINNY-DARK,34,Label,2.0,pieces
+W-SKINNY-DARK,36,Denim Fabric,1.42,meters
+W-SKINNY-DARK,36,Pocketing Fabric,0.35,meters
+W-SKINNY-DARK,36,Thread,177.0,meters
+W-SKINNY-DARK,36,Button,1.0,pieces
+W-SKINNY-DARK,36,Zipper,1.0,pieces
+W-SKINNY-DARK,36,Rivets,6.0,pieces
+W-SKINNY-DARK,36,Label,2.0,pieces
+W-SKINNY-DARK,38,Denim Fabric,1.49,meters
+W-SKINNY-DARK,38,Pocketing Fabric,0.37,meters
+W-SKINNY-DARK,38,Thread,186.0,meters
+W-SKINNY-DARK,38,Button,1.0,pieces
+W-SKINNY-DARK,38,Zipper,1.0,pieces
+W-SKINNY-DARK,38,Rivets,6.0,pieces
+W-SKINNY-DARK,38,Label,2.0,pieces
+W-SKINNY-DARK,40,Denim Fabric,1.56,meters
+W-SKINNY-DARK,40,Pocketing Fabric,0.39,meters
+W-SKINNY-DARK,40,Thread,195.0,meters
+W-SKINNY-DARK,40,Button,1.0,pieces
+W-SKINNY-DARK,40,Zipper,1.0,pieces
+W-SKINNY-DARK,40,Rivets,6.0,pieces
+W-SKINNY-DARK,40,Label,2.0,pieces
+W-SKINNY-DARK,42,Denim Fabric,1.63,meters
+W-SKINNY-DARK,42,Pocketing Fabric,0.41,meters
+W-SKINNY-DARK,42,Thread,204.0,meters
+W-SKINNY-DARK,42,Button,1.0,pieces
+W-SKINNY-DARK,42,Zipper,1.0,pieces
+W-SKINNY-DARK,42,Rivets,6.0,pieces
+W-SKINNY-DARK,42,Label,2.0,pieces
+W-SKINNY-BLACK,18,Denim Fabric,0.77,meters
+W-SKINNY-BLACK,18,Pocketing Fabric,0.19,meters
+W-SKINNY-BLACK,18,Thread,96.0,meters
+W-SKINNY-BLACK,18,Button,1.0,pieces
+W-SKINNY-BLACK,18,Zipper,1.0,pieces
+W-SKINNY-BLACK,18,Rivets,6.0,pieces
+W-SKINNY-BLACK,18,Label,2.0,pieces
+W-SKINNY-BLACK,20,Denim Fabric,0.84,meters
+W-SKINNY-BLACK,20,Pocketing Fabric,0.21,meters
+W-SKINNY-BLACK,20,Thread,105.0,meters
+W-SKINNY-BLACK,20,Button,1.0,pieces
+W-SKINNY-BLACK,20,Zipper,1.0,pieces
+W-SKINNY-BLACK,20,Rivets,6.0,pieces
+W-SKINNY-BLACK,20,Label,2.0,pieces
+W-SKINNY-BLACK,22,Denim Fabric,0.91,meters
+W-SKINNY-BLACK,22,Pocketing Fabric,0.23,meters
+W-SKINNY-BLACK,22,Thread,114.0,meters
+W-SKINNY-BLACK,22,Button,1.0,pieces
+W-SKINNY-BLACK,22,Zipper,1.0,pieces
+W-SKINNY-BLACK,22,Rivets,6.0,pieces
+W-SKINNY-BLACK,22,Label,2.0,pieces
+W-SKINNY-BLACK,24,Denim Fabric,0.98,meters
+W-SKINNY-BLACK,24,Pocketing Fabric,0.25,meters
+W-SKINNY-BLACK,24,Thread,123.0,meters
+W-SKINNY-BLACK,24,Button,1.0,pieces
+W-SKINNY-BLACK,24,Zipper,1.0,pieces
+W-SKINNY-BLACK,24,Rivets,6.0,pieces
+W-SKINNY-BLACK,24,Label,2.0,pieces
+W-SKINNY-BLACK,26,Denim Fabric,1.06,meters
+W-SKINNY-BLACK,26,Pocketing Fabric,0.26,meters
+W-SKINNY-BLACK,26,Thread,132.0,meters
+W-SKINNY-BLACK,26,Button,1.0,pieces
+W-SKINNY-BLACK,26,Zipper,1.0,pieces
+W-SKINNY-BLACK,26,Rivets,6.0,pieces
+W-SKINNY-BLACK,26,Label,2.0,pieces
+W-SKINNY-BLACK,28,Denim Fabric,1.13,meters
+W-SKINNY-BLACK,28,Pocketing Fabric,0.28,meters
+W-SKINNY-BLACK,28,Thread,141.0,meters
+W-SKINNY-BLACK,28,Button,1.0,pieces
+W-SKINNY-BLACK,28,Zipper,1.0,pieces
+W-SKINNY-BLACK,28,Rivets,6.0,pieces
+W-SKINNY-BLACK,28,Label,2.0,pieces
+W-SKINNY-BLACK,30,Denim Fabric,1.2,meters
+W-SKINNY-BLACK,30,Pocketing Fabric,0.3,meters
+W-SKINNY-BLACK,30,Thread,150.0,meters
+W-SKINNY-BLACK,30,Button,1.0,pieces
+W-SKINNY-BLACK,30,Zipper,1.0,pieces
+W-SKINNY-BLACK,30,Rivets,6.0,pieces
+W-SKINNY-BLACK,30,Label,2.0,pieces
+W-SKINNY-BLACK,32,Denim Fabric,1.27,meters
+W-SKINNY-BLACK,32,Pocketing Fabric,0.32,meters
+W-SKINNY-BLACK,32,Thread,159.0,meters
+W-SKINNY-BLACK,32,Button,1.0,pieces
+W-SKINNY-BLACK,32,Zipper,1.0,pieces
+W-SKINNY-BLACK,32,Rivets,6.0,pieces
+W-SKINNY-BLACK,32,Label,2.0,pieces
+W-SKINNY-BLACK,34,Denim Fabric,1.34,meters
+W-SKINNY-BLACK,34,Pocketing Fabric,0.34,meters
+W-SKINNY-BLACK,34,Thread,168.0,meters
+W-SKINNY-BLACK,34,Button,1.0,pieces
+W-SKINNY-BLACK,34,Zipper,1.0,pieces
+W-SKINNY-BLACK,34,Rivets,6.0,pieces
+W-SKINNY-BLACK,34,Label,2.0,pieces
+W-SKINNY-BLACK,36,Denim Fabric,1.42,meters
+W-SKINNY-BLACK,36,Pocketing Fabric,0.35,meters
+W-SKINNY-BLACK,36,Thread,177.0,meters
+W-SKINNY-BLACK,36,Button,1.0,pieces
+W-SKINNY-BLACK,36,Zipper,1.0,pieces
+W-SKINNY-BLACK,36,Rivets,6.0,pieces
+W-SKINNY-BLACK,36,Label,2.0,pieces
+W-SKINNY-BLACK,38,Denim Fabric,1.49,meters
+W-SKINNY-BLACK,38,Pocketing Fabric,0.37,meters
+W-SKINNY-BLACK,38,Thread,186.0,meters
+W-SKINNY-BLACK,38,Button,1.0,pieces
+W-SKINNY-BLACK,38,Zipper,1.0,pieces
+W-SKINNY-BLACK,38,Rivets,6.0,pieces
+W-SKINNY-BLACK,38,Label,2.0,pieces
+W-SKINNY-BLACK,40,Denim Fabric,1.56,meters
+W-SKINNY-BLACK,40,Pocketing Fabric,0.39,meters
+W-SKINNY-BLACK,40,Thread,195.0,meters
+W-SKINNY-BLACK,40,Button,1.0,pieces
+W-SKINNY-BLACK,40,Zipper,1.0,pieces
+W-SKINNY-BLACK,40,Rivets,6.0,pieces
+W-SKINNY-BLACK,40,Label,2.0,pieces
+W-SKINNY-BLACK,42,Denim Fabric,1.63,meters
+W-SKINNY-BLACK,42,Pocketing Fabric,0.41,meters
+W-SKINNY-BLACK,42,Thread,204.0,meters
+W-SKINNY-BLACK,42,Button,1.0,pieces
+W-SKINNY-BLACK,42,Zipper,1.0,pieces
+W-SKINNY-BLACK,42,Rivets,6.0,pieces
+W-SKINNY-BLACK,42,Label,2.0,pieces
+W-SLIM-LIGHT,18,Denim Fabric,0.77,meters
+W-SLIM-LIGHT,18,Pocketing Fabric,0.19,meters
+W-SLIM-LIGHT,18,Thread,96.0,meters
+W-SLIM-LIGHT,18,Button,1.0,pieces
+W-SLIM-LIGHT,18,Zipper,1.0,pieces
+W-SLIM-LIGHT,18,Rivets,6.0,pieces
+W-SLIM-LIGHT,18,Label,2.0,pieces
+W-SLIM-LIGHT,20,Denim Fabric,0.84,meters
+W-SLIM-LIGHT,20,Pocketing Fabric,0.21,meters
+W-SLIM-LIGHT,20,Thread,105.0,meters
+W-SLIM-LIGHT,20,Button,1.0,pieces
+W-SLIM-LIGHT,20,Zipper,1.0,pieces
+W-SLIM-LIGHT,20,Rivets,6.0,pieces
+W-SLIM-LIGHT,20,Label,2.0,pieces
+W-SLIM-LIGHT,22,Denim Fabric,0.91,meters
+W-SLIM-LIGHT,22,Pocketing Fabric,0.23,meters
+W-SLIM-LIGHT,22,Thread,114.0,meters
+W-SLIM-LIGHT,22,Button,1.0,pieces
+W-SLIM-LIGHT,22,Zipper,1.0,pieces
+W-SLIM-LIGHT,22,Rivets,6.0,pieces
+W-SLIM-LIGHT,22,Label,2.0,pieces
+W-SLIM-LIGHT,24,Denim Fabric,0.98,meters
+W-SLIM-LIGHT,24,Pocketing Fabric,0.25,meters
+W-SLIM-LIGHT,24,Thread,123.0,meters
+W-SLIM-LIGHT,24,Button,1.0,pieces
+W-SLIM-LIGHT,24,Zipper,1.0,pieces
+W-SLIM-LIGHT,24,Rivets,6.0,pieces
+W-SLIM-LIGHT,24,Label,2.0,pieces
+W-SLIM-LIGHT,26,Denim Fabric,1.06,meters
+W-SLIM-LIGHT,26,Pocketing Fabric,0.26,meters
+W-SLIM-LIGHT,26,Thread,132.0,meters
+W-SLIM-LIGHT,26,Button,1.0,pieces
+W-SLIM-LIGHT,26,Zipper,1.0,pieces
+W-SLIM-LIGHT,26,Rivets,6.0,pieces
+W-SLIM-LIGHT,26,Label,2.0,pieces
+W-SLIM-LIGHT,28,Denim Fabric,1.13,meters
+W-SLIM-LIGHT,28,Pocketing Fabric,0.28,meters
+W-SLIM-LIGHT,28,Thread,141.0,meters
+W-SLIM-LIGHT,28,Button,1.0,pieces
+W-SLIM-LIGHT,28,Zipper,1.0,pieces
+W-SLIM-LIGHT,28,Rivets,6.0,pieces
+W-SLIM-LIGHT,28,Label,2.0,pieces
+W-SLIM-LIGHT,30,Denim Fabric,1.2,meters
+W-SLIM-LIGHT,30,Pocketing Fabric,0.3,meters
+W-SLIM-LIGHT,30,Thread,150.0,meters
+W-SLIM-LIGHT,30,Button,1.0,pieces
+W-SLIM-LIGHT,30,Zipper,1.0,pieces
+W-SLIM-LIGHT,30,Rivets,6.0,pieces
+W-SLIM-LIGHT,30,Label,2.0,pieces
+W-SLIM-LIGHT,32,Denim Fabric,1.27,meters
+W-SLIM-LIGHT,32,Pocketing Fabric,0.32,meters
+W-SLIM-LIGHT,32,Thread,159.0,meters
+W-SLIM-LIGHT,32,Button,1.0,pieces
+W-SLIM-LIGHT,32,Zipper,1.0,pieces
+W-SLIM-LIGHT,32,Rivets,6.0,pieces
+W-SLIM-LIGHT,32,Label,2.0,pieces
+W-SLIM-LIGHT,34,Denim Fabric,1.34,meters
+W-SLIM-LIGHT,34,Pocketing Fabric,0.34,meters
+W-SLIM-LIGHT,34,Thread,168.0,meters
+W-SLIM-LIGHT,34,Button,1.0,pieces
+W-SLIM-LIGHT,34,Zipper,1.0,pieces
+W-SLIM-LIGHT,34,Rivets,6.0,pieces
+W-SLIM-LIGHT,34,Label,2.0,pieces
+W-SLIM-LIGHT,36,Denim Fabric,1.42,meters
+W-SLIM-LIGHT,36,Pocketing Fabric,0.35,meters
+W-SLIM-LIGHT,36,Thread,177.0,meters
+W-SLIM-LIGHT,36,Button,1.0,pieces
+W-SLIM-LIGHT,36,Zipper,1.0,pieces
+W-SLIM-LIGHT,36,Rivets,6.0,pieces
+W-SLIM-LIGHT,36,Label,2.0,pieces
+W-SLIM-LIGHT,38,Denim Fabric,1.49,meters
+W-SLIM-LIGHT,38,Pocketing Fabric,0.37,meters
+W-SLIM-LIGHT,38,Thread,186.0,meters
+W-SLIM-LIGHT,38,Button,1.0,pieces
+W-SLIM-LIGHT,38,Zipper,1.0,pieces
+W-SLIM-LIGHT,38,Rivets,6.0,pieces
+W-SLIM-LIGHT,38,Label,2.0,pieces
+W-SLIM-LIGHT,40,Denim Fabric,1.56,meters
+W-SLIM-LIGHT,40,Pocketing Fabric,0.39,meters
+W-SLIM-LIGHT,40,Thread,195.0,meters
+W-SLIM-LIGHT,40,Button,1.0,pieces
+W-SLIM-LIGHT,40,Zipper,1.0,pieces
+W-SLIM-LIGHT,40,Rivets,6.0,pieces
+W-SLIM-LIGHT,40,Label,2.0,pieces
+W-SLIM-LIGHT,42,Denim Fabric,1.63,meters
+W-SLIM-LIGHT,42,Pocketing Fabric,0.41,meters
+W-SLIM-LIGHT,42,Thread,204.0,meters
+W-SLIM-LIGHT,42,Button,1.0,pieces
+W-SLIM-LIGHT,42,Zipper,1.0,pieces
+W-SLIM-LIGHT,42,Rivets,6.0,pieces
+W-SLIM-LIGHT,42,Label,2.0,pieces
+W-SLIM-MEDIUM,18,Denim Fabric,0.77,meters
+W-SLIM-MEDIUM,18,Pocketing Fabric,0.19,meters
+W-SLIM-MEDIUM,18,Thread,96.0,meters
+W-SLIM-MEDIUM,18,Button,1.0,pieces
+W-SLIM-MEDIUM,18,Zipper,1.0,pieces
+W-SLIM-MEDIUM,18,Rivets,6.0,pieces
+W-SLIM-MEDIUM,18,Label,2.0,pieces
+W-SLIM-MEDIUM,20,Denim Fabric,0.84,meters
+W-SLIM-MEDIUM,20,Pocketing Fabric,0.21,meters
+W-SLIM-MEDIUM,20,Thread,105.0,meters
+W-SLIM-MEDIUM,20,Button,1.0,pieces
+W-SLIM-MEDIUM,20,Zipper,1.0,pieces
+W-SLIM-MEDIUM,20,Rivets,6.0,pieces
+W-SLIM-MEDIUM,20,Label,2.0,pieces
+W-SLIM-MEDIUM,22,Denim Fabric,0.91,meters
+W-SLIM-MEDIUM,22,Pocketing Fabric,0.23,meters
+W-SLIM-MEDIUM,22,Thread,114.0,meters
+W-SLIM-MEDIUM,22,Button,1.0,pieces
+W-SLIM-MEDIUM,22,Zipper,1.0,pieces
+W-SLIM-MEDIUM,22,Rivets,6.0,pieces
+W-SLIM-MEDIUM,22,Label,2.0,pieces
+W-SLIM-MEDIUM,24,Denim Fabric,0.98,meters
+W-SLIM-MEDIUM,24,Pocketing Fabric,0.25,meters
+W-SLIM-MEDIUM,24,Thread,123.0,meters
+W-SLIM-MEDIUM,24,Button,1.0,pieces
+W-SLIM-MEDIUM,24,Zipper,1.0,pieces
+W-SLIM-MEDIUM,24,Rivets,6.0,pieces
+W-SLIM-MEDIUM,24,Label,2.0,pieces
+W-SLIM-MEDIUM,26,Denim Fabric,1.06,meters
+W-SLIM-MEDIUM,26,Pocketing Fabric,0.26,meters
+W-SLIM-MEDIUM,26,Thread,132.0,meters
+W-SLIM-MEDIUM,26,Button,1.0,pieces
+W-SLIM-MEDIUM,26,Zipper,1.0,pieces
+W-SLIM-MEDIUM,26,Rivets,6.0,pieces
+W-SLIM-MEDIUM,26,Label,2.0,pieces
+W-SLIM-MEDIUM,28,Denim Fabric,1.13,meters
+W-SLIM-MEDIUM,28,Pocketing Fabric,0.28,meters
+W-SLIM-MEDIUM,28,Thread,141.0,meters
+W-SLIM-MEDIUM,28,Button,1.0,pieces
+W-SLIM-MEDIUM,28,Zipper,1.0,pieces
+W-SLIM-MEDIUM,28,Rivets,6.0,pieces
+W-SLIM-MEDIUM,28,Label,2.0,pieces
+W-SLIM-MEDIUM,30,Denim Fabric,1.2,meters
+W-SLIM-MEDIUM,30,Pocketing Fabric,0.3,meters
+W-SLIM-MEDIUM,30,Thread,150.0,meters
+W-SLIM-MEDIUM,30,Button,1.0,pieces
+W-SLIM-MEDIUM,30,Zipper,1.0,pieces
+W-SLIM-MEDIUM,30,Rivets,6.0,pieces
+W-SLIM-MEDIUM,30,Label,2.0,pieces
+W-SLIM-MEDIUM,32,Denim Fabric,1.27,meters
+W-SLIM-MEDIUM,32,Pocketing Fabric,0.32,meters
+W-SLIM-MEDIUM,32,Thread,159.0,meters
+W-SLIM-MEDIUM,32,Button,1.0,pieces
+W-SLIM-MEDIUM,32,Zipper,1.0,pieces
+W-SLIM-MEDIUM,32,Rivets,6.0,pieces
+W-SLIM-MEDIUM,32,Label,2.0,pieces
+W-SLIM-MEDIUM,34,Denim Fabric,1.34,meters
+W-SLIM-MEDIUM,34,Pocketing Fabric,0.34,meters
+W-SLIM-MEDIUM,34,Thread,168.0,meters
+W-SLIM-MEDIUM,34,Button,1.0,pieces
+W-SLIM-MEDIUM,34,Zipper,1.0,pieces
+W-SLIM-MEDIUM,34,Rivets,6.0,pieces
+W-SLIM-MEDIUM,34,Label,2.0,pieces
+W-SLIM-MEDIUM,36,Denim Fabric,1.42,meters
+W-SLIM-MEDIUM,36,Pocketing Fabric,0.35,meters
+W-SLIM-MEDIUM,36,Thread,177.0,meters
+W-SLIM-MEDIUM,36,Button,1.0,pieces
+W-SLIM-MEDIUM,36,Zipper,1.0,pieces
+W-SLIM-MEDIUM,36,Rivets,6.0,pieces
+W-SLIM-MEDIUM,36,Label,2.0,pieces
+W-SLIM-MEDIUM,38,Denim Fabric,1.49,meters
+W-SLIM-MEDIUM,38,Pocketing Fabric,0.37,meters
+W-SLIM-MEDIUM,38,Thread,186.0,meters
+W-SLIM-MEDIUM,38,Button,1.0,pieces
+W-SLIM-MEDIUM,38,Zipper,1.0,pieces
+W-SLIM-MEDIUM,38,Rivets,6.0,pieces
+W-SLIM-MEDIUM,38,Label,2.0,pieces
+W-SLIM-MEDIUM,40,Denim Fabric,1.56,meters
+W-SLIM-MEDIUM,40,Pocketing Fabric,0.39,meters
+W-SLIM-MEDIUM,40,Thread,195.0,meters
+W-SLIM-MEDIUM,40,Button,1.0,pieces
+W-SLIM-MEDIUM,40,Zipper,1.0,pieces
+W-SLIM-MEDIUM,40,Rivets,6.0,pieces
+W-SLIM-MEDIUM,40,Label,2.0,pieces
+W-SLIM-MEDIUM,42,Denim Fabric,1.63,meters
+W-SLIM-MEDIUM,42,Pocketing Fabric,0.41,meters
+W-SLIM-MEDIUM,42,Thread,204.0,meters
+W-SLIM-MEDIUM,42,Button,1.0,pieces
+W-SLIM-MEDIUM,42,Zipper,1.0,pieces
+W-SLIM-MEDIUM,42,Rivets,6.0,pieces
+W-SLIM-MEDIUM,42,Label,2.0,pieces
+W-SLIM-DARK,18,Denim Fabric,0.77,meters
+W-SLIM-DARK,18,Pocketing Fabric,0.19,meters
+W-SLIM-DARK,18,Thread,96.0,meters
+W-SLIM-DARK,18,Button,1.0,pieces
+W-SLIM-DARK,18,Zipper,1.0,pieces
+W-SLIM-DARK,18,Rivets,6.0,pieces
+W-SLIM-DARK,18,Label,2.0,pieces
+W-SLIM-DARK,20,Denim Fabric,0.84,meters
+W-SLIM-DARK,20,Pocketing Fabric,0.21,meters
+W-SLIM-DARK,20,Thread,105.0,meters
+W-SLIM-DARK,20,Button,1.0,pieces
+W-SLIM-DARK,20,Zipper,1.0,pieces
+W-SLIM-DARK,20,Rivets,6.0,pieces
+W-SLIM-DARK,20,Label,2.0,pieces
+W-SLIM-DARK,22,Denim Fabric,0.91,meters
+W-SLIM-DARK,22,Pocketing Fabric,0.23,meters
+W-SLIM-DARK,22,Thread,114.0,meters
+W-SLIM-DARK,22,Button,1.0,pieces
+W-SLIM-DARK,22,Zipper,1.0,pieces
+W-SLIM-DARK,22,Rivets,6.0,pieces
+W-SLIM-DARK,22,Label,2.0,pieces
+W-SLIM-DARK,24,Denim Fabric,0.98,meters
+W-SLIM-DARK,24,Pocketing Fabric,0.25,meters
+W-SLIM-DARK,24,Thread,123.0,meters
+W-SLIM-DARK,24,Button,1.0,pieces
+W-SLIM-DARK,24,Zipper,1.0,pieces
+W-SLIM-DARK,24,Rivets,6.0,pieces
+W-SLIM-DARK,24,Label,2.0,pieces
+W-SLIM-DARK,26,Denim Fabric,1.06,meters
+W-SLIM-DARK,26,Pocketing Fabric,0.26,meters
+W-SLIM-DARK,26,Thread,132.0,meters
+W-SLIM-DARK,26,Button,1.0,pieces
+W-SLIM-DARK,26,Zipper,1.0,pieces
+W-SLIM-DARK,26,Rivets,6.0,pieces
+W-SLIM-DARK,26,Label,2.0,pieces
+W-SLIM-DARK,28,Denim Fabric,1.13,meters
+W-SLIM-DARK,28,Pocketing Fabric,0.28,meters
+W-SLIM-DARK,28,Thread,141.0,meters
+W-SLIM-DARK,28,Button,1.0,pieces
+W-SLIM-DARK,28,Zipper,1.0,pieces
+W-SLIM-DARK,28,Rivets,6.0,pieces
+W-SLIM-DARK,28,Label,2.0,pieces
+W-SLIM-DARK,30,Denim Fabric,1.2,meters
+W-SLIM-DARK,30,Pocketing Fabric,0.3,meters
+W-SLIM-DARK,30,Thread,150.0,meters
+W-SLIM-DARK,30,Button,1.0,pieces
+W-SLIM-DARK,30,Zipper,1.0,pieces
+W-SLIM-DARK,30,Rivets,6.0,pieces
+W-SLIM-DARK,30,Label,2.0,pieces
+W-SLIM-DARK,32,Denim Fabric,1.27,meters
+W-SLIM-DARK,32,Pocketing Fabric,0.32,meters
+W-SLIM-DARK,32,Thread,159.0,meters
+W-SLIM-DARK,32,Button,1.0,pieces
+W-SLIM-DARK,32,Zipper,1.0,pieces
+W-SLIM-DARK,32,Rivets,6.0,pieces
+W-SLIM-DARK,32,Label,2.0,pieces
+W-SLIM-DARK,34,Denim Fabric,1.34,meters
+W-SLIM-DARK,34,Pocketing Fabric,0.34,meters
+W-SLIM-DARK,34,Thread,168.0,meters
+W-SLIM-DARK,34,Button,1.0,pieces
+W-SLIM-DARK,34,Zipper,1.0,pieces
+W-SLIM-DARK,34,Rivets,6.0,pieces
+W-SLIM-DARK,34,Label,2.0,pieces
+W-SLIM-DARK,36,Denim Fabric,1.42,meters
+W-SLIM-DARK,36,Pocketing Fabric,0.35,meters
+W-SLIM-DARK,36,Thread,177.0,meters
+W-SLIM-DARK,36,Button,1.0,pieces
+W-SLIM-DARK,36,Zipper,1.0,pieces
+W-SLIM-DARK,36,Rivets,6.0,pieces
+W-SLIM-DARK,36,Label,2.0,pieces
+W-SLIM-DARK,38,Denim Fabric,1.49,meters
+W-SLIM-DARK,38,Pocketing Fabric,0.37,meters
+W-SLIM-DARK,38,Thread,186.0,meters
+W-SLIM-DARK,38,Button,1.0,pieces
+W-SLIM-DARK,38,Zipper,1.0,pieces
+W-SLIM-DARK,38,Rivets,6.0,pieces
+W-SLIM-DARK,38,Label,2.0,pieces
+W-SLIM-DARK,40,Denim Fabric,1.56,meters
+W-SLIM-DARK,40,Pocketing Fabric,0.39,meters
+W-SLIM-DARK,40,Thread,195.0,meters
+W-SLIM-DARK,40,Button,1.0,pieces
+W-SLIM-DARK,40,Zipper,1.0,pieces
+W-SLIM-DARK,40,Rivets,6.0,pieces
+W-SLIM-DARK,40,Label,2.0,pieces
+W-SLIM-DARK,42,Denim Fabric,1.63,meters
+W-SLIM-DARK,42,Pocketing Fabric,0.41,meters
+W-SLIM-DARK,42,Thread,204.0,meters
+W-SLIM-DARK,42,Button,1.0,pieces
+W-SLIM-DARK,42,Zipper,1.0,pieces
+W-SLIM-DARK,42,Rivets,6.0,pieces
+W-SLIM-DARK,42,Label,2.0,pieces
+W-SLIM-BLACK,18,Denim Fabric,0.77,meters
+W-SLIM-BLACK,18,Pocketing Fabric,0.19,meters
+W-SLIM-BLACK,18,Thread,96.0,meters
+W-SLIM-BLACK,18,Button,1.0,pieces
+W-SLIM-BLACK,18,Zipper,1.0,pieces
+W-SLIM-BLACK,18,Rivets,6.0,pieces
+W-SLIM-BLACK,18,Label,2.0,pieces
+W-SLIM-BLACK,20,Denim Fabric,0.84,meters
+W-SLIM-BLACK,20,Pocketing Fabric,0.21,meters
+W-SLIM-BLACK,20,Thread,105.0,meters
+W-SLIM-BLACK,20,Button,1.0,pieces
+W-SLIM-BLACK,20,Zipper,1.0,pieces
+W-SLIM-BLACK,20,Rivets,6.0,pieces
+W-SLIM-BLACK,20,Label,2.0,pieces
+W-SLIM-BLACK,22,Denim Fabric,0.91,meters
+W-SLIM-BLACK,22,Pocketing Fabric,0.23,meters
+W-SLIM-BLACK,22,Thread,114.0,meters
+W-SLIM-BLACK,22,Button,1.0,pieces
+W-SLIM-BLACK,22,Zipper,1.0,pieces
+W-SLIM-BLACK,22,Rivets,6.0,pieces
+W-SLIM-BLACK,22,Label,2.0,pieces
+W-SLIM-BLACK,24,Denim Fabric,0.98,meters
+W-SLIM-BLACK,24,Pocketing Fabric,0.25,meters
+W-SLIM-BLACK,24,Thread,123.0,meters
+W-SLIM-BLACK,24,Button,1.0,pieces
+W-SLIM-BLACK,24,Zipper,1.0,pieces
+W-SLIM-BLACK,24,Rivets,6.0,pieces
+W-SLIM-BLACK,24,Label,2.0,pieces
+W-SLIM-BLACK,26,Denim Fabric,1.06,meters
+W-SLIM-BLACK,26,Pocketing Fabric,0.26,meters
+W-SLIM-BLACK,26,Thread,132.0,meters
+W-SLIM-BLACK,26,Button,1.0,pieces
+W-SLIM-BLACK,26,Zipper,1.0,pieces
+W-SLIM-BLACK,26,Rivets,6.0,pieces
+W-SLIM-BLACK,26,Label,2.0,pieces
+W-SLIM-BLACK,28,Denim Fabric,1.13,meters
+W-SLIM-BLACK,28,Pocketing Fabric,0.28,meters
+W-SLIM-BLACK,28,Thread,141.0,meters
+W-SLIM-BLACK,28,Button,1.0,pieces
+W-SLIM-BLACK,28,Zipper,1.0,pieces
+W-SLIM-BLACK,28,Rivets,6.0,pieces
+W-SLIM-BLACK,28,Label,2.0,pieces
+W-SLIM-BLACK,30,Denim Fabric,1.2,meters
+W-SLIM-BLACK,30,Pocketing Fabric,0.3,meters
+W-SLIM-BLACK,30,Thread,150.0,meters
+W-SLIM-BLACK,30,Button,1.0,pieces
+W-SLIM-BLACK,30,Zipper,1.0,pieces
+W-SLIM-BLACK,30,Rivets,6.0,pieces
+W-SLIM-BLACK,30,Label,2.0,pieces
+W-SLIM-BLACK,32,Denim Fabric,1.27,meters
+W-SLIM-BLACK,32,Pocketing Fabric,0.32,meters
+W-SLIM-BLACK,32,Thread,159.0,meters
+W-SLIM-BLACK,32,Button,1.0,pieces
+W-SLIM-BLACK,32,Zipper,1.0,pieces
+W-SLIM-BLACK,32,Rivets,6.0,pieces
+W-SLIM-BLACK,32,Label,2.0,pieces
+W-SLIM-BLACK,34,Denim Fabric,1.34,meters
+W-SLIM-BLACK,34,Pocketing Fabric,0.34,meters
+W-SLIM-BLACK,34,Thread,168.0,meters
+W-SLIM-BLACK,34,Button,1.0,pieces
+W-SLIM-BLACK,34,Zipper,1.0,pieces
+W-SLIM-BLACK,34,Rivets,6.0,pieces
+W-SLIM-BLACK,34,Label,2.0,pieces
+W-SLIM-BLACK,36,Denim Fabric,1.42,meters
+W-SLIM-BLACK,36,Pocketing Fabric,0.35,meters
+W-SLIM-BLACK,36,Thread,177.0,meters
+W-SLIM-BLACK,36,Button,1.0,pieces
+W-SLIM-BLACK,36,Zipper,1.0,pieces
+W-SLIM-BLACK,36,Rivets,6.0,pieces
+W-SLIM-BLACK,36,Label,2.0,pieces
+W-SLIM-BLACK,38,Denim Fabric,1.49,meters
+W-SLIM-BLACK,38,Pocketing Fabric,0.37,meters
+W-SLIM-BLACK,38,Thread,186.0,meters
+W-SLIM-BLACK,38,Button,1.0,pieces
+W-SLIM-BLACK,38,Zipper,1.0,pieces
+W-SLIM-BLACK,38,Rivets,6.0,pieces
+W-SLIM-BLACK,38,Label,2.0,pieces
+W-SLIM-BLACK,40,Denim Fabric,1.56,meters
+W-SLIM-BLACK,40,Pocketing Fabric,0.39,meters
+W-SLIM-BLACK,40,Thread,195.0,meters
+W-SLIM-BLACK,40,Button,1.0,pieces
+W-SLIM-BLACK,40,Zipper,1.0,pieces
+W-SLIM-BLACK,40,Rivets,6.0,pieces
+W-SLIM-BLACK,40,Label,2.0,pieces
+W-SLIM-BLACK,42,Denim Fabric,1.63,meters
+W-SLIM-BLACK,42,Pocketing Fabric,0.41,meters
+W-SLIM-BLACK,42,Thread,204.0,meters
+W-SLIM-BLACK,42,Button,1.0,pieces
+W-SLIM-BLACK,42,Zipper,1.0,pieces
+W-SLIM-BLACK,42,Rivets,6.0,pieces
+W-SLIM-BLACK,42,Label,2.0,pieces
+W-REGULAR-LIGHT,18,Denim Fabric,0.77,meters
+W-REGULAR-LIGHT,18,Pocketing Fabric,0.19,meters
+W-REGULAR-LIGHT,18,Thread,96.0,meters
+W-REGULAR-LIGHT,18,Button,1.0,pieces
+W-REGULAR-LIGHT,18,Zipper,1.0,pieces
+W-REGULAR-LIGHT,18,Rivets,6.0,pieces
+W-REGULAR-LIGHT,18,Label,2.0,pieces
+W-REGULAR-LIGHT,20,Denim Fabric,0.84,meters
+W-REGULAR-LIGHT,20,Pocketing Fabric,0.21,meters
+W-REGULAR-LIGHT,20,Thread,105.0,meters
+W-REGULAR-LIGHT,20,Button,1.0,pieces
+W-REGULAR-LIGHT,20,Zipper,1.0,pieces
+W-REGULAR-LIGHT,20,Rivets,6.0,pieces
+W-REGULAR-LIGHT,20,Label,2.0,pieces
+W-REGULAR-LIGHT,22,Denim Fabric,0.91,meters
+W-REGULAR-LIGHT,22,Pocketing Fabric,0.23,meters
+W-REGULAR-LIGHT,22,Thread,114.0,meters
+W-REGULAR-LIGHT,22,Button,1.0,pieces
+W-REGULAR-LIGHT,22,Zipper,1.0,pieces
+W-REGULAR-LIGHT,22,Rivets,6.0,pieces
+W-REGULAR-LIGHT,22,Label,2.0,pieces
+W-REGULAR-LIGHT,24,Denim Fabric,0.98,meters
+W-REGULAR-LIGHT,24,Pocketing Fabric,0.25,meters
+W-REGULAR-LIGHT,24,Thread,123.0,meters
+W-REGULAR-LIGHT,24,Button,1.0,pieces
+W-REGULAR-LIGHT,24,Zipper,1.0,pieces
+W-REGULAR-LIGHT,24,Rivets,6.0,pieces
+W-REGULAR-LIGHT,24,Label,2.0,pieces
+W-REGULAR-LIGHT,26,Denim Fabric,1.06,meters
+W-REGULAR-LIGHT,26,Pocketing Fabric,0.26,meters
+W-REGULAR-LIGHT,26,Thread,132.0,meters
+W-REGULAR-LIGHT,26,Button,1.0,pieces
+W-REGULAR-LIGHT,26,Zipper,1.0,pieces
+W-REGULAR-LIGHT,26,Rivets,6.0,pieces
+W-REGULAR-LIGHT,26,Label,2.0,pieces
+W-REGULAR-LIGHT,28,Denim Fabric,1.13,meters
+W-REGULAR-LIGHT,28,Pocketing Fabric,0.28,meters
+W-REGULAR-LIGHT,28,Thread,141.0,meters
+W-REGULAR-LIGHT,28,Button,1.0,pieces
+W-REGULAR-LIGHT,28,Zipper,1.0,pieces
+W-REGULAR-LIGHT,28,Rivets,6.0,pieces
+W-REGULAR-LIGHT,28,Label,2.0,pieces
+W-REGULAR-LIGHT,30,Denim Fabric,1.2,meters
+W-REGULAR-LIGHT,30,Pocketing Fabric,0.3,meters
+W-REGULAR-LIGHT,30,Thread,150.0,meters
+W-REGULAR-LIGHT,30,Button,1.0,pieces
+W-REGULAR-LIGHT,30,Zipper,1.0,pieces
+W-REGULAR-LIGHT,30,Rivets,6.0,pieces
+W-REGULAR-LIGHT,30,Label,2.0,pieces
+W-REGULAR-LIGHT,32,Denim Fabric,1.27,meters
+W-REGULAR-LIGHT,32,Pocketing Fabric,0.32,meters
+W-REGULAR-LIGHT,32,Thread,159.0,meters
+W-REGULAR-LIGHT,32,Button,1.0,pieces
+W-REGULAR-LIGHT,32,Zipper,1.0,pieces
+W-REGULAR-LIGHT,32,Rivets,6.0,pieces
+W-REGULAR-LIGHT,32,Label,2.0,pieces
+W-REGULAR-LIGHT,34,Denim Fabric,1.34,meters
+W-REGULAR-LIGHT,34,Pocketing Fabric,0.34,meters
+W-REGULAR-LIGHT,34,Thread,168.0,meters
+W-REGULAR-LIGHT,34,Button,1.0,pieces
+W-REGULAR-LIGHT,34,Zipper,1.0,pieces
+W-REGULAR-LIGHT,34,Rivets,6.0,pieces
+W-REGULAR-LIGHT,34,Label,2.0,pieces
+W-REGULAR-LIGHT,36,Denim Fabric,1.42,meters
+W-REGULAR-LIGHT,36,Pocketing Fabric,0.35,meters
+W-REGULAR-LIGHT,36,Thread,177.0,meters
+W-REGULAR-LIGHT,36,Button,1.0,pieces
+W-REGULAR-LIGHT,36,Zipper,1.0,pieces
+W-REGULAR-LIGHT,36,Rivets,6.0,pieces
+W-REGULAR-LIGHT,36,Label,2.0,pieces
+W-REGULAR-LIGHT,38,Denim Fabric,1.49,meters
+W-REGULAR-LIGHT,38,Pocketing Fabric,0.37,meters
+W-REGULAR-LIGHT,38,Thread,186.0,meters
+W-REGULAR-LIGHT,38,Button,1.0,pieces
+W-REGULAR-LIGHT,38,Zipper,1.0,pieces
+W-REGULAR-LIGHT,38,Rivets,6.0,pieces
+W-REGULAR-LIGHT,38,Label,2.0,pieces
+W-REGULAR-LIGHT,40,Denim Fabric,1.56,meters
+W-REGULAR-LIGHT,40,Pocketing Fabric,0.39,meters
+W-REGULAR-LIGHT,40,Thread,195.0,meters
+W-REGULAR-LIGHT,40,Button,1.0,pieces
+W-REGULAR-LIGHT,40,Zipper,1.0,pieces
+W-REGULAR-LIGHT,40,Rivets,6.0,pieces
+W-REGULAR-LIGHT,40,Label,2.0,pieces
+W-REGULAR-LIGHT,42,Denim Fabric,1.63,meters
+W-REGULAR-LIGHT,42,Pocketing Fabric,0.41,meters
+W-REGULAR-LIGHT,42,Thread,204.0,meters
+W-REGULAR-LIGHT,42,Button,1.0,pieces
+W-REGULAR-LIGHT,42,Zipper,1.0,pieces
+W-REGULAR-LIGHT,42,Rivets,6.0,pieces
+W-REGULAR-LIGHT,42,Label,2.0,pieces
+W-REGULAR-MEDIUM,18,Denim Fabric,0.77,meters
+W-REGULAR-MEDIUM,18,Pocketing Fabric,0.19,meters
+W-REGULAR-MEDIUM,18,Thread,96.0,meters
+W-REGULAR-MEDIUM,18,Button,1.0,pieces
+W-REGULAR-MEDIUM,18,Zipper,1.0,pieces
+W-REGULAR-MEDIUM,18,Rivets,6.0,pieces
+W-REGULAR-MEDIUM,18,Label,2.0,pieces
+W-REGULAR-MEDIUM,20,Denim Fabric,0.84,meters
+W-REGULAR-MEDIUM,20,Pocketing Fabric,0.21,meters
+W-REGULAR-MEDIUM,20,Thread,105.0,meters
+W-REGULAR-MEDIUM,20,Button,1.0,pieces
+W-REGULAR-MEDIUM,20,Zipper,1.0,pieces
+W-REGULAR-MEDIUM,20,Rivets,6.0,pieces
+W-REGULAR-MEDIUM,20,Label,2.0,pieces
+W-REGULAR-MEDIUM,22,Denim Fabric,0.91,meters
+W-REGULAR-MEDIUM,22,Pocketing Fabric,0.23,meters
+W-REGULAR-MEDIUM,22,Thread,114.0,meters
+W-REGULAR-MEDIUM,22,Button,1.0,pieces
+W-REGULAR-MEDIUM,22,Zipper,1.0,pieces
+W-REGULAR-MEDIUM,22,Rivets,6.0,pieces
+W-REGULAR-MEDIUM,22,Label,2.0,pieces
+W-REGULAR-MEDIUM,24,Denim Fabric,0.98,meters
+W-REGULAR-MEDIUM,24,Pocketing Fabric,0.25,meters
+W-REGULAR-MEDIUM,24,Thread,123.0,meters
+W-REGULAR-MEDIUM,24,Button,1.0,pieces
+W-REGULAR-MEDIUM,24,Zipper,1.0,pieces
+W-REGULAR-MEDIUM,24,Rivets,6.0,pieces
+W-REGULAR-MEDIUM,24,Label,2.0,pieces
+W-REGULAR-MEDIUM,26,Denim Fabric,1.06,meters
+W-REGULAR-MEDIUM,26,Pocketing Fabric,0.26,meters
+W-REGULAR-MEDIUM,26,Thread,132.0,meters
+W-REGULAR-MEDIUM,26,Button,1.0,pieces
+W-REGULAR-MEDIUM,26,Zipper,1.0,pieces
+W-REGULAR-MEDIUM,26,Rivets,6.0,pieces
+W-REGULAR-MEDIUM,26,Label,2.0,pieces
+W-REGULAR-MEDIUM,28,Denim Fabric,1.13,meters
+W-REGULAR-MEDIUM,28,Pocketing Fabric,0.28,meters
+W-REGULAR-MEDIUM,28,Thread,141.0,meters
+W-REGULAR-MEDIUM,28,Button,1.0,pieces
+W-REGULAR-MEDIUM,28,Zipper,1.0,pieces
+W-REGULAR-MEDIUM,28,Rivets,6.0,pieces
+W-REGULAR-MEDIUM,28,Label,2.0,pieces
+W-REGULAR-MEDIUM,30,Denim Fabric,1.2,meters
+W-REGULAR-MEDIUM,30,Pocketing Fabric,0.3,meters
+W-REGULAR-MEDIUM,30,Thread,150.0,meters
+W-REGULAR-MEDIUM,30,Button,1.0,pieces
+W-REGULAR-MEDIUM,30,Zipper,1.0,pieces
+W-REGULAR-MEDIUM,30,Rivets,6.0,pieces
+W-REGULAR-MEDIUM,30,Label,2.0,pieces
+W-REGULAR-MEDIUM,32,Denim Fabric,1.27,meters
+W-REGULAR-MEDIUM,32,Pocketing Fabric,0.32,meters
+W-REGULAR-MEDIUM,32,Thread,159.0,meters
+W-REGULAR-MEDIUM,32,Button,1.0,pieces
+W-REGULAR-MEDIUM,32,Zipper,1.0,pieces
+W-REGULAR-MEDIUM,32,Rivets,6.0,pieces
+W-REGULAR-MEDIUM,32,Label,2.0,pieces
+W-REGULAR-MEDIUM,34,Denim Fabric,1.34,meters
+W-REGULAR-MEDIUM,34,Pocketing Fabric,0.34,meters
+W-REGULAR-MEDIUM,34,Thread,168.0,meters
+W-REGULAR-MEDIUM,34,Button,1.0,pieces
+W-REGULAR-MEDIUM,34,Zipper,1.0,pieces
+W-REGULAR-MEDIUM,34,Rivets,6.0,pieces
+W-REGULAR-MEDIUM,34,Label,2.0,pieces
+W-REGULAR-MEDIUM,36,Denim Fabric,1.42,meters
+W-REGULAR-MEDIUM,36,Pocketing Fabric,0.35,meters
+W-REGULAR-MEDIUM,36,Thread,177.0,meters
+W-REGULAR-MEDIUM,36,Button,1.0,pieces
+W-REGULAR-MEDIUM,36,Zipper,1.0,pieces
+W-REGULAR-MEDIUM,36,Rivets,6.0,pieces
+W-REGULAR-MEDIUM,36,Label,2.0,pieces
+W-REGULAR-MEDIUM,38,Denim Fabric,1.49,meters
+W-REGULAR-MEDIUM,38,Pocketing Fabric,0.37,meters
+W-REGULAR-MEDIUM,38,Thread,186.0,meters
+W-REGULAR-MEDIUM,38,Button,1.0,pieces
+W-REGULAR-MEDIUM,38,Zipper,1.0,pieces
+W-REGULAR-MEDIUM,38,Rivets,6.0,pieces
+W-REGULAR-MEDIUM,38,Label,2.0,pieces
+W-REGULAR-MEDIUM,40,Denim Fabric,1.56,meters
+W-REGULAR-MEDIUM,40,Pocketing Fabric,0.39,meters
+W-REGULAR-MEDIUM,40,Thread,195.0,meters
+W-REGULAR-MEDIUM,40,Button,1.0,pieces
+W-REGULAR-MEDIUM,40,Zipper,1.0,pieces
+W-REGULAR-MEDIUM,40,Rivets,6.0,pieces
+W-REGULAR-MEDIUM,40,Label,2.0,pieces
+W-REGULAR-MEDIUM,42,Denim Fabric,1.63,meters
+W-REGULAR-MEDIUM,42,Pocketing Fabric,0.41,meters
+W-REGULAR-MEDIUM,42,Thread,204.0,meters
+W-REGULAR-MEDIUM,42,Button,1.0,pieces
+W-REGULAR-MEDIUM,42,Zipper,1.0,pieces
+W-REGULAR-MEDIUM,42,Rivets,6.0,pieces
+W-REGULAR-MEDIUM,42,Label,2.0,pieces
+W-REGULAR-DARK,18,Denim Fabric,0.77,meters
+W-REGULAR-DARK,18,Pocketing Fabric,0.19,meters
+W-REGULAR-DARK,18,Thread,96.0,meters
+W-REGULAR-DARK,18,Button,1.0,pieces
+W-REGULAR-DARK,18,Zipper,1.0,pieces
+W-REGULAR-DARK,18,Rivets,6.0,pieces
+W-REGULAR-DARK,18,Label,2.0,pieces
+W-REGULAR-DARK,20,Denim Fabric,0.84,meters
+W-REGULAR-DARK,20,Pocketing Fabric,0.21,meters
+W-REGULAR-DARK,20,Thread,105.0,meters
+W-REGULAR-DARK,20,Button,1.0,pieces
+W-REGULAR-DARK,20,Zipper,1.0,pieces
+W-REGULAR-DARK,20,Rivets,6.0,pieces
+W-REGULAR-DARK,20,Label,2.0,pieces
+W-REGULAR-DARK,22,Denim Fabric,0.91,meters
+W-REGULAR-DARK,22,Pocketing Fabric,0.23,meters
+W-REGULAR-DARK,22,Thread,114.0,meters
+W-REGULAR-DARK,22,Button,1.0,pieces
+W-REGULAR-DARK,22,Zipper,1.0,pieces
+W-REGULAR-DARK,22,Rivets,6.0,pieces
+W-REGULAR-DARK,22,Label,2.0,pieces
+W-REGULAR-DARK,24,Denim Fabric,0.98,meters
+W-REGULAR-DARK,24,Pocketing Fabric,0.25,meters
+W-REGULAR-DARK,24,Thread,123.0,meters
+W-REGULAR-DARK,24,Button,1.0,pieces
+W-REGULAR-DARK,24,Zipper,1.0,pieces
+W-REGULAR-DARK,24,Rivets,6.0,pieces
+W-REGULAR-DARK,24,Label,2.0,pieces
+W-REGULAR-DARK,26,Denim Fabric,1.06,meters
+W-REGULAR-DARK,26,Pocketing Fabric,0.26,meters
+W-REGULAR-DARK,26,Thread,132.0,meters
+W-REGULAR-DARK,26,Button,1.0,pieces
+W-REGULAR-DARK,26,Zipper,1.0,pieces
+W-REGULAR-DARK,26,Rivets,6.0,pieces
+W-REGULAR-DARK,26,Label,2.0,pieces
+W-REGULAR-DARK,28,Denim Fabric,1.13,meters
+W-REGULAR-DARK,28,Pocketing Fabric,0.28,meters
+W-REGULAR-DARK,28,Thread,141.0,meters
+W-REGULAR-DARK,28,Button,1.0,pieces
+W-REGULAR-DARK,28,Zipper,1.0,pieces
+W-REGULAR-DARK,28,Rivets,6.0,pieces
+W-REGULAR-DARK,28,Label,2.0,pieces
+W-REGULAR-DARK,30,Denim Fabric,1.2,meters
+W-REGULAR-DARK,30,Pocketing Fabric,0.3,meters
+W-REGULAR-DARK,30,Thread,150.0,meters
+W-REGULAR-DARK,30,Button,1.0,pieces
+W-REGULAR-DARK,30,Zipper,1.0,pieces
+W-REGULAR-DARK,30,Rivets,6.0,pieces
+W-REGULAR-DARK,30,Label,2.0,pieces
+W-REGULAR-DARK,32,Denim Fabric,1.27,meters
+W-REGULAR-DARK,32,Pocketing Fabric,0.32,meters
+W-REGULAR-DARK,32,Thread,159.0,meters
+W-REGULAR-DARK,32,Button,1.0,pieces
+W-REGULAR-DARK,32,Zipper,1.0,pieces
+W-REGULAR-DARK,32,Rivets,6.0,pieces
+W-REGULAR-DARK,32,Label,2.0,pieces
+W-REGULAR-DARK,34,Denim Fabric,1.34,meters
+W-REGULAR-DARK,34,Pocketing Fabric,0.34,meters
+W-REGULAR-DARK,34,Thread,168.0,meters
+W-REGULAR-DARK,34,Button,1.0,pieces
+W-REGULAR-DARK,34,Zipper,1.0,pieces
+W-REGULAR-DARK,34,Rivets,6.0,pieces
+W-REGULAR-DARK,34,Label,2.0,pieces
+W-REGULAR-DARK,36,Denim Fabric,1.42,meters
+W-REGULAR-DARK,36,Pocketing Fabric,0.35,meters
+W-REGULAR-DARK,36,Thread,177.0,meters
+W-REGULAR-DARK,36,Button,1.0,pieces
+W-REGULAR-DARK,36,Zipper,1.0,pieces
+W-REGULAR-DARK,36,Rivets,6.0,pieces
+W-REGULAR-DARK,36,Label,2.0,pieces
+W-REGULAR-DARK,38,Denim Fabric,1.49,meters
+W-REGULAR-DARK,38,Pocketing Fabric,0.37,meters
+W-REGULAR-DARK,38,Thread,186.0,meters
+W-REGULAR-DARK,38,Button,1.0,pieces
+W-REGULAR-DARK,38,Zipper,1.0,pieces
+W-REGULAR-DARK,38,Rivets,6.0,pieces
+W-REGULAR-DARK,38,Label,2.0,pieces
+W-REGULAR-DARK,40,Denim Fabric,1.56,meters
+W-REGULAR-DARK,40,Pocketing Fabric,0.39,meters
+W-REGULAR-DARK,40,Thread,195.0,meters
+W-REGULAR-DARK,40,Button,1.0,pieces
+W-REGULAR-DARK,40,Zipper,1.0,pieces
+W-REGULAR-DARK,40,Rivets,6.0,pieces
+W-REGULAR-DARK,40,Label,2.0,pieces
+W-REGULAR-DARK,42,Denim Fabric,1.63,meters
+W-REGULAR-DARK,42,Pocketing Fabric,0.41,meters
+W-REGULAR-DARK,42,Thread,204.0,meters
+W-REGULAR-DARK,42,Button,1.0,pieces
+W-REGULAR-DARK,42,Zipper,1.0,pieces
+W-REGULAR-DARK,42,Rivets,6.0,pieces
+W-REGULAR-DARK,42,Label,2.0,pieces
+W-REGULAR-BLACK,18,Denim Fabric,0.77,meters
+W-REGULAR-BLACK,18,Pocketing Fabric,0.19,meters
+W-REGULAR-BLACK,18,Thread,96.0,meters
+W-REGULAR-BLACK,18,Button,1.0,pieces
+W-REGULAR-BLACK,18,Zipper,1.0,pieces
+W-REGULAR-BLACK,18,Rivets,6.0,pieces
+W-REGULAR-BLACK,18,Label,2.0,pieces
+W-REGULAR-BLACK,20,Denim Fabric,0.84,meters
+W-REGULAR-BLACK,20,Pocketing Fabric,0.21,meters
+W-REGULAR-BLACK,20,Thread,105.0,meters
+W-REGULAR-BLACK,20,Button,1.0,pieces
+W-REGULAR-BLACK,20,Zipper,1.0,pieces
+W-REGULAR-BLACK,20,Rivets,6.0,pieces
+W-REGULAR-BLACK,20,Label,2.0,pieces
+W-REGULAR-BLACK,22,Denim Fabric,0.91,meters
+W-REGULAR-BLACK,22,Pocketing Fabric,0.23,meters
+W-REGULAR-BLACK,22,Thread,114.0,meters
+W-REGULAR-BLACK,22,Button,1.0,pieces
+W-REGULAR-BLACK,22,Zipper,1.0,pieces
+W-REGULAR-BLACK,22,Rivets,6.0,pieces
+W-REGULAR-BLACK,22,Label,2.0,pieces
+W-REGULAR-BLACK,24,Denim Fabric,0.98,meters
+W-REGULAR-BLACK,24,Pocketing Fabric,0.25,meters
+W-REGULAR-BLACK,24,Thread,123.0,meters
+W-REGULAR-BLACK,24,Button,1.0,pieces
+W-REGULAR-BLACK,24,Zipper,1.0,pieces
+W-REGULAR-BLACK,24,Rivets,6.0,pieces
+W-REGULAR-BLACK,24,Label,2.0,pieces
+W-REGULAR-BLACK,26,Denim Fabric,1.06,meters
+W-REGULAR-BLACK,26,Pocketing Fabric,0.26,meters
+W-REGULAR-BLACK,26,Thread,132.0,meters
+W-REGULAR-BLACK,26,Button,1.0,pieces
+W-REGULAR-BLACK,26,Zipper,1.0,pieces
+W-REGULAR-BLACK,26,Rivets,6.0,pieces
+W-REGULAR-BLACK,26,Label,2.0,pieces
+W-REGULAR-BLACK,28,Denim Fabric,1.13,meters
+W-REGULAR-BLACK,28,Pocketing Fabric,0.28,meters
+W-REGULAR-BLACK,28,Thread,141.0,meters
+W-REGULAR-BLACK,28,Button,1.0,pieces
+W-REGULAR-BLACK,28,Zipper,1.0,pieces
+W-REGULAR-BLACK,28,Rivets,6.0,pieces
+W-REGULAR-BLACK,28,Label,2.0,pieces
+W-REGULAR-BLACK,30,Denim Fabric,1.2,meters
+W-REGULAR-BLACK,30,Pocketing Fabric,0.3,meters
+W-REGULAR-BLACK,30,Thread,150.0,meters
+W-REGULAR-BLACK,30,Button,1.0,pieces
+W-REGULAR-BLACK,30,Zipper,1.0,pieces
+W-REGULAR-BLACK,30,Rivets,6.0,pieces
+W-REGULAR-BLACK,30,Label,2.0,pieces
+W-REGULAR-BLACK,32,Denim Fabric,1.27,meters
+W-REGULAR-BLACK,32,Pocketing Fabric,0.32,meters
+W-REGULAR-BLACK,32,Thread,159.0,meters
+W-REGULAR-BLACK,32,Button,1.0,pieces
+W-REGULAR-BLACK,32,Zipper,1.0,pieces
+W-REGULAR-BLACK,32,Rivets,6.0,pieces
+W-REGULAR-BLACK,32,Label,2.0,pieces
+W-REGULAR-BLACK,34,Denim Fabric,1.34,meters
+W-REGULAR-BLACK,34,Pocketing Fabric,0.34,meters
+W-REGULAR-BLACK,34,Thread,168.0,meters
+W-REGULAR-BLACK,34,Button,1.0,pieces
+W-REGULAR-BLACK,34,Zipper,1.0,pieces
+W-REGULAR-BLACK,34,Rivets,6.0,pieces
+W-REGULAR-BLACK,34,Label,2.0,pieces
+W-REGULAR-BLACK,36,Denim Fabric,1.42,meters
+W-REGULAR-BLACK,36,Pocketing Fabric,0.35,meters
+W-REGULAR-BLACK,36,Thread,177.0,meters
+W-REGULAR-BLACK,36,Button,1.0,pieces
+W-REGULAR-BLACK,36,Zipper,1.0,pieces
+W-REGULAR-BLACK,36,Rivets,6.0,pieces
+W-REGULAR-BLACK,36,Label,2.0,pieces
+W-REGULAR-BLACK,38,Denim Fabric,1.49,meters
+W-REGULAR-BLACK,38,Pocketing Fabric,0.37,meters
+W-REGULAR-BLACK,38,Thread,186.0,meters
+W-REGULAR-BLACK,38,Button,1.0,pieces
+W-REGULAR-BLACK,38,Zipper,1.0,pieces
+W-REGULAR-BLACK,38,Rivets,6.0,pieces
+W-REGULAR-BLACK,38,Label,2.0,pieces
+W-REGULAR-BLACK,40,Denim Fabric,1.56,meters
+W-REGULAR-BLACK,40,Pocketing Fabric,0.39,meters
+W-REGULAR-BLACK,40,Thread,195.0,meters
+W-REGULAR-BLACK,40,Button,1.0,pieces
+W-REGULAR-BLACK,40,Zipper,1.0,pieces
+W-REGULAR-BLACK,40,Rivets,6.0,pieces
+W-REGULAR-BLACK,40,Label,2.0,pieces
+W-REGULAR-BLACK,42,Denim Fabric,1.63,meters
+W-REGULAR-BLACK,42,Pocketing Fabric,0.41,meters
+W-REGULAR-BLACK,42,Thread,204.0,meters
+W-REGULAR-BLACK,42,Button,1.0,pieces
+W-REGULAR-BLACK,42,Zipper,1.0,pieces
+W-REGULAR-BLACK,42,Rivets,6.0,pieces
+W-REGULAR-BLACK,42,Label,2.0,pieces
+W-RELAXED-LIGHT,18,Denim Fabric,0.77,meters
+W-RELAXED-LIGHT,18,Pocketing Fabric,0.19,meters
+W-RELAXED-LIGHT,18,Thread,96.0,meters
+W-RELAXED-LIGHT,18,Button,1.0,pieces
+W-RELAXED-LIGHT,18,Zipper,1.0,pieces
+W-RELAXED-LIGHT,18,Rivets,6.0,pieces
+W-RELAXED-LIGHT,18,Label,2.0,pieces
+W-RELAXED-LIGHT,20,Denim Fabric,0.84,meters
+W-RELAXED-LIGHT,20,Pocketing Fabric,0.21,meters
+W-RELAXED-LIGHT,20,Thread,105.0,meters
+W-RELAXED-LIGHT,20,Button,1.0,pieces
+W-RELAXED-LIGHT,20,Zipper,1.0,pieces
+W-RELAXED-LIGHT,20,Rivets,6.0,pieces
+W-RELAXED-LIGHT,20,Label,2.0,pieces
+W-RELAXED-LIGHT,22,Denim Fabric,0.91,meters
+W-RELAXED-LIGHT,22,Pocketing Fabric,0.23,meters
+W-RELAXED-LIGHT,22,Thread,114.0,meters
+W-RELAXED-LIGHT,22,Button,1.0,pieces
+W-RELAXED-LIGHT,22,Zipper,1.0,pieces
+W-RELAXED-LIGHT,22,Rivets,6.0,pieces
+W-RELAXED-LIGHT,22,Label,2.0,pieces
+W-RELAXED-LIGHT,24,Denim Fabric,0.98,meters
+W-RELAXED-LIGHT,24,Pocketing Fabric,0.25,meters
+W-RELAXED-LIGHT,24,Thread,123.0,meters
+W-RELAXED-LIGHT,24,Button,1.0,pieces
+W-RELAXED-LIGHT,24,Zipper,1.0,pieces
+W-RELAXED-LIGHT,24,Rivets,6.0,pieces
+W-RELAXED-LIGHT,24,Label,2.0,pieces
+W-RELAXED-LIGHT,26,Denim Fabric,1.06,meters
+W-RELAXED-LIGHT,26,Pocketing Fabric,0.26,meters
+W-RELAXED-LIGHT,26,Thread,132.0,meters
+W-RELAXED-LIGHT,26,Button,1.0,pieces
+W-RELAXED-LIGHT,26,Zipper,1.0,pieces
+W-RELAXED-LIGHT,26,Rivets,6.0,pieces
+W-RELAXED-LIGHT,26,Label,2.0,pieces
+W-RELAXED-LIGHT,28,Denim Fabric,1.13,meters
+W-RELAXED-LIGHT,28,Pocketing Fabric,0.28,meters
+W-RELAXED-LIGHT,28,Thread,141.0,meters
+W-RELAXED-LIGHT,28,Button,1.0,pieces
+W-RELAXED-LIGHT,28,Zipper,1.0,pieces
+W-RELAXED-LIGHT,28,Rivets,6.0,pieces
+W-RELAXED-LIGHT,28,Label,2.0,pieces
+W-RELAXED-LIGHT,30,Denim Fabric,1.2,meters
+W-RELAXED-LIGHT,30,Pocketing Fabric,0.3,meters
+W-RELAXED-LIGHT,30,Thread,150.0,meters
+W-RELAXED-LIGHT,30,Button,1.0,pieces
+W-RELAXED-LIGHT,30,Zipper,1.0,pieces
+W-RELAXED-LIGHT,30,Rivets,6.0,pieces
+W-RELAXED-LIGHT,30,Label,2.0,pieces
+W-RELAXED-LIGHT,32,Denim Fabric,1.27,meters
+W-RELAXED-LIGHT,32,Pocketing Fabric,0.32,meters
+W-RELAXED-LIGHT,32,Thread,159.0,meters
+W-RELAXED-LIGHT,32,Button,1.0,pieces
+W-RELAXED-LIGHT,32,Zipper,1.0,pieces
+W-RELAXED-LIGHT,32,Rivets,6.0,pieces
+W-RELAXED-LIGHT,32,Label,2.0,pieces
+W-RELAXED-LIGHT,34,Denim Fabric,1.34,meters
+W-RELAXED-LIGHT,34,Pocketing Fabric,0.34,meters
+W-RELAXED-LIGHT,34,Thread,168.0,meters
+W-RELAXED-LIGHT,34,Button,1.0,pieces
+W-RELAXED-LIGHT,34,Zipper,1.0,pieces
+W-RELAXED-LIGHT,34,Rivets,6.0,pieces
+W-RELAXED-LIGHT,34,Label,2.0,pieces
+W-RELAXED-LIGHT,36,Denim Fabric,1.42,meters
+W-RELAXED-LIGHT,36,Pocketing Fabric,0.35,meters
+W-RELAXED-LIGHT,36,Thread,177.0,meters
+W-RELAXED-LIGHT,36,Button,1.0,pieces
+W-RELAXED-LIGHT,36,Zipper,1.0,pieces
+W-RELAXED-LIGHT,36,Rivets,6.0,pieces
+W-RELAXED-LIGHT,36,Label,2.0,pieces
+W-RELAXED-LIGHT,38,Denim Fabric,1.49,meters
+W-RELAXED-LIGHT,38,Pocketing Fabric,0.37,meters
+W-RELAXED-LIGHT,38,Thread,186.0,meters
+W-RELAXED-LIGHT,38,Button,1.0,pieces
+W-RELAXED-LIGHT,38,Zipper,1.0,pieces
+W-RELAXED-LIGHT,38,Rivets,6.0,pieces
+W-RELAXED-LIGHT,38,Label,2.0,pieces
+W-RELAXED-LIGHT,40,Denim Fabric,1.56,meters
+W-RELAXED-LIGHT,40,Pocketing Fabric,0.39,meters
+W-RELAXED-LIGHT,40,Thread,195.0,meters
+W-RELAXED-LIGHT,40,Button,1.0,pieces
+W-RELAXED-LIGHT,40,Zipper,1.0,pieces
+W-RELAXED-LIGHT,40,Rivets,6.0,pieces
+W-RELAXED-LIGHT,40,Label,2.0,pieces
+W-RELAXED-LIGHT,42,Denim Fabric,1.63,meters
+W-RELAXED-LIGHT,42,Pocketing Fabric,0.41,meters
+W-RELAXED-LIGHT,42,Thread,204.0,meters
+W-RELAXED-LIGHT,42,Button,1.0,pieces
+W-RELAXED-LIGHT,42,Zipper,1.0,pieces
+W-RELAXED-LIGHT,42,Rivets,6.0,pieces
+W-RELAXED-LIGHT,42,Label,2.0,pieces
+W-RELAXED-MEDIUM,18,Denim Fabric,0.77,meters
+W-RELAXED-MEDIUM,18,Pocketing Fabric,0.19,meters
+W-RELAXED-MEDIUM,18,Thread,96.0,meters
+W-RELAXED-MEDIUM,18,Button,1.0,pieces
+W-RELAXED-MEDIUM,18,Zipper,1.0,pieces
+W-RELAXED-MEDIUM,18,Rivets,6.0,pieces
+W-RELAXED-MEDIUM,18,Label,2.0,pieces
+W-RELAXED-MEDIUM,20,Denim Fabric,0.84,meters
+W-RELAXED-MEDIUM,20,Pocketing Fabric,0.21,meters
+W-RELAXED-MEDIUM,20,Thread,105.0,meters
+W-RELAXED-MEDIUM,20,Button,1.0,pieces
+W-RELAXED-MEDIUM,20,Zipper,1.0,pieces
+W-RELAXED-MEDIUM,20,Rivets,6.0,pieces
+W-RELAXED-MEDIUM,20,Label,2.0,pieces
+W-RELAXED-MEDIUM,22,Denim Fabric,0.91,meters
+W-RELAXED-MEDIUM,22,Pocketing Fabric,0.23,meters
+W-RELAXED-MEDIUM,22,Thread,114.0,meters
+W-RELAXED-MEDIUM,22,Button,1.0,pieces
+W-RELAXED-MEDIUM,22,Zipper,1.0,pieces
+W-RELAXED-MEDIUM,22,Rivets,6.0,pieces
+W-RELAXED-MEDIUM,22,Label,2.0,pieces
+W-RELAXED-MEDIUM,24,Denim Fabric,0.98,meters
+W-RELAXED-MEDIUM,24,Pocketing Fabric,0.25,meters
+W-RELAXED-MEDIUM,24,Thread,123.0,meters
+W-RELAXED-MEDIUM,24,Button,1.0,pieces
+W-RELAXED-MEDIUM,24,Zipper,1.0,pieces
+W-RELAXED-MEDIUM,24,Rivets,6.0,pieces
+W-RELAXED-MEDIUM,24,Label,2.0,pieces
+W-RELAXED-MEDIUM,26,Denim Fabric,1.06,meters
+W-RELAXED-MEDIUM,26,Pocketing Fabric,0.26,meters
+W-RELAXED-MEDIUM,26,Thread,132.0,meters
+W-RELAXED-MEDIUM,26,Button,1.0,pieces
+W-RELAXED-MEDIUM,26,Zipper,1.0,pieces
+W-RELAXED-MEDIUM,26,Rivets,6.0,pieces
+W-RELAXED-MEDIUM,26,Label,2.0,pieces
+W-RELAXED-MEDIUM,28,Denim Fabric,1.13,meters
+W-RELAXED-MEDIUM,28,Pocketing Fabric,0.28,meters
+W-RELAXED-MEDIUM,28,Thread,141.0,meters
+W-RELAXED-MEDIUM,28,Button,1.0,pieces
+W-RELAXED-MEDIUM,28,Zipper,1.0,pieces
+W-RELAXED-MEDIUM,28,Rivets,6.0,pieces
+W-RELAXED-MEDIUM,28,Label,2.0,pieces
+W-RELAXED-MEDIUM,30,Denim Fabric,1.2,meters
+W-RELAXED-MEDIUM,30,Pocketing Fabric,0.3,meters
+W-RELAXED-MEDIUM,30,Thread,150.0,meters
+W-RELAXED-MEDIUM,30,Button,1.0,pieces
+W-RELAXED-MEDIUM,30,Zipper,1.0,pieces
+W-RELAXED-MEDIUM,30,Rivets,6.0,pieces
+W-RELAXED-MEDIUM,30,Label,2.0,pieces
+W-RELAXED-MEDIUM,32,Denim Fabric,1.27,meters
+W-RELAXED-MEDIUM,32,Pocketing Fabric,0.32,meters
+W-RELAXED-MEDIUM,32,Thread,159.0,meters
+W-RELAXED-MEDIUM,32,Button,1.0,pieces
+W-RELAXED-MEDIUM,32,Zipper,1.0,pieces
+W-RELAXED-MEDIUM,32,Rivets,6.0,pieces
+W-RELAXED-MEDIUM,32,Label,2.0,pieces
+W-RELAXED-MEDIUM,34,Denim Fabric,1.34,meters
+W-RELAXED-MEDIUM,34,Pocketing Fabric,0.34,meters
+W-RELAXED-MEDIUM,34,Thread,168.0,meters
+W-RELAXED-MEDIUM,34,Button,1.0,pieces
+W-RELAXED-MEDIUM,34,Zipper,1.0,pieces
+W-RELAXED-MEDIUM,34,Rivets,6.0,pieces
+W-RELAXED-MEDIUM,34,Label,2.0,pieces
+W-RELAXED-MEDIUM,36,Denim Fabric,1.42,meters
+W-RELAXED-MEDIUM,36,Pocketing Fabric,0.35,meters
+W-RELAXED-MEDIUM,36,Thread,177.0,meters
+W-RELAXED-MEDIUM,36,Button,1.0,pieces
+W-RELAXED-MEDIUM,36,Zipper,1.0,pieces
+W-RELAXED-MEDIUM,36,Rivets,6.0,pieces
+W-RELAXED-MEDIUM,36,Label,2.0,pieces
+W-RELAXED-MEDIUM,38,Denim Fabric,1.49,meters
+W-RELAXED-MEDIUM,38,Pocketing Fabric,0.37,meters
+W-RELAXED-MEDIUM,38,Thread,186.0,meters
+W-RELAXED-MEDIUM,38,Button,1.0,pieces
+W-RELAXED-MEDIUM,38,Zipper,1.0,pieces
+W-RELAXED-MEDIUM,38,Rivets,6.0,pieces
+W-RELAXED-MEDIUM,38,Label,2.0,pieces
+W-RELAXED-MEDIUM,40,Denim Fabric,1.56,meters
+W-RELAXED-MEDIUM,40,Pocketing Fabric,0.39,meters
+W-RELAXED-MEDIUM,40,Thread,195.0,meters
+W-RELAXED-MEDIUM,40,Button,1.0,pieces
+W-RELAXED-MEDIUM,40,Zipper,1.0,pieces
+W-RELAXED-MEDIUM,40,Rivets,6.0,pieces
+W-RELAXED-MEDIUM,40,Label,2.0,pieces
+W-RELAXED-MEDIUM,42,Denim Fabric,1.63,meters
+W-RELAXED-MEDIUM,42,Pocketing Fabric,0.41,meters
+W-RELAXED-MEDIUM,42,Thread,204.0,meters
+W-RELAXED-MEDIUM,42,Button,1.0,pieces
+W-RELAXED-MEDIUM,42,Zipper,1.0,pieces
+W-RELAXED-MEDIUM,42,Rivets,6.0,pieces
+W-RELAXED-MEDIUM,42,Label,2.0,pieces
+W-RELAXED-DARK,18,Denim Fabric,0.77,meters
+W-RELAXED-DARK,18,Pocketing Fabric,0.19,meters
+W-RELAXED-DARK,18,Thread,96.0,meters
+W-RELAXED-DARK,18,Button,1.0,pieces
+W-RELAXED-DARK,18,Zipper,1.0,pieces
+W-RELAXED-DARK,18,Rivets,6.0,pieces
+W-RELAXED-DARK,18,Label,2.0,pieces
+W-RELAXED-DARK,20,Denim Fabric,0.84,meters
+W-RELAXED-DARK,20,Pocketing Fabric,0.21,meters
+W-RELAXED-DARK,20,Thread,105.0,meters
+W-RELAXED-DARK,20,Button,1.0,pieces
+W-RELAXED-DARK,20,Zipper,1.0,pieces
+W-RELAXED-DARK,20,Rivets,6.0,pieces
+W-RELAXED-DARK,20,Label,2.0,pieces
+W-RELAXED-DARK,22,Denim Fabric,0.91,meters
+W-RELAXED-DARK,22,Pocketing Fabric,0.23,meters
+W-RELAXED-DARK,22,Thread,114.0,meters
+W-RELAXED-DARK,22,Button,1.0,pieces
+W-RELAXED-DARK,22,Zipper,1.0,pieces
+W-RELAXED-DARK,22,Rivets,6.0,pieces
+W-RELAXED-DARK,22,Label,2.0,pieces
+W-RELAXED-DARK,24,Denim Fabric,0.98,meters
+W-RELAXED-DARK,24,Pocketing Fabric,0.25,meters
+W-RELAXED-DARK,24,Thread,123.0,meters
+W-RELAXED-DARK,24,Button,1.0,pieces
+W-RELAXED-DARK,24,Zipper,1.0,pieces
+W-RELAXED-DARK,24,Rivets,6.0,pieces
+W-RELAXED-DARK,24,Label,2.0,pieces
+W-RELAXED-DARK,26,Denim Fabric,1.06,meters
+W-RELAXED-DARK,26,Pocketing Fabric,0.26,meters
+W-RELAXED-DARK,26,Thread,132.0,meters
+W-RELAXED-DARK,26,Button,1.0,pieces
+W-RELAXED-DARK,26,Zipper,1.0,pieces
+W-RELAXED-DARK,26,Rivets,6.0,pieces
+W-RELAXED-DARK,26,Label,2.0,pieces
+W-RELAXED-DARK,28,Denim Fabric,1.13,meters
+W-RELAXED-DARK,28,Pocketing Fabric,0.28,meters
+W-RELAXED-DARK,28,Thread,141.0,meters
+W-RELAXED-DARK,28,Button,1.0,pieces
+W-RELAXED-DARK,28,Zipper,1.0,pieces
+W-RELAXED-DARK,28,Rivets,6.0,pieces
+W-RELAXED-DARK,28,Label,2.0,pieces
+W-RELAXED-DARK,30,Denim Fabric,1.2,meters
+W-RELAXED-DARK,30,Pocketing Fabric,0.3,meters
+W-RELAXED-DARK,30,Thread,150.0,meters
+W-RELAXED-DARK,30,Button,1.0,pieces
+W-RELAXED-DARK,30,Zipper,1.0,pieces
+W-RELAXED-DARK,30,Rivets,6.0,pieces
+W-RELAXED-DARK,30,Label,2.0,pieces
+W-RELAXED-DARK,32,Denim Fabric,1.27,meters
+W-RELAXED-DARK,32,Pocketing Fabric,0.32,meters
+W-RELAXED-DARK,32,Thread,159.0,meters
+W-RELAXED-DARK,32,Button,1.0,pieces
+W-RELAXED-DARK,32,Zipper,1.0,pieces
+W-RELAXED-DARK,32,Rivets,6.0,pieces
+W-RELAXED-DARK,32,Label,2.0,pieces
+W-RELAXED-DARK,34,Denim Fabric,1.34,meters
+W-RELAXED-DARK,34,Pocketing Fabric,0.34,meters
+W-RELAXED-DARK,34,Thread,168.0,meters
+W-RELAXED-DARK,34,Button,1.0,pieces
+W-RELAXED-DARK,34,Zipper,1.0,pieces
+W-RELAXED-DARK,34,Rivets,6.0,pieces
+W-RELAXED-DARK,34,Label,2.0,pieces
+W-RELAXED-DARK,36,Denim Fabric,1.42,meters
+W-RELAXED-DARK,36,Pocketing Fabric,0.35,meters
+W-RELAXED-DARK,36,Thread,177.0,meters
+W-RELAXED-DARK,36,Button,1.0,pieces
+W-RELAXED-DARK,36,Zipper,1.0,pieces
+W-RELAXED-DARK,36,Rivets,6.0,pieces
+W-RELAXED-DARK,36,Label,2.0,pieces
+W-RELAXED-DARK,38,Denim Fabric,1.49,meters
+W-RELAXED-DARK,38,Pocketing Fabric,0.37,meters
+W-RELAXED-DARK,38,Thread,186.0,meters
+W-RELAXED-DARK,38,Button,1.0,pieces
+W-RELAXED-DARK,38,Zipper,1.0,pieces
+W-RELAXED-DARK,38,Rivets,6.0,pieces
+W-RELAXED-DARK,38,Label,2.0,pieces
+W-RELAXED-DARK,40,Denim Fabric,1.56,meters
+W-RELAXED-DARK,40,Pocketing Fabric,0.39,meters
+W-RELAXED-DARK,40,Thread,195.0,meters
+W-RELAXED-DARK,40,Button,1.0,pieces
+W-RELAXED-DARK,40,Zipper,1.0,pieces
+W-RELAXED-DARK,40,Rivets,6.0,pieces
+W-RELAXED-DARK,40,Label,2.0,pieces
+W-RELAXED-DARK,42,Denim Fabric,1.63,meters
+W-RELAXED-DARK,42,Pocketing Fabric,0.41,meters
+W-RELAXED-DARK,42,Thread,204.0,meters
+W-RELAXED-DARK,42,Button,1.0,pieces
+W-RELAXED-DARK,42,Zipper,1.0,pieces
+W-RELAXED-DARK,42,Rivets,6.0,pieces
+W-RELAXED-DARK,42,Label,2.0,pieces
+W-RELAXED-BLACK,18,Denim Fabric,0.77,meters
+W-RELAXED-BLACK,18,Pocketing Fabric,0.19,meters
+W-RELAXED-BLACK,18,Thread,96.0,meters
+W-RELAXED-BLACK,18,Button,1.0,pieces
+W-RELAXED-BLACK,18,Zipper,1.0,pieces
+W-RELAXED-BLACK,18,Rivets,6.0,pieces
+W-RELAXED-BLACK,18,Label,2.0,pieces
+W-RELAXED-BLACK,20,Denim Fabric,0.84,meters
+W-RELAXED-BLACK,20,Pocketing Fabric,0.21,meters
+W-RELAXED-BLACK,20,Thread,105.0,meters
+W-RELAXED-BLACK,20,Button,1.0,pieces
+W-RELAXED-BLACK,20,Zipper,1.0,pieces
+W-RELAXED-BLACK,20,Rivets,6.0,pieces
+W-RELAXED-BLACK,20,Label,2.0,pieces
+W-RELAXED-BLACK,22,Denim Fabric,0.91,meters
+W-RELAXED-BLACK,22,Pocketing Fabric,0.23,meters
+W-RELAXED-BLACK,22,Thread,114.0,meters
+W-RELAXED-BLACK,22,Button,1.0,pieces
+W-RELAXED-BLACK,22,Zipper,1.0,pieces
+W-RELAXED-BLACK,22,Rivets,6.0,pieces
+W-RELAXED-BLACK,22,Label,2.0,pieces
+W-RELAXED-BLACK,24,Denim Fabric,0.98,meters
+W-RELAXED-BLACK,24,Pocketing Fabric,0.25,meters
+W-RELAXED-BLACK,24,Thread,123.0,meters
+W-RELAXED-BLACK,24,Button,1.0,pieces
+W-RELAXED-BLACK,24,Zipper,1.0,pieces
+W-RELAXED-BLACK,24,Rivets,6.0,pieces
+W-RELAXED-BLACK,24,Label,2.0,pieces
+W-RELAXED-BLACK,26,Denim Fabric,1.06,meters
+W-RELAXED-BLACK,26,Pocketing Fabric,0.26,meters
+W-RELAXED-BLACK,26,Thread,132.0,meters
+W-RELAXED-BLACK,26,Button,1.0,pieces
+W-RELAXED-BLACK,26,Zipper,1.0,pieces
+W-RELAXED-BLACK,26,Rivets,6.0,pieces
+W-RELAXED-BLACK,26,Label,2.0,pieces
+W-RELAXED-BLACK,28,Denim Fabric,1.13,meters
+W-RELAXED-BLACK,28,Pocketing Fabric,0.28,meters
+W-RELAXED-BLACK,28,Thread,141.0,meters
+W-RELAXED-BLACK,28,Button,1.0,pieces
+W-RELAXED-BLACK,28,Zipper,1.0,pieces
+W-RELAXED-BLACK,28,Rivets,6.0,pieces
+W-RELAXED-BLACK,28,Label,2.0,pieces
+W-RELAXED-BLACK,30,Denim Fabric,1.2,meters
+W-RELAXED-BLACK,30,Pocketing Fabric,0.3,meters
+W-RELAXED-BLACK,30,Thread,150.0,meters
+W-RELAXED-BLACK,30,Button,1.0,pieces
+W-RELAXED-BLACK,30,Zipper,1.0,pieces
+W-RELAXED-BLACK,30,Rivets,6.0,pieces
+W-RELAXED-BLACK,30,Label,2.0,pieces
+W-RELAXED-BLACK,32,Denim Fabric,1.27,meters
+W-RELAXED-BLACK,32,Pocketing Fabric,0.32,meters
+W-RELAXED-BLACK,32,Thread,159.0,meters
+W-RELAXED-BLACK,32,Button,1.0,pieces
+W-RELAXED-BLACK,32,Zipper,1.0,pieces
+W-RELAXED-BLACK,32,Rivets,6.0,pieces
+W-RELAXED-BLACK,32,Label,2.0,pieces
+W-RELAXED-BLACK,34,Denim Fabric,1.34,meters
+W-RELAXED-BLACK,34,Pocketing Fabric,0.34,meters
+W-RELAXED-BLACK,34,Thread,168.0,meters
+W-RELAXED-BLACK,34,Button,1.0,pieces
+W-RELAXED-BLACK,34,Zipper,1.0,pieces
+W-RELAXED-BLACK,34,Rivets,6.0,pieces
+W-RELAXED-BLACK,34,Label,2.0,pieces
+W-RELAXED-BLACK,36,Denim Fabric,1.42,meters
+W-RELAXED-BLACK,36,Pocketing Fabric,0.35,meters
+W-RELAXED-BLACK,36,Thread,177.0,meters
+W-RELAXED-BLACK,36,Button,1.0,pieces
+W-RELAXED-BLACK,36,Zipper,1.0,pieces
+W-RELAXED-BLACK,36,Rivets,6.0,pieces
+W-RELAXED-BLACK,36,Label,2.0,pieces
+W-RELAXED-BLACK,38,Denim Fabric,1.49,meters
+W-RELAXED-BLACK,38,Pocketing Fabric,0.37,meters
+W-RELAXED-BLACK,38,Thread,186.0,meters
+W-RELAXED-BLACK,38,Button,1.0,pieces
+W-RELAXED-BLACK,38,Zipper,1.0,pieces
+W-RELAXED-BLACK,38,Rivets,6.0,pieces
+W-RELAXED-BLACK,38,Label,2.0,pieces
+W-RELAXED-BLACK,40,Denim Fabric,1.56,meters
+W-RELAXED-BLACK,40,Pocketing Fabric,0.39,meters
+W-RELAXED-BLACK,40,Thread,195.0,meters
+W-RELAXED-BLACK,40,Button,1.0,pieces
+W-RELAXED-BLACK,40,Zipper,1.0,pieces
+W-RELAXED-BLACK,40,Rivets,6.0,pieces
+W-RELAXED-BLACK,40,Label,2.0,pieces
+W-RELAXED-BLACK,42,Denim Fabric,1.63,meters
+W-RELAXED-BLACK,42,Pocketing Fabric,0.41,meters
+W-RELAXED-BLACK,42,Thread,204.0,meters
+W-RELAXED-BLACK,42,Button,1.0,pieces
+W-RELAXED-BLACK,42,Zipper,1.0,pieces
+W-RELAXED-BLACK,42,Rivets,6.0,pieces
+W-RELAXED-BLACK,42,Label,2.0,pieces

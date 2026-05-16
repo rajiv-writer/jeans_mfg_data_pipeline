@@ -1,0 +1,44 @@
+# dbt_project.yml
+
+name: 'jeans_mfg_data_pipeline'
+version: '1.0.0'
+config-version: 2
+
+# This must match the profile name in profiles.yml
+profile: 'jeans_mfg_data_pipeline'
+
+# Paths
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+# =========================
+# MODEL CONFIGURATION
+# =========================
+models:
+  jeans_mfg_data_pipeline:
+
+    # Default materialization (can be overridden per model)
+    +materialized: view
+
+    # -------------------------
+    # STAGING LAYER
+    # -------------------------
+    staging:
+      +schema: staging
+      +materialized: view
+
+    # -------------------------
+    # MARTS / BUSINESS LAYER
+    # -------------------------
+    marts:
+      +schema: marts
+      +materialized: table

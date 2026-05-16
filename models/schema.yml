@@ -1,0 +1,12 @@
+version: 2
+
+models:
+  - name: fct_order_fulfillment
+    columns:
+      - name: order_form_no
+        tests:
+          - not_null
+      - name: current_production_stage
+        tests:
+          - accepted_values:
+              values: ["'Cutting'", "'Stitching'", "'Washing'", "'Packing'"]

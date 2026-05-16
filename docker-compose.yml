@@ -47,7 +47,7 @@ services:
       - ./airflow/plugins:/opt/airflow/plugins # Custom plugins
       - ./data_generator:/opt/airflow/data_generator # Access data generator scripts
       - ./raw_data_landing_zone:/opt/airflow/raw_data_landing_zone # Access raw data
-      - ./dbt_project:/opt/airflow/dbt_project # Access dbt project
+      - ./:/opt/airflow/dbt_project # Access dbt project
     environment:
       AIRFLOW_HOME: /opt/airflow
       AIRFLOW__CORE__EXECUTOR: LocalExecutor # For local development
@@ -56,6 +56,8 @@ services:
       AIRFLOW__CELERY__BROKER_URL: redis://redis:6379/0 # For Celery if used
       AIRFLOW__CORE__LOAD_EXAMPLES: "false" # Don't load example DAGs
       AIRFLOW__CORE__DAGS_FOLDER: /opt/airflow/dags
+      AIRFLOW_CONN_POSTGRES_SOURCE: "postgresql://user:password@postgres_source:5432/jeans_source_db"
+      AIRFLOW_CONN_POSTGRES_DWH: "postgresql://user:password@postgres_dwh:5432/jeans_dwh_db"
       # Python PATH adjustments for custom modules
       PYTHONPATH: /opt/airflow:/opt/airflow/data_generator:/opt/airflow/dbt
     depends_on:
@@ -81,7 +83,7 @@ services:
       - ./airflow/plugins:/opt/airflow/plugins
       - ./data_generator:/opt/airflow/data_generator
       - ./raw_data_landing_zone:/opt/airflow/raw_data_landing_zone
-      - ./dbt_project:/opt/airflow/dbt_project
+      - ./:/opt/airflow/dbt_project
     environment:
       AIRFLOW_HOME: /opt/airflow
       AIRFLOW__CORE__EXECUTOR: LocalExecutor
@@ -90,6 +92,8 @@ services:
       AIRFLOW__CELERY__BROKER_URL: redis://redis:6379/0
       AIRFLOW__CORE__LOAD_EXAMPLES: "false"
       AIRFLOW__CORE__DAGS_FOLDER: /opt/airflow/dags
+      AIRFLOW_CONN_POSTGRES_SOURCE: "postgresql://user:password@postgres_source:5432/jeans_source_db"
+      AIRFLOW_CONN_POSTGRES_DWH: "postgresql://user:password@postgres_dwh:5432/jeans_dwh_db"
       PYTHONPATH: /opt/airflow:/opt/airflow/data_generator:/opt/airflow/dbt
     depends_on:
       postgres_airflow:

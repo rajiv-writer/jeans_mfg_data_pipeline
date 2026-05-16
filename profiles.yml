@@ -1,0 +1,15 @@
+jeans_mfg_data_pipeline:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost
+      port: 5433
+      user: user
+      password: password
+      dbname: jeans_source_db
+
+      # Base schema (will be overridden by dbt_project.yml + macro)
+      schema: analytics
+
+      threads: 1

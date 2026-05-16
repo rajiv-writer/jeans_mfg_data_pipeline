@@ -1,0 +1,23 @@
+version: 2
+
+sources:
+  - name: raw
+    database: jeans_source_db
+    schema: public
+    tables:
+      - name: raw_orders
+        columns:
+          - name: order_form_no
+            tests:
+              - not_null
+      - name: raw_bill_of_materials
+      - name: raw_production_logs
+        columns:
+          - name: order_form_no
+            tests:
+              - not_null
+      - name: raw_shipping_logs
+        columns:
+          - name: order_form_no
+            tests:
+              - not_null
