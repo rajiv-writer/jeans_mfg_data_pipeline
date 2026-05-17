@@ -8,13 +8,16 @@ import streamlit as st
 def get_connection():
     if "db_host" in st.secrets:
         # Running on Streamlit Cloud
-        return psycopg2.connect(
-            host=st.secrets["db_host"],
-            port=st.secrets["db_port"],
-            dbname=st.secrets["db_name"],
-            user=st.secrets["db_user"],
-            password=st.secrets["db_password"]
-        )
+        kwargs = {
+            "host": st.secrets["db_host"],
+            "port": st.secrets["db_port"],
+            "dbname": st.secrets["db_name"],
+            "user": st.secrets["db_user"],
+            "password": st.secrets["db_password"]
+        }
+        if "sslmode" in st.secrets:
+            kwargs["sslmode"] = st.secrets["sslmode"]
+        return psycopg2.connect(**kwargs)
     else:
         # Running Locally
         return psycopg2.connect(
