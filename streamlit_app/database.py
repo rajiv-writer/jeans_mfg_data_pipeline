@@ -17,16 +17,20 @@ def get_connection():
         }
         if "sslmode" in st.secrets:
             kwargs["sslmode"] = st.secrets["sslmode"]
-        return psycopg2.connect(**kwargs)
+        conn = psycopg2.connect(**kwargs)
+        conn.autocommit = True
+        return conn
     else:
         # Running Locally
-        return psycopg2.connect(
+        conn = psycopg2.connect(
             host="localhost",
             port="5433",
             dbname="jeans_source_db",
             user="user",
             password="password"
         )
+        conn.autocommit = True
+        return conn
 
 
 def init_db():
