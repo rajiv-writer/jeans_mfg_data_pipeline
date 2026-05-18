@@ -6153,3 +6153,2044 @@ having count(*) > 1
 [0m13:46:25.713232 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001BD6ABC5AD0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001BD6ABC5ED0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001BD70487990>]}
 [0m13:46:25.715350 [debug] [MainThread]: Flushing usage events
 [0m13:46:27.719384 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m07:41:52.950538 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027B5381D950>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027B50DF8F10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027B5381EC10>]}
+
+
+============================== 07:41:52.996686 | 43b02bb1-8f69-41c1-b6d6-0ab08e9588d9 ==============================
+[0m07:41:52.996686 [info ] [MainThread]: Running with dbt=1.11.2
+[0m07:41:53.004400 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '.', 'version_check': 'True', 'warn_error': 'None', 'log_path': 'C:\\Data Engineering\\jeans_mfg_data_pipeline\\logs', 'fail_fast': 'False', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'False', 'quiet': 'False', 'no_print': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'invocation_command': 'dbt run --profiles-dir . --target cloud', 'introspect': 'True', 'log_format': 'default', 'target_path': 'None', 'static_parser': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m07:41:54.682101 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '43b02bb1-8f69-41c1-b6d6-0ab08e9588d9', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027B53822410>]}
+[0m07:41:54.951222 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '43b02bb1-8f69-41c1-b6d6-0ab08e9588d9', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027B5388E790>]}
+[0m07:41:54.955420 [info ] [MainThread]: Registered adapter: postgres=1.10.0
+[0m07:41:56.605969 [debug] [MainThread]: checksum: af8011603ef11e50c372ae3f97fc55f865d9a46a625bf635f96f9bab84ecd6e3, vars: {}, profile: , target: cloud, version: 1.11.2
+[0m07:41:57.138154 [info ] [MainThread]: Unable to do partial parsing because config vars, config profile, or config target have changed
+[0m07:41:57.142143 [debug] [MainThread]: previous checksum: af8011603ef11e50c372ae3f97fc55f865d9a46a625bf635f96f9bab84ecd6e3, current checksum: 3d40d8bbe1bef07db1c24822f2dbfff8bc07f2a48ed4fe2658a40653aec0b54b
+[0m07:41:57.145190 [info ] [MainThread]: Unable to do partial parsing because profile has changed
+[0m07:41:57.147792 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'partial_parser', 'label': '43b02bb1-8f69-41c1-b6d6-0ab08e9588d9', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027B54DDF050>]}
+[0m07:42:04.356043 [warn ] [MainThread]: [[33mWARNING[0m][MissingArgumentsPropertyInGenericTestDeprecation]: Deprecated
+functionality
+Found top-level arguments to test `accepted_values` defined on
+'fct_order_fulfillment' in package 'jeans_mfg_data_pipeline'
+(models\schema.yml). Arguments to generic tests should be nested under the
+`arguments` property.
+[0m07:42:04.359340 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'deprecation', 'label': '43b02bb1-8f69-41c1-b6d6-0ab08e9588d9', 'property_': 'warn', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027B550A8D50>]}
+[0m07:42:05.453988 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '43b02bb1-8f69-41c1-b6d6-0ab08e9588d9', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027B551ACA90>]}
+[0m07:42:05.754885 [debug] [MainThread]: Wrote artifact WritableManifest to C:\Data Engineering\jeans_mfg_data_pipeline\target\manifest.json
+[0m07:42:05.774521 [debug] [MainThread]: Wrote artifact SemanticManifest to C:\Data Engineering\jeans_mfg_data_pipeline\target\semantic_manifest.json
+[0m07:42:06.056912 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '43b02bb1-8f69-41c1-b6d6-0ab08e9588d9', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027B55329B50>]}
+[0m07:42:06.061461 [info ] [MainThread]: Found 6 models, 5 data tests, 4 sources, 465 macros
+[0m07:42:06.064068 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '43b02bb1-8f69-41c1-b6d6-0ab08e9588d9', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027B552A55D0>]}
+[0m07:42:06.073333 [info ] [MainThread]: 
+[0m07:42:06.076904 [info ] [MainThread]: Concurrency: 1 threads (target='cloud')
+[0m07:42:06.079731 [info ] [MainThread]: 
+[0m07:42:06.085310 [debug] [MainThread]: Acquiring new postgres connection 'master'
+[0m07:42:06.116573 [debug] [ThreadPool]: Acquiring new postgres connection 'list_neondb'
+[0m07:42:08.143439 [debug] [ThreadPool]: Using postgres connection "list_neondb"
+[0m07:42:08.147276 [debug] [ThreadPool]: On list_neondb: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "list_neondb"} */
+
+    select distinct nspname from pg_namespace
+  
+[0m07:42:08.164878 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m07:42:08.485570 [debug] [ThreadPool]: SQL status: SELECT 5 in 0.321 seconds
+[0m07:42:08.506023 [debug] [ThreadPool]: On list_neondb: Close
+[0m07:42:08.552058 [debug] [ThreadPool]: Using postgres connection "list_neondb"
+[0m07:42:08.555628 [debug] [ThreadPool]: On list_neondb: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "list_neondb"} */
+
+    select distinct nspname from pg_namespace
+  
+[0m07:42:08.560179 [debug] [ThreadPool]: Opening a new connection, currently in state closed
+[0m07:42:08.825894 [debug] [ThreadPool]: SQL status: SELECT 5 in 0.266 seconds
+[0m07:42:08.834029 [debug] [ThreadPool]: On list_neondb: Close
+[0m07:42:08.839348 [debug] [ThreadPool]: Re-using an available connection from the pool (formerly list_neondb, now create_neondb_marts)
+[0m07:42:08.850359 [debug] [ThreadPool]: Creating schema "database: "neondb"
+schema: "marts"
+"
+[0m07:42:08.884887 [debug] [ThreadPool]: Using postgres connection "create_neondb_marts"
+[0m07:42:08.886938 [debug] [ThreadPool]: On create_neondb_marts: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "create_neondb_marts"} */
+create schema if not exists "marts"
+[0m07:42:08.887954 [debug] [ThreadPool]: Opening a new connection, currently in state closed
+[0m07:42:09.154261 [debug] [ThreadPool]: SQL status: CREATE SCHEMA in 0.265 seconds
+[0m07:42:09.160543 [debug] [ThreadPool]: On create_neondb_marts: COMMIT
+[0m07:42:09.163182 [debug] [ThreadPool]: Using postgres connection "create_neondb_marts"
+[0m07:42:09.165239 [debug] [ThreadPool]: On create_neondb_marts: COMMIT
+[0m07:42:09.198109 [debug] [ThreadPool]: SQL status: COMMIT in 0.031 seconds
+[0m07:42:09.202774 [debug] [ThreadPool]: On create_neondb_marts: Close
+[0m07:42:09.207393 [debug] [ThreadPool]: Re-using an available connection from the pool (formerly create_neondb_marts, now create_neondb_staging)
+[0m07:42:09.214073 [debug] [ThreadPool]: Creating schema "database: "neondb"
+schema: "staging"
+"
+[0m07:42:09.236612 [debug] [ThreadPool]: Using postgres connection "create_neondb_staging"
+[0m07:42:09.238631 [debug] [ThreadPool]: On create_neondb_staging: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "create_neondb_staging"} */
+create schema if not exists "staging"
+[0m07:42:09.241166 [debug] [ThreadPool]: Opening a new connection, currently in state closed
+[0m07:42:09.477829 [debug] [ThreadPool]: SQL status: CREATE SCHEMA in 0.238 seconds
+[0m07:42:09.484702 [debug] [ThreadPool]: On create_neondb_staging: COMMIT
+[0m07:42:09.489815 [debug] [ThreadPool]: Using postgres connection "create_neondb_staging"
+[0m07:42:09.493535 [debug] [ThreadPool]: On create_neondb_staging: COMMIT
+[0m07:42:09.526133 [debug] [ThreadPool]: SQL status: COMMIT in 0.029 seconds
+[0m07:42:09.530661 [debug] [ThreadPool]: On create_neondb_staging: Close
+[0m07:42:09.539304 [debug] [ThreadPool]: Acquiring new postgres connection 'list_neondb_marts'
+[0m07:42:09.587042 [debug] [ThreadPool]: Using postgres connection "list_neondb_marts"
+[0m07:42:09.589062 [debug] [ThreadPool]: On list_neondb_marts: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "list_neondb_marts"} */
+select
+      'neondb' as database,
+      tablename as name,
+      schemaname as schema,
+      'table' as type
+    from pg_tables
+    where schemaname ilike 'marts'
+    union all
+    select
+      'neondb' as database,
+      viewname as name,
+      schemaname as schema,
+      'view' as type
+    from pg_views
+    where schemaname ilike 'marts'
+    union all
+    select
+      'neondb' as database,
+      matviewname as name,
+      schemaname as schema,
+      'materialized_view' as type
+    from pg_matviews
+    where schemaname ilike 'marts'
+  
+[0m07:42:09.594255 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m07:42:09.864348 [debug] [ThreadPool]: SQL status: SELECT 0 in 0.270 seconds
+[0m07:42:09.869314 [debug] [ThreadPool]: On list_neondb_marts: ROLLBACK
+[0m07:42:09.901515 [debug] [ThreadPool]: On list_neondb_marts: Close
+[0m07:42:09.905656 [debug] [ThreadPool]: Re-using an available connection from the pool (formerly list_neondb_marts, now list_neondb_staging)
+[0m07:42:09.915955 [debug] [ThreadPool]: Using postgres connection "list_neondb_staging"
+[0m07:42:09.916961 [debug] [ThreadPool]: On list_neondb_staging: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "list_neondb_staging"} */
+select
+      'neondb' as database,
+      tablename as name,
+      schemaname as schema,
+      'table' as type
+    from pg_tables
+    where schemaname ilike 'staging'
+    union all
+    select
+      'neondb' as database,
+      viewname as name,
+      schemaname as schema,
+      'view' as type
+    from pg_views
+    where schemaname ilike 'staging'
+    union all
+    select
+      'neondb' as database,
+      matviewname as name,
+      schemaname as schema,
+      'materialized_view' as type
+    from pg_matviews
+    where schemaname ilike 'staging'
+  
+[0m07:42:09.919466 [debug] [ThreadPool]: Opening a new connection, currently in state closed
+[0m07:42:10.155428 [debug] [ThreadPool]: SQL status: SELECT 0 in 0.236 seconds
+[0m07:42:10.161987 [debug] [ThreadPool]: On list_neondb_staging: ROLLBACK
+[0m07:42:10.192300 [debug] [ThreadPool]: On list_neondb_staging: Close
+[0m07:42:10.219945 [debug] [MainThread]: Using postgres connection "master"
+[0m07:42:10.221999 [debug] [MainThread]: On master: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "master"} */
+select distinct
+        dependent_namespace.nspname as dependent_schema,
+        dependent_class.relname as dependent_name,
+        referenced_namespace.nspname as referenced_schema,
+        referenced_class.relname as referenced_name
+
+    -- Query for views: views are entries in pg_class with an entry in pg_rewrite, but we avoid
+    -- a seq scan on pg_rewrite by leveraging the fact there is an "internal" row in pg_depend for
+    -- the view...
+    from pg_class as dependent_class
+    join pg_namespace as dependent_namespace on dependent_namespace.oid = dependent_class.relnamespace
+    join pg_depend as dependent_depend on dependent_depend.refobjid = dependent_class.oid
+        and dependent_depend.classid = 'pg_rewrite'::regclass
+        and dependent_depend.refclassid = 'pg_class'::regclass
+        and dependent_depend.deptype = 'i'
+
+    -- ... and via pg_depend (that has a row per column, hence the need for "distinct" above, and
+    -- making sure to exclude the internal row to avoid a view appearing to depend on itself)...
+    join pg_depend as joining_depend on joining_depend.objid = dependent_depend.objid
+        and joining_depend.classid = 'pg_rewrite'::regclass
+        and joining_depend.refclassid = 'pg_class'::regclass
+        and joining_depend.refobjid != dependent_depend.refobjid
+
+    -- ... we can find the tables they query from in pg_class, but excluding system tables. Note we
+    -- don't need need to exclude _dependent_ system tables, because they only query from other
+    -- system tables, and so are automatically excluded by excluding _referenced_ system tables
+    join pg_class as referenced_class on referenced_class.oid = joining_depend.refobjid
+    join pg_namespace as referenced_namespace on referenced_namespace.oid = referenced_class.relnamespace
+        and referenced_namespace.nspname != 'information_schema'
+        and referenced_namespace.nspname not like 'pg\_%'
+
+    order by
+        dependent_schema, dependent_name, referenced_schema, referenced_name;
+[0m07:42:10.223043 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m07:42:10.500233 [debug] [MainThread]: SQL status: SELECT 0 in 0.277 seconds
+[0m07:42:10.505444 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '43b02bb1-8f69-41c1-b6d6-0ab08e9588d9', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027B55237A90>]}
+[0m07:42:10.515704 [debug] [MainThread]: On master: ROLLBACK
+[0m07:42:10.548704 [debug] [MainThread]: On master: COMMIT
+[0m07:42:10.552056 [debug] [MainThread]: Using postgres connection "master"
+[0m07:42:10.554607 [debug] [MainThread]: On master: COMMIT
+[0m07:42:10.611184 [debug] [MainThread]: SQL status: COMMIT in 0.053 seconds
+[0m07:42:10.614808 [debug] [MainThread]: On master: Close
+[0m07:42:10.658078 [debug] [Thread-1 (]: Began running node model.jeans_mfg_data_pipeline.stg_production_logs
+[0m07:42:10.662974 [info ] [Thread-1 (]: 1 of 5 START sql view model staging.stg_production_logs ........................ [RUN]
+[0m07:42:10.666294 [debug] [Thread-1 (]: Acquiring new postgres connection 'model.jeans_mfg_data_pipeline.stg_production_logs'
+[0m07:42:10.668036 [debug] [Thread-1 (]: Began compiling node model.jeans_mfg_data_pipeline.stg_production_logs
+[0m07:42:10.710503 [debug] [Thread-1 (]: Writing injected SQL for node "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:42:10.724532 [debug] [Thread-1 (]: Began executing node model.jeans_mfg_data_pipeline.stg_production_logs
+[0m07:42:10.919193 [debug] [Thread-1 (]: Writing runtime sql for node "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:42:10.933756 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:42:10.936028 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_production_logs"} */
+
+  create view "neondb"."staging"."stg_production_logs__dbt_tmp"
+    
+    
+  as (
+    -- models/staging/stg_production_logs.sql
+
+
+
+WITH source AS (
+    SELECT * FROM "jeans_source_db"."public"."raw_production_logs"
+),
+
+renamed AS (
+    SELECT
+        log_id,
+        order_form_no,
+        stage,
+        updated_at,
+        updated_by
+    FROM source
+)
+
+SELECT * FROM renamed
+  );
+[0m07:42:10.939055 [debug] [Thread-1 (]: Opening a new connection, currently in state init
+[0m07:42:11.188707 [debug] [Thread-1 (]: Postgres adapter: Postgres error: cross-database references are not implemented: "jeans_source_db.public.raw_production_logs"
+LINE 12:     SELECT * FROM "jeans_source_db"."public"."raw_production...
+                           ^
+
+[0m07:42:11.195846 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: ROLLBACK
+[0m07:42:11.222392 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: Close
+[0m07:42:11.290019 [debug] [Thread-1 (]: Database Error in model stg_production_logs (models\staging\stg_production_logs.sql)
+  cross-database references are not implemented: "jeans_source_db.public.raw_production_logs"
+  LINE 12:     SELECT * FROM "jeans_source_db"."public"."raw_production...
+                             ^
+  compiled code at target\run\jeans_mfg_data_pipeline\models\staging\stg_production_logs.sql
+[0m07:42:11.302011 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '43b02bb1-8f69-41c1-b6d6-0ab08e9588d9', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027B54F28CD0>]}
+[0m07:42:11.305174 [error] [Thread-1 (]: 1 of 5 ERROR creating sql view model staging.stg_production_logs ............... [[31mERROR[0m in 0.63s]
+[0m07:42:11.311087 [debug] [Thread-1 (]: Finished running node model.jeans_mfg_data_pipeline.stg_production_logs
+[0m07:42:11.319729 [debug] [Thread-1 (]: Began running node model.jeans_mfg_data_pipeline.stg_shipping_logs
+[0m07:42:11.323731 [debug] [Thread-4 (]: Marking all children of 'model.jeans_mfg_data_pipeline.stg_production_logs' to be skipped because of status 'error'.  Reason: Database Error in model stg_production_logs (models\staging\stg_production_logs.sql)
+  cross-database references are not implemented: "jeans_source_db.public.raw_production_logs"
+  LINE 12:     SELECT * FROM "jeans_source_db"."public"."raw_production...
+                             ^
+  compiled code at target\run\jeans_mfg_data_pipeline\models\staging\stg_production_logs.sql.
+[0m07:42:11.332100 [info ] [Thread-1 (]: 2 of 5 START sql view model staging.stg_shipping_logs .......................... [RUN]
+[0m07:42:11.339311 [debug] [Thread-1 (]: Re-using an available connection from the pool (formerly model.jeans_mfg_data_pipeline.stg_production_logs, now model.jeans_mfg_data_pipeline.stg_shipping_logs)
+[0m07:42:11.343506 [debug] [Thread-1 (]: Began compiling node model.jeans_mfg_data_pipeline.stg_shipping_logs
+[0m07:42:11.370905 [debug] [Thread-1 (]: Writing injected SQL for node "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:42:11.383882 [debug] [Thread-1 (]: Began executing node model.jeans_mfg_data_pipeline.stg_shipping_logs
+[0m07:42:11.402883 [debug] [Thread-1 (]: Writing runtime sql for node "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:42:11.414301 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:42:11.416829 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_shipping_logs"} */
+
+  create view "neondb"."staging"."stg_shipping_logs__dbt_tmp"
+    
+    
+  as (
+    with source as (
+    select * from "jeans_source_db"."public"."raw_shipping_logs"
+),
+renamed as (
+    select
+        order_form_no,
+        courier,
+        tracking_number,
+        shipped_at,
+        status
+    from source
+)
+select * from renamed
+  );
+[0m07:42:11.417829 [debug] [Thread-1 (]: Opening a new connection, currently in state closed
+[0m07:42:11.687760 [debug] [Thread-1 (]: Postgres adapter: Postgres error: cross-database references are not implemented: "jeans_source_db.public.raw_shipping_logs"
+LINE 8:     select * from "jeans_source_db"."public"."raw_shipping_l...
+                          ^
+
+[0m07:42:11.691833 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: ROLLBACK
+[0m07:42:11.723026 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: Close
+[0m07:42:11.740546 [debug] [Thread-1 (]: Database Error in model stg_shipping_logs (models\staging\stg_shipping_logs.sql)
+  cross-database references are not implemented: "jeans_source_db.public.raw_shipping_logs"
+  LINE 8:     select * from "jeans_source_db"."public"."raw_shipping_l...
+                            ^
+  compiled code at target\run\jeans_mfg_data_pipeline\models\staging\stg_shipping_logs.sql
+[0m07:42:11.746189 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '43b02bb1-8f69-41c1-b6d6-0ab08e9588d9', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027B55024590>]}
+[0m07:42:11.748837 [error] [Thread-1 (]: 2 of 5 ERROR creating sql view model staging.stg_shipping_logs ................. [[31mERROR[0m in 0.41s]
+[0m07:42:11.752503 [debug] [Thread-1 (]: Finished running node model.jeans_mfg_data_pipeline.stg_shipping_logs
+[0m07:42:11.754750 [debug] [Thread-1 (]: Began running node model.jeans_mfg_data_pipeline.stg_unpivoted_orders
+[0m07:42:11.756436 [debug] [Thread-4 (]: Marking all children of 'model.jeans_mfg_data_pipeline.stg_shipping_logs' to be skipped because of status 'error'.  Reason: Database Error in model stg_shipping_logs (models\staging\stg_shipping_logs.sql)
+  cross-database references are not implemented: "jeans_source_db.public.raw_shipping_logs"
+  LINE 8:     select * from "jeans_source_db"."public"."raw_shipping_l...
+                            ^
+  compiled code at target\run\jeans_mfg_data_pipeline\models\staging\stg_shipping_logs.sql.
+[0m07:42:11.758148 [info ] [Thread-1 (]: 3 of 5 START sql view model staging.stg_unpivoted_orders ....................... [RUN]
+[0m07:42:11.765770 [debug] [Thread-1 (]: Re-using an available connection from the pool (formerly model.jeans_mfg_data_pipeline.stg_shipping_logs, now model.jeans_mfg_data_pipeline.stg_unpivoted_orders)
+[0m07:42:11.766755 [debug] [Thread-1 (]: Began compiling node model.jeans_mfg_data_pipeline.stg_unpivoted_orders
+[0m07:42:11.785789 [debug] [Thread-1 (]: Writing injected SQL for node "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:42:11.789803 [debug] [Thread-1 (]: Began executing node model.jeans_mfg_data_pipeline.stg_unpivoted_orders
+[0m07:42:11.811726 [debug] [Thread-1 (]: Writing runtime sql for node "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:42:11.822489 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:42:11.826173 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"} */
+
+  create view "neondb"."staging"."stg_unpivoted_orders__dbt_tmp"
+    
+    
+  as (
+    -- models/staging/stg_unpivoted_orders.sql
+
+
+
+WITH source_orders AS (
+
+    SELECT *
+    FROM "jeans_source_db"."public"."raw_orders"
+
+),
+
+unpivoted AS (
+
+    SELECT
+        o.order_form_no,
+        o.order_date,
+        o.buyer_name,
+        o.buyer_location,
+        o.s_no,
+        o.style_number,
+        o.unit_price,
+        o.line_item_total,
+        o.total_qty_line_item,
+        o.ingested_at,
+        u.size,
+        u.quantity_ordered AS quantity
+    FROM source_orders o
+    CROSS JOIN LATERAL (
+        VALUES
+            ('18', o.size_18_qty),
+            ('20', o.size_20_qty),
+            ('22', o.size_22_qty),
+            ('24', o.size_24_qty),
+            ('26', o.size_26_qty),
+            ('28', o.size_28_qty),
+            ('30', o.size_30_qty),
+            ('32', o.size_32_qty),
+            ('34', o.size_34_qty),
+            ('36', o.size_36_qty),
+            ('38', o.size_38_qty),
+            ('40', o.size_40_qty),
+            ('42', o.size_42_qty)
+    ) AS u(size, quantity_ordered)
+
+)
+
+SELECT *
+FROM unpivoted
+WHERE quantity > 0
+  );
+[0m07:42:11.828815 [debug] [Thread-1 (]: Opening a new connection, currently in state closed
+[0m07:42:12.092972 [debug] [Thread-1 (]: Postgres adapter: Postgres error: cross-database references are not implemented: "jeans_source_db.public.raw_orders"
+LINE 14:     FROM "jeans_source_db"."public"."raw_orders"
+                  ^
+
+[0m07:42:12.099356 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: ROLLBACK
+[0m07:42:12.132077 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: Close
+[0m07:42:12.149222 [debug] [Thread-1 (]: Database Error in model stg_unpivoted_orders (models\staging\stg_unpivoted_orders.sql)
+  cross-database references are not implemented: "jeans_source_db.public.raw_orders"
+  LINE 14:     FROM "jeans_source_db"."public"."raw_orders"
+                    ^
+  compiled code at target\run\jeans_mfg_data_pipeline\models\staging\stg_unpivoted_orders.sql
+[0m07:42:12.153392 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '43b02bb1-8f69-41c1-b6d6-0ab08e9588d9', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027B54F57C50>]}
+[0m07:42:12.159442 [error] [Thread-1 (]: 3 of 5 ERROR creating sql view model staging.stg_unpivoted_orders .............. [[31mERROR[0m in 0.39s]
+[0m07:42:12.163201 [debug] [Thread-1 (]: Finished running node model.jeans_mfg_data_pipeline.stg_unpivoted_orders
+[0m07:42:12.168367 [debug] [Thread-4 (]: Marking all children of 'model.jeans_mfg_data_pipeline.stg_unpivoted_orders' to be skipped because of status 'error'.  Reason: Database Error in model stg_unpivoted_orders (models\staging\stg_unpivoted_orders.sql)
+  cross-database references are not implemented: "jeans_source_db.public.raw_orders"
+  LINE 14:     FROM "jeans_source_db"."public"."raw_orders"
+                    ^
+  compiled code at target\run\jeans_mfg_data_pipeline\models\staging\stg_unpivoted_orders.sql.
+[0m07:42:12.177617 [debug] [Thread-1 (]: Began running node model.jeans_mfg_data_pipeline.fact_material_requirements
+[0m07:42:12.183945 [info ] [Thread-1 (]: 4 of 5 SKIP relation marts.fact_material_requirements .......................... [[33mSKIP[0m]
+[0m07:42:12.187274 [debug] [Thread-1 (]: Finished running node model.jeans_mfg_data_pipeline.fact_material_requirements
+[0m07:42:12.190770 [debug] [Thread-1 (]: Began running node model.jeans_mfg_data_pipeline.fct_order_fulfillment
+[0m07:42:12.197788 [info ] [Thread-1 (]: 5 of 5 SKIP relation marts.fct_order_fulfillment ............................... [[33mSKIP[0m]
+[0m07:42:12.205560 [debug] [Thread-1 (]: Finished running node model.jeans_mfg_data_pipeline.fct_order_fulfillment
+[0m07:42:12.215411 [debug] [MainThread]: On master: COMMIT
+[0m07:42:12.219440 [debug] [MainThread]: Using postgres connection "master"
+[0m07:42:12.220992 [debug] [MainThread]: On master: COMMIT
+[0m07:42:12.223631 [debug] [MainThread]: Opening a new connection, currently in state closed
+[0m07:42:12.485578 [debug] [MainThread]: SQL status: COMMIT in 0.263 seconds
+[0m07:42:12.488698 [debug] [MainThread]: On master: Close
+[0m07:42:12.493860 [debug] [MainThread]: Connection 'master' was properly closed.
+[0m07:42:12.495874 [debug] [MainThread]: Connection 'create_neondb_staging' was properly closed.
+[0m07:42:12.496878 [debug] [MainThread]: Connection 'list_neondb_staging' was properly closed.
+[0m07:42:12.498976 [debug] [MainThread]: Connection 'model.jeans_mfg_data_pipeline.stg_unpivoted_orders' was properly closed.
+[0m07:42:12.501542 [info ] [MainThread]: 
+[0m07:42:12.503616 [info ] [MainThread]: Finished running 2 table models, 3 view models in 0 hours 0 minutes and 6.42 seconds (6.42s).
+[0m07:42:12.509178 [debug] [MainThread]: Command end result
+[0m07:42:12.665617 [debug] [MainThread]: Wrote artifact WritableManifest to C:\Data Engineering\jeans_mfg_data_pipeline\target\manifest.json
+[0m07:42:12.674879 [debug] [MainThread]: Wrote artifact SemanticManifest to C:\Data Engineering\jeans_mfg_data_pipeline\target\semantic_manifest.json
+[0m07:42:12.714145 [debug] [MainThread]: Wrote artifact RunExecutionResult to C:\Data Engineering\jeans_mfg_data_pipeline\target\run_results.json
+[0m07:42:12.717837 [info ] [MainThread]: 
+[0m07:42:12.720023 [info ] [MainThread]: [31mCompleted with 3 errors, 0 partial successes, and 0 warnings:[0m
+[0m07:42:12.721848 [info ] [MainThread]: 
+[0m07:42:12.724157 [error] [MainThread]: [31mFailure in model stg_production_logs (models\staging\stg_production_logs.sql)[0m
+[0m07:42:12.729075 [error] [MainThread]:   Database Error in model stg_production_logs (models\staging\stg_production_logs.sql)
+  cross-database references are not implemented: "jeans_source_db.public.raw_production_logs"
+  LINE 12:     SELECT * FROM "jeans_source_db"."public"."raw_production...
+                             ^
+  compiled code at target\run\jeans_mfg_data_pipeline\models\staging\stg_production_logs.sql
+[0m07:42:12.731331 [info ] [MainThread]: 
+[0m07:42:12.734517 [info ] [MainThread]:   compiled code at target\compiled\jeans_mfg_data_pipeline\models\staging\stg_production_logs.sql
+[0m07:42:12.737482 [info ] [MainThread]: 
+[0m07:42:12.740689 [error] [MainThread]: [31mFailure in model stg_shipping_logs (models\staging\stg_shipping_logs.sql)[0m
+[0m07:42:12.745747 [error] [MainThread]:   Database Error in model stg_shipping_logs (models\staging\stg_shipping_logs.sql)
+  cross-database references are not implemented: "jeans_source_db.public.raw_shipping_logs"
+  LINE 8:     select * from "jeans_source_db"."public"."raw_shipping_l...
+                            ^
+  compiled code at target\run\jeans_mfg_data_pipeline\models\staging\stg_shipping_logs.sql
+[0m07:42:12.748556 [info ] [MainThread]: 
+[0m07:42:12.750892 [info ] [MainThread]:   compiled code at target\compiled\jeans_mfg_data_pipeline\models\staging\stg_shipping_logs.sql
+[0m07:42:12.752519 [info ] [MainThread]: 
+[0m07:42:12.754873 [error] [MainThread]: [31mFailure in model stg_unpivoted_orders (models\staging\stg_unpivoted_orders.sql)[0m
+[0m07:42:12.756557 [error] [MainThread]:   Database Error in model stg_unpivoted_orders (models\staging\stg_unpivoted_orders.sql)
+  cross-database references are not implemented: "jeans_source_db.public.raw_orders"
+  LINE 14:     FROM "jeans_source_db"."public"."raw_orders"
+                    ^
+  compiled code at target\run\jeans_mfg_data_pipeline\models\staging\stg_unpivoted_orders.sql
+[0m07:42:12.758240 [info ] [MainThread]: 
+[0m07:42:12.764951 [info ] [MainThread]:   compiled code at target\compiled\jeans_mfg_data_pipeline\models\staging\stg_unpivoted_orders.sql
+[0m07:42:12.766938 [info ] [MainThread]: 
+[0m07:42:12.768672 [info ] [MainThread]: Done. PASS=0 WARN=0 ERROR=3 SKIP=2 NO-OP=0 TOTAL=5
+[0m07:42:12.771707 [warn ] [MainThread]: [[33mWARNING[0m][DeprecationsSummary]: Deprecated functionality
+Summary of encountered deprecations:
+- MissingArgumentsPropertyInGenericTestDeprecation: 1 occurrence
+To see all deprecation instances instead of just the first occurrence of each,
+run command again with the `--show-all-deprecations` flag. You may also need to
+run with `--no-partial-parse` as some deprecations are only encountered during
+parsing.
+[0m07:42:12.780752 [debug] [MainThread]: Command `dbt run` failed at 07:42:12.779690 after 20.44 seconds
+[0m07:42:12.782835 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027B54DB3990>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027B54DEC750>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000027B54DEE310>]}
+[0m07:42:12.784840 [debug] [MainThread]: Flushing usage events
+[0m07:42:15.704768 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m07:42:45.244813 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BB31A6F990>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BB31A6EA90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BB31A6DB90>]}
+
+
+============================== 07:42:45.266343 | f008c29d-e77a-4f49-9d6b-6b28b9b180b3 ==============================
+[0m07:42:45.266343 [info ] [MainThread]: Running with dbt=1.11.2
+[0m07:42:45.270071 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '.', 'fail_fast': 'False', 'warn_error': 'None', 'log_path': 'C:\\Data Engineering\\jeans_mfg_data_pipeline\\logs', 'debug': 'False', 'version_check': 'True', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'False', 'quiet': 'False', 'no_print': 'None', 'log_format': 'default', 'introspect': 'True', 'invocation_command': 'dbt run --profiles-dir . --target cloud', 'static_parser': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'send_anonymous_usage_stats': 'True'}
+[0m07:42:46.272551 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': 'f008c29d-e77a-4f49-9d6b-6b28b9b180b3', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BB31804F50>]}
+[0m07:42:46.578611 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': 'f008c29d-e77a-4f49-9d6b-6b28b9b180b3', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BB2E2B0750>]}
+[0m07:42:46.582184 [info ] [MainThread]: Registered adapter: postgres=1.10.0
+[0m07:42:49.091979 [debug] [MainThread]: checksum: af8011603ef11e50c372ae3f97fc55f865d9a46a625bf635f96f9bab84ecd6e3, vars: {}, profile: , target: cloud, version: 1.11.2
+[0m07:42:49.800347 [debug] [MainThread]: Partial parsing enabled: 0 files deleted, 0 files added, 1 files changed.
+[0m07:42:49.805451 [debug] [MainThread]: Partial parsing: updated file: jeans_mfg_data_pipeline://models\sources.yml
+[0m07:42:52.445832 [warn ] [MainThread]: [[33mWARNING[0m][MissingArgumentsPropertyInGenericTestDeprecation]: Deprecated
+functionality
+Found top-level arguments to test `accepted_values` defined on
+'fct_order_fulfillment' in package 'jeans_mfg_data_pipeline'
+(models\schema.yml). Arguments to generic tests should be nested under the
+`arguments` property.
+[0m07:42:52.449942 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'deprecation', 'label': 'f008c29d-e77a-4f49-9d6b-6b28b9b180b3', 'property_': 'warn', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BB3318BC50>]}
+[0m07:42:53.517927 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': 'f008c29d-e77a-4f49-9d6b-6b28b9b180b3', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BB2F0116D0>]}
+[0m07:42:53.949333 [debug] [MainThread]: Wrote artifact WritableManifest to C:\Data Engineering\jeans_mfg_data_pipeline\target\manifest.json
+[0m07:42:53.960179 [debug] [MainThread]: Wrote artifact SemanticManifest to C:\Data Engineering\jeans_mfg_data_pipeline\target\semantic_manifest.json
+[0m07:42:54.059477 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': 'f008c29d-e77a-4f49-9d6b-6b28b9b180b3', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BB3345FF10>]}
+[0m07:42:54.064251 [info ] [MainThread]: Found 6 models, 5 data tests, 4 sources, 465 macros
+[0m07:42:54.067121 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': 'f008c29d-e77a-4f49-9d6b-6b28b9b180b3', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BB33025510>]}
+[0m07:42:54.079727 [info ] [MainThread]: 
+[0m07:42:54.083087 [info ] [MainThread]: Concurrency: 1 threads (target='cloud')
+[0m07:42:54.084753 [info ] [MainThread]: 
+[0m07:42:54.088380 [debug] [MainThread]: Acquiring new postgres connection 'master'
+[0m07:42:54.120365 [debug] [ThreadPool]: Acquiring new postgres connection 'list_neondb'
+[0m07:42:54.623687 [debug] [ThreadPool]: Using postgres connection "list_neondb"
+[0m07:42:54.627476 [debug] [ThreadPool]: On list_neondb: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "list_neondb"} */
+
+    select distinct nspname from pg_namespace
+  
+[0m07:42:54.629704 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m07:42:54.920437 [debug] [ThreadPool]: SQL status: SELECT 7 in 0.291 seconds
+[0m07:42:54.929149 [debug] [ThreadPool]: On list_neondb: Close
+[0m07:42:54.938842 [debug] [ThreadPool]: Using postgres connection "list_neondb"
+[0m07:42:54.941487 [debug] [ThreadPool]: On list_neondb: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "list_neondb"} */
+
+    select distinct nspname from pg_namespace
+  
+[0m07:42:54.944961 [debug] [ThreadPool]: Opening a new connection, currently in state closed
+[0m07:42:55.276616 [debug] [ThreadPool]: SQL status: SELECT 7 in 0.331 seconds
+[0m07:42:55.286833 [debug] [ThreadPool]: On list_neondb: Close
+[0m07:42:55.295174 [debug] [ThreadPool]: Acquiring new postgres connection 'list_neondb_marts'
+[0m07:42:55.326631 [debug] [ThreadPool]: Using postgres connection "list_neondb_marts"
+[0m07:42:55.328291 [debug] [ThreadPool]: On list_neondb_marts: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "list_neondb_marts"} */
+select
+      'neondb' as database,
+      tablename as name,
+      schemaname as schema,
+      'table' as type
+    from pg_tables
+    where schemaname ilike 'marts'
+    union all
+    select
+      'neondb' as database,
+      viewname as name,
+      schemaname as schema,
+      'view' as type
+    from pg_views
+    where schemaname ilike 'marts'
+    union all
+    select
+      'neondb' as database,
+      matviewname as name,
+      schemaname as schema,
+      'materialized_view' as type
+    from pg_matviews
+    where schemaname ilike 'marts'
+  
+[0m07:42:55.331398 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m07:42:55.622763 [debug] [ThreadPool]: SQL status: SELECT 0 in 0.290 seconds
+[0m07:42:55.629414 [debug] [ThreadPool]: On list_neondb_marts: ROLLBACK
+[0m07:42:55.659350 [debug] [ThreadPool]: On list_neondb_marts: Close
+[0m07:42:55.664536 [debug] [ThreadPool]: Re-using an available connection from the pool (formerly list_neondb_marts, now list_neondb_staging)
+[0m07:42:55.683620 [debug] [ThreadPool]: Using postgres connection "list_neondb_staging"
+[0m07:42:55.686708 [debug] [ThreadPool]: On list_neondb_staging: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "list_neondb_staging"} */
+select
+      'neondb' as database,
+      tablename as name,
+      schemaname as schema,
+      'table' as type
+    from pg_tables
+    where schemaname ilike 'staging'
+    union all
+    select
+      'neondb' as database,
+      viewname as name,
+      schemaname as schema,
+      'view' as type
+    from pg_views
+    where schemaname ilike 'staging'
+    union all
+    select
+      'neondb' as database,
+      matviewname as name,
+      schemaname as schema,
+      'materialized_view' as type
+    from pg_matviews
+    where schemaname ilike 'staging'
+  
+[0m07:42:55.690228 [debug] [ThreadPool]: Opening a new connection, currently in state closed
+[0m07:42:56.185119 [debug] [ThreadPool]: SQL status: SELECT 0 in 0.492 seconds
+[0m07:42:56.221157 [debug] [ThreadPool]: On list_neondb_staging: ROLLBACK
+[0m07:42:56.350250 [debug] [ThreadPool]: On list_neondb_staging: Close
+[0m07:42:56.437721 [debug] [MainThread]: Using postgres connection "master"
+[0m07:42:56.446312 [debug] [MainThread]: On master: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "master"} */
+select distinct
+        dependent_namespace.nspname as dependent_schema,
+        dependent_class.relname as dependent_name,
+        referenced_namespace.nspname as referenced_schema,
+        referenced_class.relname as referenced_name
+
+    -- Query for views: views are entries in pg_class with an entry in pg_rewrite, but we avoid
+    -- a seq scan on pg_rewrite by leveraging the fact there is an "internal" row in pg_depend for
+    -- the view...
+    from pg_class as dependent_class
+    join pg_namespace as dependent_namespace on dependent_namespace.oid = dependent_class.relnamespace
+    join pg_depend as dependent_depend on dependent_depend.refobjid = dependent_class.oid
+        and dependent_depend.classid = 'pg_rewrite'::regclass
+        and dependent_depend.refclassid = 'pg_class'::regclass
+        and dependent_depend.deptype = 'i'
+
+    -- ... and via pg_depend (that has a row per column, hence the need for "distinct" above, and
+    -- making sure to exclude the internal row to avoid a view appearing to depend on itself)...
+    join pg_depend as joining_depend on joining_depend.objid = dependent_depend.objid
+        and joining_depend.classid = 'pg_rewrite'::regclass
+        and joining_depend.refclassid = 'pg_class'::regclass
+        and joining_depend.refobjid != dependent_depend.refobjid
+
+    -- ... we can find the tables they query from in pg_class, but excluding system tables. Note we
+    -- don't need need to exclude _dependent_ system tables, because they only query from other
+    -- system tables, and so are automatically excluded by excluding _referenced_ system tables
+    join pg_class as referenced_class on referenced_class.oid = joining_depend.refobjid
+    join pg_namespace as referenced_namespace on referenced_namespace.oid = referenced_class.relnamespace
+        and referenced_namespace.nspname != 'information_schema'
+        and referenced_namespace.nspname not like 'pg\_%'
+
+    order by
+        dependent_schema, dependent_name, referenced_schema, referenced_name;
+[0m07:42:56.456711 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m07:42:56.733379 [debug] [MainThread]: SQL status: SELECT 0 in 0.277 seconds
+[0m07:42:56.743026 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': 'f008c29d-e77a-4f49-9d6b-6b28b9b180b3', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BB3379C050>]}
+[0m07:42:56.746110 [debug] [MainThread]: On master: ROLLBACK
+[0m07:42:56.771707 [debug] [MainThread]: On master: COMMIT
+[0m07:42:56.775623 [debug] [MainThread]: Using postgres connection "master"
+[0m07:42:56.779721 [debug] [MainThread]: On master: COMMIT
+[0m07:42:56.836904 [debug] [MainThread]: SQL status: COMMIT in 0.054 seconds
+[0m07:42:56.840103 [debug] [MainThread]: On master: Close
+[0m07:42:56.863088 [debug] [Thread-1 (]: Began running node model.jeans_mfg_data_pipeline.stg_production_logs
+[0m07:42:56.870886 [info ] [Thread-1 (]: 1 of 5 START sql view model staging.stg_production_logs ........................ [RUN]
+[0m07:42:56.875390 [debug] [Thread-1 (]: Acquiring new postgres connection 'model.jeans_mfg_data_pipeline.stg_production_logs'
+[0m07:42:56.878165 [debug] [Thread-1 (]: Began compiling node model.jeans_mfg_data_pipeline.stg_production_logs
+[0m07:42:56.933345 [debug] [Thread-1 (]: Writing injected SQL for node "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:42:56.941494 [debug] [Thread-1 (]: Began executing node model.jeans_mfg_data_pipeline.stg_production_logs
+[0m07:42:57.201552 [debug] [Thread-1 (]: Writing runtime sql for node "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:42:57.207182 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:42:57.208718 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_production_logs"} */
+
+  create view "neondb"."staging"."stg_production_logs__dbt_tmp"
+    
+    
+  as (
+    -- models/staging/stg_production_logs.sql
+
+
+
+WITH source AS (
+    SELECT * FROM "neondb"."public"."raw_production_logs"
+),
+
+renamed AS (
+    SELECT
+        log_id,
+        order_form_no,
+        stage,
+        updated_at,
+        updated_by
+    FROM source
+)
+
+SELECT * FROM renamed
+  );
+[0m07:42:57.211911 [debug] [Thread-1 (]: Opening a new connection, currently in state init
+[0m07:42:57.563076 [debug] [Thread-1 (]: SQL status: CREATE VIEW in 0.349 seconds
+[0m07:42:57.607542 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:42:57.610194 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_production_logs"} */
+alter table "neondb"."staging"."stg_production_logs__dbt_tmp" rename to "stg_production_logs"
+[0m07:42:57.646269 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.030 seconds
+[0m07:42:57.807232 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: COMMIT
+[0m07:42:57.814363 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:42:57.816416 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: COMMIT
+[0m07:42:57.849163 [debug] [Thread-1 (]: SQL status: COMMIT in 0.029 seconds
+[0m07:42:57.923864 [debug] [Thread-1 (]: Applying DROP to: "neondb"."staging"."stg_production_logs__dbt_backup"
+[0m07:42:57.974024 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:42:57.982001 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_production_logs"} */
+drop view if exists "neondb"."staging"."stg_production_logs__dbt_backup" cascade
+[0m07:42:58.016026 [debug] [Thread-1 (]: SQL status: DROP VIEW in 0.029 seconds
+[0m07:42:58.035806 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: Close
+[0m07:42:58.049720 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': 'f008c29d-e77a-4f49-9d6b-6b28b9b180b3', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BB337B79D0>]}
+[0m07:42:58.058062 [info ] [Thread-1 (]: 1 of 5 OK created sql view model staging.stg_production_logs ................... [[32mCREATE VIEW[0m in 1.17s]
+[0m07:42:58.070949 [debug] [Thread-1 (]: Finished running node model.jeans_mfg_data_pipeline.stg_production_logs
+[0m07:42:58.082377 [debug] [Thread-1 (]: Began running node model.jeans_mfg_data_pipeline.stg_shipping_logs
+[0m07:42:58.100616 [info ] [Thread-1 (]: 2 of 5 START sql view model staging.stg_shipping_logs .......................... [RUN]
+[0m07:42:58.109688 [debug] [Thread-1 (]: Re-using an available connection from the pool (formerly model.jeans_mfg_data_pipeline.stg_production_logs, now model.jeans_mfg_data_pipeline.stg_shipping_logs)
+[0m07:42:58.141757 [debug] [Thread-1 (]: Began compiling node model.jeans_mfg_data_pipeline.stg_shipping_logs
+[0m07:42:58.215603 [debug] [Thread-1 (]: Writing injected SQL for node "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:42:58.258038 [debug] [Thread-1 (]: Began executing node model.jeans_mfg_data_pipeline.stg_shipping_logs
+[0m07:42:58.305203 [debug] [Thread-1 (]: Writing runtime sql for node "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:42:58.330921 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:42:58.335218 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_shipping_logs"} */
+
+  create view "neondb"."staging"."stg_shipping_logs__dbt_tmp"
+    
+    
+  as (
+    with source as (
+    select * from "neondb"."public"."raw_shipping_logs"
+),
+renamed as (
+    select
+        order_form_no,
+        courier,
+        tracking_number,
+        shipped_at,
+        status
+    from source
+)
+select * from renamed
+  );
+[0m07:42:58.349578 [debug] [Thread-1 (]: Opening a new connection, currently in state closed
+[0m07:42:58.680658 [debug] [Thread-1 (]: SQL status: CREATE VIEW in 0.333 seconds
+[0m07:42:58.720325 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:42:58.730742 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_shipping_logs"} */
+alter table "neondb"."staging"."stg_shipping_logs__dbt_tmp" rename to "stg_shipping_logs"
+[0m07:42:58.764980 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.028 seconds
+[0m07:42:58.787647 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: COMMIT
+[0m07:42:58.792939 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:42:58.798269 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: COMMIT
+[0m07:42:58.829460 [debug] [Thread-1 (]: SQL status: COMMIT in 0.027 seconds
+[0m07:42:58.887666 [debug] [Thread-1 (]: Applying DROP to: "neondb"."staging"."stg_shipping_logs__dbt_backup"
+[0m07:42:58.894342 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:42:58.901642 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_shipping_logs"} */
+drop view if exists "neondb"."staging"."stg_shipping_logs__dbt_backup" cascade
+[0m07:42:58.940503 [debug] [Thread-1 (]: SQL status: DROP VIEW in 0.028 seconds
+[0m07:42:58.988136 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: Close
+[0m07:42:59.037076 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': 'f008c29d-e77a-4f49-9d6b-6b28b9b180b3', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BB33916210>]}
+[0m07:42:59.049967 [info ] [Thread-1 (]: 2 of 5 OK created sql view model staging.stg_shipping_logs ..................... [[32mCREATE VIEW[0m in 0.93s]
+[0m07:42:59.064457 [debug] [Thread-1 (]: Finished running node model.jeans_mfg_data_pipeline.stg_shipping_logs
+[0m07:42:59.075808 [debug] [Thread-1 (]: Began running node model.jeans_mfg_data_pipeline.stg_unpivoted_orders
+[0m07:42:59.086037 [info ] [Thread-1 (]: 3 of 5 START sql view model staging.stg_unpivoted_orders ....................... [RUN]
+[0m07:42:59.127477 [debug] [Thread-1 (]: Re-using an available connection from the pool (formerly model.jeans_mfg_data_pipeline.stg_shipping_logs, now model.jeans_mfg_data_pipeline.stg_unpivoted_orders)
+[0m07:42:59.135668 [debug] [Thread-1 (]: Began compiling node model.jeans_mfg_data_pipeline.stg_unpivoted_orders
+[0m07:42:59.160533 [debug] [Thread-1 (]: Writing injected SQL for node "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:42:59.166026 [debug] [Thread-1 (]: Began executing node model.jeans_mfg_data_pipeline.stg_unpivoted_orders
+[0m07:42:59.246662 [debug] [Thread-1 (]: Writing runtime sql for node "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:42:59.273348 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:42:59.290728 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"} */
+
+  create view "neondb"."staging"."stg_unpivoted_orders__dbt_tmp"
+    
+    
+  as (
+    -- models/staging/stg_unpivoted_orders.sql
+
+
+
+WITH source_orders AS (
+
+    SELECT *
+    FROM "neondb"."public"."raw_orders"
+
+),
+
+unpivoted AS (
+
+    SELECT
+        o.order_form_no,
+        o.order_date,
+        o.buyer_name,
+        o.buyer_location,
+        o.s_no,
+        o.style_number,
+        o.unit_price,
+        o.line_item_total,
+        o.total_qty_line_item,
+        o.ingested_at,
+        u.size,
+        u.quantity_ordered AS quantity
+    FROM source_orders o
+    CROSS JOIN LATERAL (
+        VALUES
+            ('18', o.size_18_qty),
+            ('20', o.size_20_qty),
+            ('22', o.size_22_qty),
+            ('24', o.size_24_qty),
+            ('26', o.size_26_qty),
+            ('28', o.size_28_qty),
+            ('30', o.size_30_qty),
+            ('32', o.size_32_qty),
+            ('34', o.size_34_qty),
+            ('36', o.size_36_qty),
+            ('38', o.size_38_qty),
+            ('40', o.size_40_qty),
+            ('42', o.size_42_qty)
+    ) AS u(size, quantity_ordered)
+
+)
+
+SELECT *
+FROM unpivoted
+WHERE quantity > 0
+  );
+[0m07:42:59.301825 [debug] [Thread-1 (]: Opening a new connection, currently in state closed
+[0m07:42:59.601721 [debug] [Thread-1 (]: SQL status: CREATE VIEW in 0.300 seconds
+[0m07:42:59.631964 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:42:59.635589 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"} */
+alter table "neondb"."staging"."stg_unpivoted_orders__dbt_tmp" rename to "stg_unpivoted_orders"
+[0m07:42:59.678180 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.035 seconds
+[0m07:42:59.685984 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: COMMIT
+[0m07:42:59.688643 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:42:59.693204 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: COMMIT
+[0m07:42:59.727820 [debug] [Thread-1 (]: SQL status: COMMIT in 0.027 seconds
+[0m07:42:59.748933 [debug] [Thread-1 (]: Applying DROP to: "neondb"."staging"."stg_unpivoted_orders__dbt_backup"
+[0m07:42:59.752523 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:42:59.755358 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"} */
+drop view if exists "neondb"."staging"."stg_unpivoted_orders__dbt_backup" cascade
+[0m07:42:59.794766 [debug] [Thread-1 (]: SQL status: DROP VIEW in 0.032 seconds
+[0m07:42:59.801516 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: Close
+[0m07:42:59.804884 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': 'f008c29d-e77a-4f49-9d6b-6b28b9b180b3', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BB33902290>]}
+[0m07:42:59.813131 [info ] [Thread-1 (]: 3 of 5 OK created sql view model staging.stg_unpivoted_orders .................. [[32mCREATE VIEW[0m in 0.68s]
+[0m07:42:59.817678 [debug] [Thread-1 (]: Finished running node model.jeans_mfg_data_pipeline.stg_unpivoted_orders
+[0m07:42:59.824280 [debug] [Thread-1 (]: Began running node model.jeans_mfg_data_pipeline.fact_material_requirements
+[0m07:42:59.830403 [info ] [Thread-1 (]: 4 of 5 START sql table model marts.fact_material_requirements .................. [RUN]
+[0m07:42:59.835909 [debug] [Thread-1 (]: Re-using an available connection from the pool (formerly model.jeans_mfg_data_pipeline.stg_unpivoted_orders, now model.jeans_mfg_data_pipeline.fact_material_requirements)
+[0m07:42:59.845960 [debug] [Thread-1 (]: Began compiling node model.jeans_mfg_data_pipeline.fact_material_requirements
+[0m07:42:59.877113 [debug] [Thread-1 (]: Writing injected SQL for node "model.jeans_mfg_data_pipeline.fact_material_requirements"
+[0m07:42:59.881583 [debug] [Thread-1 (]: Began executing node model.jeans_mfg_data_pipeline.fact_material_requirements
+[0m07:43:00.098006 [debug] [Thread-1 (]: Writing runtime sql for node "model.jeans_mfg_data_pipeline.fact_material_requirements"
+[0m07:43:00.130350 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.fact_material_requirements"
+[0m07:43:00.137029 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fact_material_requirements: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.fact_material_requirements"} */
+
+  
+    
+
+  create  table "neondb"."marts"."fact_material_requirements__dbt_tmp"
+  
+  
+    as
+  
+  (
+    -- models/marts/fact_material_requirements.sql
+
+ -- Final models are often tables for performance
+
+SELECT
+    o.order_form_no,
+    o.order_date,
+    o.buyer_name,
+    o.buyer_location,
+    o.s_no,
+    o.style_number,
+    CAST(o.size AS INT) AS size, -- Cast size_text back to INT for joining
+    o.quantity, -- Renamed from quantity_ordered in staging
+    b.material_type,
+    b.material_qty_per_unit,
+    b.unit_of_measure,
+    -- Calculate total material needed for this line item
+    o.quantity * b.material_qty_per_unit AS total_material_needed_for_line_item,
+    o.ingested_at AS order_ingested_at,
+    b.ingested_at AS bom_ingested_at
+FROM
+    "neondb"."staging"."stg_unpivoted_orders" o -- Reference our staging model
+JOIN
+    "neondb"."public"."raw_bill_of_materials" b -- Reference the BOM source
+ON
+    o.style_number = b.style_number
+    AND CAST(o.size AS INT) = b.size -- Cast to INT for join
+WHERE
+    o.quantity > 0
+  );
+  
+[0m07:43:00.158531 [debug] [Thread-1 (]: Opening a new connection, currently in state closed
+[0m07:43:00.470474 [debug] [Thread-1 (]: Postgres adapter: Postgres error: relation "public.raw_bill_of_materials" does not exist
+LINE 35:     "neondb"."public"."raw_bill_of_materials" b -- Reference...
+             ^
+
+[0m07:43:00.473579 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fact_material_requirements: ROLLBACK
+[0m07:43:00.506891 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fact_material_requirements: Close
+[0m07:43:00.569364 [debug] [Thread-1 (]: Database Error in model fact_material_requirements (models\marts\fact_material_requirements.sql)
+  relation "public.raw_bill_of_materials" does not exist
+  LINE 35:     "neondb"."public"."raw_bill_of_materials" b -- Reference...
+               ^
+  compiled code at target\run\jeans_mfg_data_pipeline\models\marts\fact_material_requirements.sql
+[0m07:43:00.578052 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': 'f008c29d-e77a-4f49-9d6b-6b28b9b180b3', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BB338CF2D0>]}
+[0m07:43:00.587239 [error] [Thread-1 (]: 4 of 5 ERROR creating sql table model marts.fact_material_requirements ......... [[31mERROR[0m in 0.74s]
+[0m07:43:00.599922 [debug] [Thread-1 (]: Finished running node model.jeans_mfg_data_pipeline.fact_material_requirements
+[0m07:43:00.602956 [debug] [Thread-1 (]: Began running node model.jeans_mfg_data_pipeline.fct_order_fulfillment
+[0m07:43:00.607202 [debug] [Thread-4 (]: Marking all children of 'model.jeans_mfg_data_pipeline.fact_material_requirements' to be skipped because of status 'error'.  Reason: Database Error in model fact_material_requirements (models\marts\fact_material_requirements.sql)
+  relation "public.raw_bill_of_materials" does not exist
+  LINE 35:     "neondb"."public"."raw_bill_of_materials" b -- Reference...
+               ^
+  compiled code at target\run\jeans_mfg_data_pipeline\models\marts\fact_material_requirements.sql.
+[0m07:43:00.612812 [info ] [Thread-1 (]: 5 of 5 START sql table model marts.fct_order_fulfillment ....................... [RUN]
+[0m07:43:00.627578 [debug] [Thread-1 (]: Re-using an available connection from the pool (formerly model.jeans_mfg_data_pipeline.fact_material_requirements, now model.jeans_mfg_data_pipeline.fct_order_fulfillment)
+[0m07:43:00.630527 [debug] [Thread-1 (]: Began compiling node model.jeans_mfg_data_pipeline.fct_order_fulfillment
+[0m07:43:00.695980 [debug] [Thread-1 (]: Writing injected SQL for node "model.jeans_mfg_data_pipeline.fct_order_fulfillment"
+[0m07:43:00.716050 [debug] [Thread-1 (]: Began executing node model.jeans_mfg_data_pipeline.fct_order_fulfillment
+[0m07:43:00.737374 [debug] [Thread-1 (]: Writing runtime sql for node "model.jeans_mfg_data_pipeline.fct_order_fulfillment"
+[0m07:43:00.750135 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.fct_order_fulfillment"
+[0m07:43:00.767081 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fct_order_fulfillment: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.fct_order_fulfillment"} */
+
+  
+    
+
+  create  table "neondb"."marts"."fct_order_fulfillment__dbt_tmp"
+  
+  
+    as
+  
+  (
+    -- models/marts/fct_order_fulfillment.sql
+
+
+
+WITH orders AS (
+    SELECT * FROM "neondb"."staging"."stg_unpivoted_orders"
+),
+
+prod_logs AS (
+    SELECT * FROM "neondb"."staging"."stg_production_logs"
+),
+
+shipping_logs AS (
+    SELECT * FROM "neondb"."staging"."stg_shipping_logs"
+),
+
+latest_prod AS (
+    SELECT 
+        order_form_no,
+        stage AS current_production_stage,
+        updated_at AS last_stage_updated_at
+    FROM (
+        SELECT *, ROW_NUMBER() OVER (PARTITION BY order_form_no ORDER BY updated_at DESC) as rn
+        FROM prod_logs
+    ) t
+    WHERE rn = 1
+)
+
+SELECT
+    o.order_form_no,
+    o.order_date,
+    o.buyer_name,
+    o.buyer_location,
+    o.style_number,
+    SUM(o.quantity) as total_order_quantity,
+    MAX(lp.current_production_stage) as current_production_stage,
+    MAX(lp.last_stage_updated_at) as last_stage_updated_at,
+    MAX(EXTRACT(DAY FROM CURRENT_TIMESTAMP - lp.last_stage_updated_at)) AS days_in_current_stage,
+    CAST(MAX(CASE WHEN s.shipped_at IS NOT NULL THEN 1 ELSE 0 END) AS BOOLEAN) AS is_shipped,
+    MAX(s.shipped_at) AS shipped_at,
+    MAX(s.courier) AS courier,
+    MAX(s.tracking_number) AS tracking_number,
+    CAST(MAX(CASE WHEN s.shipped_at IS NULL AND EXTRACT(DAY FROM CURRENT_TIMESTAMP - lp.last_stage_updated_at) > 5 THEN 1 ELSE 0 END) AS BOOLEAN) AS is_delayed
+FROM orders o
+LEFT JOIN latest_prod lp ON o.order_form_no = lp.order_form_no
+LEFT JOIN shipping_logs s ON o.order_form_no = s.order_form_no
+GROUP BY 
+    o.order_form_no,
+    o.order_date,
+    o.buyer_name,
+    o.buyer_location,
+    o.style_number
+  );
+  
+[0m07:43:00.784812 [debug] [Thread-1 (]: Opening a new connection, currently in state closed
+[0m07:43:01.087421 [debug] [Thread-1 (]: SQL status: SELECT 919 in 0.302 seconds
+[0m07:43:01.176021 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.fct_order_fulfillment"
+[0m07:43:01.178647 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fct_order_fulfillment: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.fct_order_fulfillment"} */
+alter table "neondb"."marts"."fct_order_fulfillment__dbt_tmp" rename to "fct_order_fulfillment"
+[0m07:43:01.210523 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.029 seconds
+[0m07:43:01.262052 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fct_order_fulfillment: COMMIT
+[0m07:43:01.266803 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.fct_order_fulfillment"
+[0m07:43:01.270658 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fct_order_fulfillment: COMMIT
+[0m07:43:01.301649 [debug] [Thread-1 (]: SQL status: COMMIT in 0.026 seconds
+[0m07:43:01.341093 [debug] [Thread-1 (]: Applying DROP to: "neondb"."marts"."fct_order_fulfillment__dbt_backup"
+[0m07:43:01.364000 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.fct_order_fulfillment"
+[0m07:43:01.376643 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fct_order_fulfillment: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.fct_order_fulfillment"} */
+drop table if exists "neondb"."marts"."fct_order_fulfillment__dbt_backup" cascade
+[0m07:43:01.414378 [debug] [Thread-1 (]: SQL status: DROP TABLE in 0.032 seconds
+[0m07:43:01.431223 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fct_order_fulfillment: Close
+[0m07:43:01.434736 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': 'f008c29d-e77a-4f49-9d6b-6b28b9b180b3', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BB33D3C250>]}
+[0m07:43:01.438278 [info ] [Thread-1 (]: 5 of 5 OK created sql table model marts.fct_order_fulfillment .................. [[32mSELECT 919[0m in 0.81s]
+[0m07:43:01.444457 [debug] [Thread-1 (]: Finished running node model.jeans_mfg_data_pipeline.fct_order_fulfillment
+[0m07:43:01.470456 [debug] [MainThread]: On master: COMMIT
+[0m07:43:01.497328 [debug] [MainThread]: Using postgres connection "master"
+[0m07:43:01.513891 [debug] [MainThread]: On master: COMMIT
+[0m07:43:01.516898 [debug] [MainThread]: Opening a new connection, currently in state closed
+[0m07:43:01.832850 [debug] [MainThread]: SQL status: COMMIT in 0.317 seconds
+[0m07:43:01.835448 [debug] [MainThread]: On master: Close
+[0m07:43:01.841596 [debug] [MainThread]: Connection 'master' was properly closed.
+[0m07:43:01.843923 [debug] [MainThread]: Connection 'list_neondb' was properly closed.
+[0m07:43:01.847018 [debug] [MainThread]: Connection 'list_neondb_staging' was properly closed.
+[0m07:43:01.850031 [debug] [MainThread]: Connection 'model.jeans_mfg_data_pipeline.fct_order_fulfillment' was properly closed.
+[0m07:43:01.853530 [info ] [MainThread]: 
+[0m07:43:01.862791 [info ] [MainThread]: Finished running 2 table models, 3 view models in 0 hours 0 minutes and 7.77 seconds (7.77s).
+[0m07:43:01.878471 [debug] [MainThread]: Command end result
+[0m07:43:02.107028 [debug] [MainThread]: Wrote artifact WritableManifest to C:\Data Engineering\jeans_mfg_data_pipeline\target\manifest.json
+[0m07:43:02.130039 [debug] [MainThread]: Wrote artifact SemanticManifest to C:\Data Engineering\jeans_mfg_data_pipeline\target\semantic_manifest.json
+[0m07:43:02.176180 [debug] [MainThread]: Wrote artifact RunExecutionResult to C:\Data Engineering\jeans_mfg_data_pipeline\target\run_results.json
+[0m07:43:02.178400 [info ] [MainThread]: 
+[0m07:43:02.180938 [info ] [MainThread]: [31mCompleted with 1 error, 0 partial successes, and 0 warnings:[0m
+[0m07:43:02.185557 [info ] [MainThread]: 
+[0m07:43:02.188864 [error] [MainThread]: [31mFailure in model fact_material_requirements (models\marts\fact_material_requirements.sql)[0m
+[0m07:43:02.193424 [error] [MainThread]:   Database Error in model fact_material_requirements (models\marts\fact_material_requirements.sql)
+  relation "public.raw_bill_of_materials" does not exist
+  LINE 35:     "neondb"."public"."raw_bill_of_materials" b -- Reference...
+               ^
+  compiled code at target\run\jeans_mfg_data_pipeline\models\marts\fact_material_requirements.sql
+[0m07:43:02.198213 [info ] [MainThread]: 
+[0m07:43:02.203238 [info ] [MainThread]:   compiled code at target\compiled\jeans_mfg_data_pipeline\models\marts\fact_material_requirements.sql
+[0m07:43:02.208337 [info ] [MainThread]: 
+[0m07:43:02.212906 [info ] [MainThread]: Done. PASS=4 WARN=0 ERROR=1 SKIP=0 NO-OP=0 TOTAL=5
+[0m07:43:02.233989 [warn ] [MainThread]: [[33mWARNING[0m][DeprecationsSummary]: Deprecated functionality
+Summary of encountered deprecations:
+- MissingArgumentsPropertyInGenericTestDeprecation: 1 occurrence
+To see all deprecation instances instead of just the first occurrence of each,
+run command again with the `--show-all-deprecations` flag. You may also need to
+run with `--no-partial-parse` as some deprecations are only encountered during
+parsing.
+[0m07:43:02.244795 [debug] [MainThread]: Command `dbt run` failed at 07:43:02.243106 after 17.47 seconds
+[0m07:43:02.251015 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BB31A654D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BB31A67390>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002BB339300D0>]}
+[0m07:43:02.255569 [debug] [MainThread]: Flushing usage events
+[0m07:43:07.167170 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m07:43:51.422755 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000012EF0C9D010>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000012EF0C9E3D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000012EF0C9E8D0>]}
+
+
+============================== 07:43:51.441329 | 001e22ca-e53e-4340-b950-2024a8dfc683 ==============================
+[0m07:43:51.441329 [info ] [MainThread]: Running with dbt=1.11.2
+[0m07:43:51.446745 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'version_check': 'True', 'fail_fast': 'False', 'log_path': 'C:\\Data Engineering\\jeans_mfg_data_pipeline\\logs', 'profiles_dir': '.', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'False', 'quiet': 'False', 'no_print': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'static_parser': 'True', 'introspect': 'True', 'log_format': 'default', 'target_path': 'None', 'invocation_command': 'dbt run --profiles-dir . --target cloud', 'send_anonymous_usage_stats': 'True'}
+[0m07:43:53.149613 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '001e22ca-e53e-4340-b950-2024a8dfc683', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000012EF0D05050>]}
+[0m07:43:53.605972 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '001e22ca-e53e-4340-b950-2024a8dfc683', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000012EF0D0E450>]}
+[0m07:43:53.615201 [info ] [MainThread]: Registered adapter: postgres=1.10.0
+[0m07:43:56.301406 [debug] [MainThread]: checksum: af8011603ef11e50c372ae3f97fc55f865d9a46a625bf635f96f9bab84ecd6e3, vars: {}, profile: , target: cloud, version: 1.11.2
+[0m07:43:57.382819 [debug] [MainThread]: Partial parsing enabled: 0 files deleted, 0 files added, 0 files changed.
+[0m07:43:57.386493 [debug] [MainThread]: Nothing changed, skipping partial parsing.
+[0m07:43:57.388481 [debug] [MainThread]: Partial parsing enabled, no changes found, skipping parsing
+[0m07:43:57.719481 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '001e22ca-e53e-4340-b950-2024a8dfc683', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000012EF20EF9D0>]}
+[0m07:43:58.777518 [debug] [MainThread]: Wrote artifact WritableManifest to C:\Data Engineering\jeans_mfg_data_pipeline\target\manifest.json
+[0m07:43:58.813734 [debug] [MainThread]: Wrote artifact SemanticManifest to C:\Data Engineering\jeans_mfg_data_pipeline\target\semantic_manifest.json
+[0m07:43:58.999450 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '001e22ca-e53e-4340-b950-2024a8dfc683', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000012EF24311D0>]}
+[0m07:43:59.013195 [info ] [MainThread]: Found 6 models, 5 data tests, 4 sources, 465 macros
+[0m07:43:59.016375 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '001e22ca-e53e-4340-b950-2024a8dfc683', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000012EF239DC10>]}
+[0m07:43:59.036518 [info ] [MainThread]: 
+[0m07:43:59.045585 [info ] [MainThread]: Concurrency: 1 threads (target='cloud')
+[0m07:43:59.048655 [info ] [MainThread]: 
+[0m07:43:59.053199 [debug] [MainThread]: Acquiring new postgres connection 'master'
+[0m07:43:59.182694 [debug] [ThreadPool]: Acquiring new postgres connection 'list_neondb'
+[0m07:44:00.358172 [debug] [ThreadPool]: Using postgres connection "list_neondb"
+[0m07:44:00.359697 [debug] [ThreadPool]: On list_neondb: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "list_neondb"} */
+
+    select distinct nspname from pg_namespace
+  
+[0m07:44:00.362226 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m07:44:00.709707 [debug] [ThreadPool]: SQL status: SELECT 7 in 0.347 seconds
+[0m07:44:00.716360 [debug] [ThreadPool]: On list_neondb: Close
+[0m07:44:00.742220 [debug] [ThreadPool]: Using postgres connection "list_neondb"
+[0m07:44:00.745823 [debug] [ThreadPool]: On list_neondb: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "list_neondb"} */
+
+    select distinct nspname from pg_namespace
+  
+[0m07:44:00.748533 [debug] [ThreadPool]: Opening a new connection, currently in state closed
+[0m07:44:01.017405 [debug] [ThreadPool]: SQL status: SELECT 7 in 0.269 seconds
+[0m07:44:01.031763 [debug] [ThreadPool]: On list_neondb: Close
+[0m07:44:01.045962 [debug] [ThreadPool]: Acquiring new postgres connection 'list_neondb_marts'
+[0m07:44:01.085556 [debug] [ThreadPool]: Using postgres connection "list_neondb_marts"
+[0m07:44:01.089186 [debug] [ThreadPool]: On list_neondb_marts: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "list_neondb_marts"} */
+select
+      'neondb' as database,
+      tablename as name,
+      schemaname as schema,
+      'table' as type
+    from pg_tables
+    where schemaname ilike 'marts'
+    union all
+    select
+      'neondb' as database,
+      viewname as name,
+      schemaname as schema,
+      'view' as type
+    from pg_views
+    where schemaname ilike 'marts'
+    union all
+    select
+      'neondb' as database,
+      matviewname as name,
+      schemaname as schema,
+      'materialized_view' as type
+    from pg_matviews
+    where schemaname ilike 'marts'
+  
+[0m07:44:01.094324 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m07:44:01.358139 [debug] [ThreadPool]: SQL status: SELECT 1 in 0.264 seconds
+[0m07:44:01.369922 [debug] [ThreadPool]: On list_neondb_marts: ROLLBACK
+[0m07:44:01.412079 [debug] [ThreadPool]: On list_neondb_marts: Close
+[0m07:44:01.416723 [debug] [ThreadPool]: Re-using an available connection from the pool (formerly list_neondb_marts, now list_neondb_staging)
+[0m07:44:01.446854 [debug] [ThreadPool]: Using postgres connection "list_neondb_staging"
+[0m07:44:01.450382 [debug] [ThreadPool]: On list_neondb_staging: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "list_neondb_staging"} */
+select
+      'neondb' as database,
+      tablename as name,
+      schemaname as schema,
+      'table' as type
+    from pg_tables
+    where schemaname ilike 'staging'
+    union all
+    select
+      'neondb' as database,
+      viewname as name,
+      schemaname as schema,
+      'view' as type
+    from pg_views
+    where schemaname ilike 'staging'
+    union all
+    select
+      'neondb' as database,
+      matviewname as name,
+      schemaname as schema,
+      'materialized_view' as type
+    from pg_matviews
+    where schemaname ilike 'staging'
+  
+[0m07:44:01.452384 [debug] [ThreadPool]: Opening a new connection, currently in state closed
+[0m07:44:01.743064 [debug] [ThreadPool]: SQL status: SELECT 3 in 0.290 seconds
+[0m07:44:01.748125 [debug] [ThreadPool]: On list_neondb_staging: ROLLBACK
+[0m07:44:01.784401 [debug] [ThreadPool]: On list_neondb_staging: Close
+[0m07:44:01.841507 [debug] [MainThread]: Using postgres connection "master"
+[0m07:44:01.845596 [debug] [MainThread]: On master: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "master"} */
+select distinct
+        dependent_namespace.nspname as dependent_schema,
+        dependent_class.relname as dependent_name,
+        referenced_namespace.nspname as referenced_schema,
+        referenced_class.relname as referenced_name
+
+    -- Query for views: views are entries in pg_class with an entry in pg_rewrite, but we avoid
+    -- a seq scan on pg_rewrite by leveraging the fact there is an "internal" row in pg_depend for
+    -- the view...
+    from pg_class as dependent_class
+    join pg_namespace as dependent_namespace on dependent_namespace.oid = dependent_class.relnamespace
+    join pg_depend as dependent_depend on dependent_depend.refobjid = dependent_class.oid
+        and dependent_depend.classid = 'pg_rewrite'::regclass
+        and dependent_depend.refclassid = 'pg_class'::regclass
+        and dependent_depend.deptype = 'i'
+
+    -- ... and via pg_depend (that has a row per column, hence the need for "distinct" above, and
+    -- making sure to exclude the internal row to avoid a view appearing to depend on itself)...
+    join pg_depend as joining_depend on joining_depend.objid = dependent_depend.objid
+        and joining_depend.classid = 'pg_rewrite'::regclass
+        and joining_depend.refclassid = 'pg_class'::regclass
+        and joining_depend.refobjid != dependent_depend.refobjid
+
+    -- ... we can find the tables they query from in pg_class, but excluding system tables. Note we
+    -- don't need need to exclude _dependent_ system tables, because they only query from other
+    -- system tables, and so are automatically excluded by excluding _referenced_ system tables
+    join pg_class as referenced_class on referenced_class.oid = joining_depend.refobjid
+    join pg_namespace as referenced_namespace on referenced_namespace.oid = referenced_class.relnamespace
+        and referenced_namespace.nspname != 'information_schema'
+        and referenced_namespace.nspname not like 'pg\_%'
+
+    order by
+        dependent_schema, dependent_name, referenced_schema, referenced_name;
+[0m07:44:01.849344 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m07:44:02.125255 [debug] [MainThread]: SQL status: SELECT 3 in 0.276 seconds
+[0m07:44:02.133434 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '001e22ca-e53e-4340-b950-2024a8dfc683', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000012EF0CA2890>]}
+[0m07:44:02.143948 [debug] [MainThread]: On master: ROLLBACK
+[0m07:44:02.189999 [debug] [MainThread]: On master: COMMIT
+[0m07:44:02.194734 [debug] [MainThread]: Using postgres connection "master"
+[0m07:44:02.196261 [debug] [MainThread]: On master: COMMIT
+[0m07:44:02.250055 [debug] [MainThread]: SQL status: COMMIT in 0.050 seconds
+[0m07:44:02.255657 [debug] [MainThread]: On master: Close
+[0m07:44:02.280897 [debug] [Thread-1 (]: Began running node model.jeans_mfg_data_pipeline.stg_production_logs
+[0m07:44:02.284460 [info ] [Thread-1 (]: 1 of 5 START sql view model staging.stg_production_logs ........................ [RUN]
+[0m07:44:02.297338 [debug] [Thread-1 (]: Acquiring new postgres connection 'model.jeans_mfg_data_pipeline.stg_production_logs'
+[0m07:44:02.307447 [debug] [Thread-1 (]: Began compiling node model.jeans_mfg_data_pipeline.stg_production_logs
+[0m07:44:02.430701 [debug] [Thread-1 (]: Writing injected SQL for node "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:44:02.438442 [debug] [Thread-1 (]: Began executing node model.jeans_mfg_data_pipeline.stg_production_logs
+[0m07:44:02.699475 [debug] [Thread-1 (]: Writing runtime sql for node "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:44:02.712688 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:44:02.715800 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_production_logs"} */
+
+  create view "neondb"."staging"."stg_production_logs__dbt_tmp"
+    
+    
+  as (
+    -- models/staging/stg_production_logs.sql
+
+
+
+WITH source AS (
+    SELECT * FROM "neondb"."public"."raw_production_logs"
+),
+
+renamed AS (
+    SELECT
+        log_id,
+        order_form_no,
+        stage,
+        updated_at,
+        updated_by
+    FROM source
+)
+
+SELECT * FROM renamed
+  );
+[0m07:44:02.720009 [debug] [Thread-1 (]: Opening a new connection, currently in state init
+[0m07:44:02.979723 [debug] [Thread-1 (]: SQL status: CREATE VIEW in 0.261 seconds
+[0m07:44:03.043510 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:44:03.046164 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_production_logs"} */
+alter table "neondb"."staging"."stg_production_logs" rename to "stg_production_logs__dbt_backup"
+[0m07:44:03.076208 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.028 seconds
+[0m07:44:03.109656 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:44:03.112224 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_production_logs"} */
+alter table "neondb"."staging"."stg_production_logs__dbt_tmp" rename to "stg_production_logs"
+[0m07:44:03.141837 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.027 seconds
+[0m07:44:03.256786 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: COMMIT
+[0m07:44:03.262033 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:44:03.265701 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: COMMIT
+[0m07:44:03.294524 [debug] [Thread-1 (]: SQL status: COMMIT in 0.025 seconds
+[0m07:44:03.332515 [debug] [Thread-1 (]: Applying DROP to: "neondb"."staging"."stg_production_logs__dbt_backup"
+[0m07:44:03.363023 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:44:03.367102 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_production_logs"} */
+drop view if exists "neondb"."staging"."stg_production_logs__dbt_backup" cascade
+[0m07:44:03.399150 [debug] [Thread-1 (]: SQL status: DROP VIEW in 0.029 seconds
+[0m07:44:03.412941 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: Close
+[0m07:44:03.423902 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '001e22ca-e53e-4340-b950-2024a8dfc683', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000012EF1E8C150>]}
+[0m07:44:03.427230 [info ] [Thread-1 (]: 1 of 5 OK created sql view model staging.stg_production_logs ................... [[32mCREATE VIEW[0m in 1.12s]
+[0m07:44:03.432540 [debug] [Thread-1 (]: Finished running node model.jeans_mfg_data_pipeline.stg_production_logs
+[0m07:44:03.435861 [debug] [Thread-1 (]: Began running node model.jeans_mfg_data_pipeline.stg_shipping_logs
+[0m07:44:03.439705 [info ] [Thread-1 (]: 2 of 5 START sql view model staging.stg_shipping_logs .......................... [RUN]
+[0m07:44:03.443132 [debug] [Thread-1 (]: Re-using an available connection from the pool (formerly model.jeans_mfg_data_pipeline.stg_production_logs, now model.jeans_mfg_data_pipeline.stg_shipping_logs)
+[0m07:44:03.445208 [debug] [Thread-1 (]: Began compiling node model.jeans_mfg_data_pipeline.stg_shipping_logs
+[0m07:44:03.462326 [debug] [Thread-1 (]: Writing injected SQL for node "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:44:03.469482 [debug] [Thread-1 (]: Began executing node model.jeans_mfg_data_pipeline.stg_shipping_logs
+[0m07:44:03.510292 [debug] [Thread-1 (]: Writing runtime sql for node "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:44:03.524435 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:44:03.528084 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_shipping_logs"} */
+
+  create view "neondb"."staging"."stg_shipping_logs__dbt_tmp"
+    
+    
+  as (
+    with source as (
+    select * from "neondb"."public"."raw_shipping_logs"
+),
+renamed as (
+    select
+        order_form_no,
+        courier,
+        tracking_number,
+        shipped_at,
+        status
+    from source
+)
+select * from renamed
+  );
+[0m07:44:03.532173 [debug] [Thread-1 (]: Opening a new connection, currently in state closed
+[0m07:44:03.799769 [debug] [Thread-1 (]: SQL status: CREATE VIEW in 0.268 seconds
+[0m07:44:03.829799 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:44:03.833438 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_shipping_logs"} */
+alter table "neondb"."staging"."stg_shipping_logs" rename to "stg_shipping_logs__dbt_backup"
+[0m07:44:03.862729 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.024 seconds
+[0m07:44:03.896120 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:44:03.899328 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_shipping_logs"} */
+alter table "neondb"."staging"."stg_shipping_logs__dbt_tmp" rename to "stg_shipping_logs"
+[0m07:44:03.930196 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.026 seconds
+[0m07:44:03.941319 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: COMMIT
+[0m07:44:03.944904 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:44:03.947082 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: COMMIT
+[0m07:44:03.975026 [debug] [Thread-1 (]: SQL status: COMMIT in 0.024 seconds
+[0m07:44:04.012494 [debug] [Thread-1 (]: Applying DROP to: "neondb"."staging"."stg_shipping_logs__dbt_backup"
+[0m07:44:04.023862 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:44:04.027060 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_shipping_logs"} */
+drop view if exists "neondb"."staging"."stg_shipping_logs__dbt_backup" cascade
+[0m07:44:04.057539 [debug] [Thread-1 (]: SQL status: DROP VIEW in 0.027 seconds
+[0m07:44:04.065788 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: Close
+[0m07:44:04.077277 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '001e22ca-e53e-4340-b950-2024a8dfc683', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000012EF2873C50>]}
+[0m07:44:04.081332 [info ] [Thread-1 (]: 2 of 5 OK created sql view model staging.stg_shipping_logs ..................... [[32mCREATE VIEW[0m in 0.63s]
+[0m07:44:04.090929 [debug] [Thread-1 (]: Finished running node model.jeans_mfg_data_pipeline.stg_shipping_logs
+[0m07:44:04.094837 [debug] [Thread-1 (]: Began running node model.jeans_mfg_data_pipeline.stg_unpivoted_orders
+[0m07:44:04.104405 [info ] [Thread-1 (]: 3 of 5 START sql view model staging.stg_unpivoted_orders ....................... [RUN]
+[0m07:44:04.108578 [debug] [Thread-1 (]: Re-using an available connection from the pool (formerly model.jeans_mfg_data_pipeline.stg_shipping_logs, now model.jeans_mfg_data_pipeline.stg_unpivoted_orders)
+[0m07:44:04.112305 [debug] [Thread-1 (]: Began compiling node model.jeans_mfg_data_pipeline.stg_unpivoted_orders
+[0m07:44:04.139465 [debug] [Thread-1 (]: Writing injected SQL for node "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:44:04.154876 [debug] [Thread-1 (]: Began executing node model.jeans_mfg_data_pipeline.stg_unpivoted_orders
+[0m07:44:04.191190 [debug] [Thread-1 (]: Writing runtime sql for node "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:44:04.198075 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:44:04.203117 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"} */
+
+  create view "neondb"."staging"."stg_unpivoted_orders__dbt_tmp"
+    
+    
+  as (
+    -- models/staging/stg_unpivoted_orders.sql
+
+
+
+WITH source_orders AS (
+
+    SELECT *
+    FROM "neondb"."public"."raw_orders"
+
+),
+
+unpivoted AS (
+
+    SELECT
+        o.order_form_no,
+        o.order_date,
+        o.buyer_name,
+        o.buyer_location,
+        o.s_no,
+        o.style_number,
+        o.unit_price,
+        o.line_item_total,
+        o.total_qty_line_item,
+        o.ingested_at,
+        u.size,
+        u.quantity_ordered AS quantity
+    FROM source_orders o
+    CROSS JOIN LATERAL (
+        VALUES
+            ('18', o.size_18_qty),
+            ('20', o.size_20_qty),
+            ('22', o.size_22_qty),
+            ('24', o.size_24_qty),
+            ('26', o.size_26_qty),
+            ('28', o.size_28_qty),
+            ('30', o.size_30_qty),
+            ('32', o.size_32_qty),
+            ('34', o.size_34_qty),
+            ('36', o.size_36_qty),
+            ('38', o.size_38_qty),
+            ('40', o.size_40_qty),
+            ('42', o.size_42_qty)
+    ) AS u(size, quantity_ordered)
+
+)
+
+SELECT *
+FROM unpivoted
+WHERE quantity > 0
+  );
+[0m07:44:04.210853 [debug] [Thread-1 (]: Opening a new connection, currently in state closed
+[0m07:44:04.508144 [debug] [Thread-1 (]: SQL status: CREATE VIEW in 0.296 seconds
+[0m07:44:04.532947 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:44:04.535712 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"} */
+alter table "neondb"."staging"."stg_unpivoted_orders" rename to "stg_unpivoted_orders__dbt_backup"
+[0m07:44:04.570998 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.029 seconds
+[0m07:44:04.587198 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:44:04.593478 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"} */
+alter table "neondb"."staging"."stg_unpivoted_orders__dbt_tmp" rename to "stg_unpivoted_orders"
+[0m07:44:04.629177 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.031 seconds
+[0m07:44:04.645601 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: COMMIT
+[0m07:44:04.649614 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:44:04.652131 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: COMMIT
+[0m07:44:04.687548 [debug] [Thread-1 (]: SQL status: COMMIT in 0.030 seconds
+[0m07:44:04.709146 [debug] [Thread-1 (]: Applying DROP to: "neondb"."staging"."stg_unpivoted_orders__dbt_backup"
+[0m07:44:04.712673 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:44:04.715210 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"} */
+drop view if exists "neondb"."staging"."stg_unpivoted_orders__dbt_backup" cascade
+[0m07:44:04.746682 [debug] [Thread-1 (]: SQL status: DROP VIEW in 0.029 seconds
+[0m07:44:04.759474 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: Close
+[0m07:44:04.766994 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '001e22ca-e53e-4340-b950-2024a8dfc683', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000012EF27B6690>]}
+[0m07:44:04.778015 [info ] [Thread-1 (]: 3 of 5 OK created sql view model staging.stg_unpivoted_orders .................. [[32mCREATE VIEW[0m in 0.66s]
+[0m07:44:04.783842 [debug] [Thread-1 (]: Finished running node model.jeans_mfg_data_pipeline.stg_unpivoted_orders
+[0m07:44:04.794878 [debug] [Thread-1 (]: Began running node model.jeans_mfg_data_pipeline.fact_material_requirements
+[0m07:44:04.798346 [info ] [Thread-1 (]: 4 of 5 START sql table model marts.fact_material_requirements .................. [RUN]
+[0m07:44:04.803026 [debug] [Thread-1 (]: Re-using an available connection from the pool (formerly model.jeans_mfg_data_pipeline.stg_unpivoted_orders, now model.jeans_mfg_data_pipeline.fact_material_requirements)
+[0m07:44:04.808921 [debug] [Thread-1 (]: Began compiling node model.jeans_mfg_data_pipeline.fact_material_requirements
+[0m07:44:04.853717 [debug] [Thread-1 (]: Writing injected SQL for node "model.jeans_mfg_data_pipeline.fact_material_requirements"
+[0m07:44:04.864159 [debug] [Thread-1 (]: Began executing node model.jeans_mfg_data_pipeline.fact_material_requirements
+[0m07:44:05.050931 [debug] [Thread-1 (]: Writing runtime sql for node "model.jeans_mfg_data_pipeline.fact_material_requirements"
+[0m07:44:05.063517 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.fact_material_requirements"
+[0m07:44:05.067595 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fact_material_requirements: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.fact_material_requirements"} */
+
+  
+    
+
+  create  table "neondb"."marts"."fact_material_requirements__dbt_tmp"
+  
+  
+    as
+  
+  (
+    -- models/marts/fact_material_requirements.sql
+
+ -- Final models are often tables for performance
+
+SELECT
+    o.order_form_no,
+    o.order_date,
+    o.buyer_name,
+    o.buyer_location,
+    o.s_no,
+    o.style_number,
+    CAST(o.size AS INT) AS size, -- Cast size_text back to INT for joining
+    o.quantity, -- Renamed from quantity_ordered in staging
+    b.material_type,
+    b.material_qty_per_unit,
+    b.unit_of_measure,
+    -- Calculate total material needed for this line item
+    o.quantity * b.material_qty_per_unit AS total_material_needed_for_line_item,
+    o.ingested_at AS order_ingested_at,
+    b.ingested_at AS bom_ingested_at
+FROM
+    "neondb"."staging"."stg_unpivoted_orders" o -- Reference our staging model
+JOIN
+    "neondb"."public"."raw_bill_of_materials" b -- Reference the BOM source
+ON
+    o.style_number = b.style_number
+    AND CAST(o.size AS INT) = b.size -- Cast to INT for join
+WHERE
+    o.quantity > 0
+  );
+  
+[0m07:44:05.070110 [debug] [Thread-1 (]: Opening a new connection, currently in state closed
+[0m07:44:05.355715 [debug] [Thread-1 (]: Postgres adapter: Postgres error: column b.ingested_at does not exist
+LINE 31:     b.ingested_at AS bom_ingested_at
+             ^
+HINT:  Perhaps you meant to reference the column "o.ingested_at".
+
+[0m07:44:05.360564 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fact_material_requirements: ROLLBACK
+[0m07:44:05.392397 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fact_material_requirements: Close
+[0m07:44:05.421577 [debug] [Thread-1 (]: Database Error in model fact_material_requirements (models\marts\fact_material_requirements.sql)
+  column b.ingested_at does not exist
+  LINE 31:     b.ingested_at AS bom_ingested_at
+               ^
+  HINT:  Perhaps you meant to reference the column "o.ingested_at".
+  compiled code at target\run\jeans_mfg_data_pipeline\models\marts\fact_material_requirements.sql
+[0m07:44:05.427035 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '001e22ca-e53e-4340-b950-2024a8dfc683', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000012EF0CA3F90>]}
+[0m07:44:05.431784 [error] [Thread-1 (]: 4 of 5 ERROR creating sql table model marts.fact_material_requirements ......... [[31mERROR[0m in 0.63s]
+[0m07:44:05.438814 [debug] [Thread-1 (]: Finished running node model.jeans_mfg_data_pipeline.fact_material_requirements
+[0m07:44:05.441893 [debug] [Thread-1 (]: Began running node model.jeans_mfg_data_pipeline.fct_order_fulfillment
+[0m07:44:05.443417 [debug] [Thread-4 (]: Marking all children of 'model.jeans_mfg_data_pipeline.fact_material_requirements' to be skipped because of status 'error'.  Reason: Database Error in model fact_material_requirements (models\marts\fact_material_requirements.sql)
+  column b.ingested_at does not exist
+  LINE 31:     b.ingested_at AS bom_ingested_at
+               ^
+  HINT:  Perhaps you meant to reference the column "o.ingested_at".
+  compiled code at target\run\jeans_mfg_data_pipeline\models\marts\fact_material_requirements.sql.
+[0m07:44:05.445989 [info ] [Thread-1 (]: 5 of 5 START sql table model marts.fct_order_fulfillment ....................... [RUN]
+[0m07:44:05.451563 [debug] [Thread-1 (]: Re-using an available connection from the pool (formerly model.jeans_mfg_data_pipeline.fact_material_requirements, now model.jeans_mfg_data_pipeline.fct_order_fulfillment)
+[0m07:44:05.454642 [debug] [Thread-1 (]: Began compiling node model.jeans_mfg_data_pipeline.fct_order_fulfillment
+[0m07:44:05.481156 [debug] [Thread-1 (]: Writing injected SQL for node "model.jeans_mfg_data_pipeline.fct_order_fulfillment"
+[0m07:44:05.486863 [debug] [Thread-1 (]: Began executing node model.jeans_mfg_data_pipeline.fct_order_fulfillment
+[0m07:44:05.509492 [debug] [Thread-1 (]: Writing runtime sql for node "model.jeans_mfg_data_pipeline.fct_order_fulfillment"
+[0m07:44:05.515820 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.fct_order_fulfillment"
+[0m07:44:05.524551 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fct_order_fulfillment: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.fct_order_fulfillment"} */
+
+  
+    
+
+  create  table "neondb"."marts"."fct_order_fulfillment__dbt_tmp"
+  
+  
+    as
+  
+  (
+    -- models/marts/fct_order_fulfillment.sql
+
+
+
+WITH orders AS (
+    SELECT * FROM "neondb"."staging"."stg_unpivoted_orders"
+),
+
+prod_logs AS (
+    SELECT * FROM "neondb"."staging"."stg_production_logs"
+),
+
+shipping_logs AS (
+    SELECT * FROM "neondb"."staging"."stg_shipping_logs"
+),
+
+latest_prod AS (
+    SELECT 
+        order_form_no,
+        stage AS current_production_stage,
+        updated_at AS last_stage_updated_at
+    FROM (
+        SELECT *, ROW_NUMBER() OVER (PARTITION BY order_form_no ORDER BY updated_at DESC) as rn
+        FROM prod_logs
+    ) t
+    WHERE rn = 1
+)
+
+SELECT
+    o.order_form_no,
+    o.order_date,
+    o.buyer_name,
+    o.buyer_location,
+    o.style_number,
+    SUM(o.quantity) as total_order_quantity,
+    MAX(lp.current_production_stage) as current_production_stage,
+    MAX(lp.last_stage_updated_at) as last_stage_updated_at,
+    MAX(EXTRACT(DAY FROM CURRENT_TIMESTAMP - lp.last_stage_updated_at)) AS days_in_current_stage,
+    CAST(MAX(CASE WHEN s.shipped_at IS NOT NULL THEN 1 ELSE 0 END) AS BOOLEAN) AS is_shipped,
+    MAX(s.shipped_at) AS shipped_at,
+    MAX(s.courier) AS courier,
+    MAX(s.tracking_number) AS tracking_number,
+    CAST(MAX(CASE WHEN s.shipped_at IS NULL AND EXTRACT(DAY FROM CURRENT_TIMESTAMP - lp.last_stage_updated_at) > 5 THEN 1 ELSE 0 END) AS BOOLEAN) AS is_delayed
+FROM orders o
+LEFT JOIN latest_prod lp ON o.order_form_no = lp.order_form_no
+LEFT JOIN shipping_logs s ON o.order_form_no = s.order_form_no
+GROUP BY 
+    o.order_form_no,
+    o.order_date,
+    o.buyer_name,
+    o.buyer_location,
+    o.style_number
+  );
+  
+[0m07:44:05.528265 [debug] [Thread-1 (]: Opening a new connection, currently in state closed
+[0m07:44:05.796102 [debug] [Thread-1 (]: SQL status: SELECT 919 in 0.268 seconds
+[0m07:44:05.830549 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.fct_order_fulfillment"
+[0m07:44:05.832618 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fct_order_fulfillment: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.fct_order_fulfillment"} */
+alter table "neondb"."marts"."fct_order_fulfillment" rename to "fct_order_fulfillment__dbt_backup"
+[0m07:44:05.859434 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.023 seconds
+[0m07:44:05.878479 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.fct_order_fulfillment"
+[0m07:44:05.881014 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fct_order_fulfillment: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.fct_order_fulfillment"} */
+alter table "neondb"."marts"."fct_order_fulfillment__dbt_tmp" rename to "fct_order_fulfillment"
+[0m07:44:05.908335 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.024 seconds
+[0m07:44:05.916005 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fct_order_fulfillment: COMMIT
+[0m07:44:05.918011 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.fct_order_fulfillment"
+[0m07:44:05.923714 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fct_order_fulfillment: COMMIT
+[0m07:44:05.955559 [debug] [Thread-1 (]: SQL status: COMMIT in 0.026 seconds
+[0m07:44:05.970981 [debug] [Thread-1 (]: Applying DROP to: "neondb"."marts"."fct_order_fulfillment__dbt_backup"
+[0m07:44:05.994503 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.fct_order_fulfillment"
+[0m07:44:05.996877 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fct_order_fulfillment: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.fct_order_fulfillment"} */
+drop table if exists "neondb"."marts"."fct_order_fulfillment__dbt_backup" cascade
+[0m07:44:06.026363 [debug] [Thread-1 (]: SQL status: DROP TABLE in 0.026 seconds
+[0m07:44:06.032946 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fct_order_fulfillment: Close
+[0m07:44:06.044373 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '001e22ca-e53e-4340-b950-2024a8dfc683', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000012EF2C9F390>]}
+[0m07:44:06.047912 [info ] [Thread-1 (]: 5 of 5 OK created sql table model marts.fct_order_fulfillment .................. [[32mSELECT 919[0m in 0.59s]
+[0m07:44:06.060931 [debug] [Thread-1 (]: Finished running node model.jeans_mfg_data_pipeline.fct_order_fulfillment
+[0m07:44:06.071728 [debug] [MainThread]: On master: COMMIT
+[0m07:44:06.075817 [debug] [MainThread]: Using postgres connection "master"
+[0m07:44:06.077713 [debug] [MainThread]: On master: COMMIT
+[0m07:44:06.079739 [debug] [MainThread]: Opening a new connection, currently in state closed
+[0m07:44:06.388555 [debug] [MainThread]: SQL status: COMMIT in 0.308 seconds
+[0m07:44:06.401286 [debug] [MainThread]: On master: Close
+[0m07:44:06.412384 [debug] [MainThread]: Connection 'master' was properly closed.
+[0m07:44:06.414430 [debug] [MainThread]: Connection 'list_neondb' was properly closed.
+[0m07:44:06.417983 [debug] [MainThread]: Connection 'list_neondb_staging' was properly closed.
+[0m07:44:06.427746 [debug] [MainThread]: Connection 'model.jeans_mfg_data_pipeline.fct_order_fulfillment' was properly closed.
+[0m07:44:06.430397 [info ] [MainThread]: 
+[0m07:44:06.433442 [info ] [MainThread]: Finished running 2 table models, 3 view models in 0 hours 0 minutes and 7.38 seconds (7.38s).
+[0m07:44:06.446478 [debug] [MainThread]: Command end result
+[0m07:44:06.693432 [debug] [MainThread]: Wrote artifact WritableManifest to C:\Data Engineering\jeans_mfg_data_pipeline\target\manifest.json
+[0m07:44:06.712143 [debug] [MainThread]: Wrote artifact SemanticManifest to C:\Data Engineering\jeans_mfg_data_pipeline\target\semantic_manifest.json
+[0m07:44:06.783484 [debug] [MainThread]: Wrote artifact RunExecutionResult to C:\Data Engineering\jeans_mfg_data_pipeline\target\run_results.json
+[0m07:44:06.786010 [info ] [MainThread]: 
+[0m07:44:06.791216 [info ] [MainThread]: [31mCompleted with 1 error, 0 partial successes, and 0 warnings:[0m
+[0m07:44:06.796066 [info ] [MainThread]: 
+[0m07:44:06.799856 [error] [MainThread]: [31mFailure in model fact_material_requirements (models\marts\fact_material_requirements.sql)[0m
+[0m07:44:06.804399 [error] [MainThread]:   Database Error in model fact_material_requirements (models\marts\fact_material_requirements.sql)
+  column b.ingested_at does not exist
+  LINE 31:     b.ingested_at AS bom_ingested_at
+               ^
+  HINT:  Perhaps you meant to reference the column "o.ingested_at".
+  compiled code at target\run\jeans_mfg_data_pipeline\models\marts\fact_material_requirements.sql
+[0m07:44:06.811506 [info ] [MainThread]: 
+[0m07:44:06.816543 [info ] [MainThread]:   compiled code at target\compiled\jeans_mfg_data_pipeline\models\marts\fact_material_requirements.sql
+[0m07:44:06.819815 [info ] [MainThread]: 
+[0m07:44:06.824748 [info ] [MainThread]: Done. PASS=4 WARN=0 ERROR=1 SKIP=0 NO-OP=0 TOTAL=5
+[0m07:44:06.832315 [debug] [MainThread]: Command `dbt run` failed at 07:44:06.832315 after 16.00 seconds
+[0m07:44:06.836527 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000012EEE241310>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000012EEA066050>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000012EEA0657D0>]}
+[0m07:44:06.843121 [debug] [MainThread]: Flushing usage events
+[0m07:44:11.073642 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m07:44:46.503033 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028D483CE450>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028D483CDC90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028D483CD450>]}
+
+
+============================== 07:44:46.517701 | c24e8f7a-d918-4cf5-8f40-539bbb2c72e4 ==============================
+[0m07:44:46.517701 [info ] [MainThread]: Running with dbt=1.11.2
+[0m07:44:46.521345 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'version_check': 'True', 'log_path': 'C:\\Data Engineering\\jeans_mfg_data_pipeline\\logs', 'debug': 'False', 'profiles_dir': '.', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'False', 'log_format': 'default', 'invocation_command': 'dbt run --profiles-dir . --target cloud', 'introspect': 'True', 'static_parser': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'send_anonymous_usage_stats': 'True'}
+[0m07:44:47.399755 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': 'c24e8f7a-d918-4cf5-8f40-539bbb2c72e4', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028D494EB4D0>]}
+[0m07:44:47.666893 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': 'c24e8f7a-d918-4cf5-8f40-539bbb2c72e4', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028D44BFCAD0>]}
+[0m07:44:47.671613 [info ] [MainThread]: Registered adapter: postgres=1.10.0
+[0m07:44:49.957566 [debug] [MainThread]: checksum: af8011603ef11e50c372ae3f97fc55f865d9a46a625bf635f96f9bab84ecd6e3, vars: {}, profile: , target: cloud, version: 1.11.2
+[0m07:44:50.851831 [debug] [MainThread]: Partial parsing enabled: 0 files deleted, 0 files added, 1 files changed.
+[0m07:44:50.855444 [debug] [MainThread]: Partial parsing: updated file: jeans_mfg_data_pipeline://models\marts\fact_material_requirements.sql
+[0m07:44:52.552892 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': 'c24e8f7a-d918-4cf5-8f40-539bbb2c72e4', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028D49B9FDD0>]}
+[0m07:44:53.548231 [debug] [MainThread]: Wrote artifact WritableManifest to C:\Data Engineering\jeans_mfg_data_pipeline\target\manifest.json
+[0m07:44:53.561972 [debug] [MainThread]: Wrote artifact SemanticManifest to C:\Data Engineering\jeans_mfg_data_pipeline\target\semantic_manifest.json
+[0m07:44:53.688582 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': 'c24e8f7a-d918-4cf5-8f40-539bbb2c72e4', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028D45A1DC50>]}
+[0m07:44:53.692169 [info ] [MainThread]: Found 6 models, 5 data tests, 4 sources, 465 macros
+[0m07:44:53.695893 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': 'c24e8f7a-d918-4cf5-8f40-539bbb2c72e4', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028D49B751D0>]}
+[0m07:44:53.709524 [info ] [MainThread]: 
+[0m07:44:53.712073 [info ] [MainThread]: Concurrency: 1 threads (target='cloud')
+[0m07:44:53.714075 [info ] [MainThread]: 
+[0m07:44:53.720333 [debug] [MainThread]: Acquiring new postgres connection 'master'
+[0m07:44:53.752861 [debug] [ThreadPool]: Acquiring new postgres connection 'list_neondb'
+[0m07:44:54.366766 [debug] [ThreadPool]: Using postgres connection "list_neondb"
+[0m07:44:54.369292 [debug] [ThreadPool]: On list_neondb: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "list_neondb"} */
+
+    select distinct nspname from pg_namespace
+  
+[0m07:44:54.371914 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m07:44:54.675816 [debug] [ThreadPool]: SQL status: SELECT 7 in 0.304 seconds
+[0m07:44:54.680551 [debug] [ThreadPool]: On list_neondb: Close
+[0m07:44:54.701817 [debug] [ThreadPool]: Using postgres connection "list_neondb"
+[0m07:44:54.704862 [debug] [ThreadPool]: On list_neondb: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "list_neondb"} */
+
+    select distinct nspname from pg_namespace
+  
+[0m07:44:54.709462 [debug] [ThreadPool]: Opening a new connection, currently in state closed
+[0m07:44:54.955000 [debug] [ThreadPool]: SQL status: SELECT 7 in 0.245 seconds
+[0m07:44:54.972864 [debug] [ThreadPool]: On list_neondb: Close
+[0m07:44:54.992944 [debug] [ThreadPool]: Acquiring new postgres connection 'list_neondb_marts'
+[0m07:44:55.026749 [debug] [ThreadPool]: Using postgres connection "list_neondb_marts"
+[0m07:44:55.030865 [debug] [ThreadPool]: On list_neondb_marts: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "list_neondb_marts"} */
+select
+      'neondb' as database,
+      tablename as name,
+      schemaname as schema,
+      'table' as type
+    from pg_tables
+    where schemaname ilike 'marts'
+    union all
+    select
+      'neondb' as database,
+      viewname as name,
+      schemaname as schema,
+      'view' as type
+    from pg_views
+    where schemaname ilike 'marts'
+    union all
+    select
+      'neondb' as database,
+      matviewname as name,
+      schemaname as schema,
+      'materialized_view' as type
+    from pg_matviews
+    where schemaname ilike 'marts'
+  
+[0m07:44:55.032884 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m07:44:55.327829 [debug] [ThreadPool]: SQL status: SELECT 1 in 0.294 seconds
+[0m07:44:55.336677 [debug] [ThreadPool]: On list_neondb_marts: ROLLBACK
+[0m07:44:55.366828 [debug] [ThreadPool]: On list_neondb_marts: Close
+[0m07:44:55.370770 [debug] [ThreadPool]: Re-using an available connection from the pool (formerly list_neondb_marts, now list_neondb_staging)
+[0m07:44:55.390658 [debug] [ThreadPool]: Using postgres connection "list_neondb_staging"
+[0m07:44:55.393761 [debug] [ThreadPool]: On list_neondb_staging: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "list_neondb_staging"} */
+select
+      'neondb' as database,
+      tablename as name,
+      schemaname as schema,
+      'table' as type
+    from pg_tables
+    where schemaname ilike 'staging'
+    union all
+    select
+      'neondb' as database,
+      viewname as name,
+      schemaname as schema,
+      'view' as type
+    from pg_views
+    where schemaname ilike 'staging'
+    union all
+    select
+      'neondb' as database,
+      matviewname as name,
+      schemaname as schema,
+      'materialized_view' as type
+    from pg_matviews
+    where schemaname ilike 'staging'
+  
+[0m07:44:55.399606 [debug] [ThreadPool]: Opening a new connection, currently in state closed
+[0m07:44:55.639239 [debug] [ThreadPool]: SQL status: SELECT 3 in 0.240 seconds
+[0m07:44:55.647106 [debug] [ThreadPool]: On list_neondb_staging: ROLLBACK
+[0m07:44:55.675300 [debug] [ThreadPool]: On list_neondb_staging: Close
+[0m07:44:55.721806 [debug] [MainThread]: Using postgres connection "master"
+[0m07:44:55.725469 [debug] [MainThread]: On master: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "connection_name": "master"} */
+select distinct
+        dependent_namespace.nspname as dependent_schema,
+        dependent_class.relname as dependent_name,
+        referenced_namespace.nspname as referenced_schema,
+        referenced_class.relname as referenced_name
+
+    -- Query for views: views are entries in pg_class with an entry in pg_rewrite, but we avoid
+    -- a seq scan on pg_rewrite by leveraging the fact there is an "internal" row in pg_depend for
+    -- the view...
+    from pg_class as dependent_class
+    join pg_namespace as dependent_namespace on dependent_namespace.oid = dependent_class.relnamespace
+    join pg_depend as dependent_depend on dependent_depend.refobjid = dependent_class.oid
+        and dependent_depend.classid = 'pg_rewrite'::regclass
+        and dependent_depend.refclassid = 'pg_class'::regclass
+        and dependent_depend.deptype = 'i'
+
+    -- ... and via pg_depend (that has a row per column, hence the need for "distinct" above, and
+    -- making sure to exclude the internal row to avoid a view appearing to depend on itself)...
+    join pg_depend as joining_depend on joining_depend.objid = dependent_depend.objid
+        and joining_depend.classid = 'pg_rewrite'::regclass
+        and joining_depend.refclassid = 'pg_class'::regclass
+        and joining_depend.refobjid != dependent_depend.refobjid
+
+    -- ... we can find the tables they query from in pg_class, but excluding system tables. Note we
+    -- don't need need to exclude _dependent_ system tables, because they only query from other
+    -- system tables, and so are automatically excluded by excluding _referenced_ system tables
+    join pg_class as referenced_class on referenced_class.oid = joining_depend.refobjid
+    join pg_namespace as referenced_namespace on referenced_namespace.oid = referenced_class.relnamespace
+        and referenced_namespace.nspname != 'information_schema'
+        and referenced_namespace.nspname not like 'pg\_%'
+
+    order by
+        dependent_schema, dependent_name, referenced_schema, referenced_name;
+[0m07:44:55.729664 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m07:44:56.006825 [debug] [MainThread]: SQL status: SELECT 3 in 0.278 seconds
+[0m07:44:56.012920 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': 'c24e8f7a-d918-4cf5-8f40-539bbb2c72e4', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028D49F5C0D0>]}
+[0m07:44:56.018105 [debug] [MainThread]: On master: ROLLBACK
+[0m07:44:56.049051 [debug] [MainThread]: On master: COMMIT
+[0m07:44:56.052781 [debug] [MainThread]: Using postgres connection "master"
+[0m07:44:56.055014 [debug] [MainThread]: On master: COMMIT
+[0m07:44:56.112507 [debug] [MainThread]: SQL status: COMMIT in 0.054 seconds
+[0m07:44:56.122136 [debug] [MainThread]: On master: Close
+[0m07:44:56.157485 [debug] [Thread-1 (]: Began running node model.jeans_mfg_data_pipeline.stg_production_logs
+[0m07:44:56.161030 [info ] [Thread-1 (]: 1 of 5 START sql view model staging.stg_production_logs ........................ [RUN]
+[0m07:44:56.171738 [debug] [Thread-1 (]: Acquiring new postgres connection 'model.jeans_mfg_data_pipeline.stg_production_logs'
+[0m07:44:56.179010 [debug] [Thread-1 (]: Began compiling node model.jeans_mfg_data_pipeline.stg_production_logs
+[0m07:44:56.243021 [debug] [Thread-1 (]: Writing injected SQL for node "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:44:56.247186 [debug] [Thread-1 (]: Began executing node model.jeans_mfg_data_pipeline.stg_production_logs
+[0m07:44:56.476508 [debug] [Thread-1 (]: Writing runtime sql for node "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:44:56.484784 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:44:56.488105 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_production_logs"} */
+
+  create view "neondb"."staging"."stg_production_logs__dbt_tmp"
+    
+    
+  as (
+    -- models/staging/stg_production_logs.sql
+
+
+
+WITH source AS (
+    SELECT * FROM "neondb"."public"."raw_production_logs"
+),
+
+renamed AS (
+    SELECT
+        log_id,
+        order_form_no,
+        stage,
+        updated_at,
+        updated_by
+    FROM source
+)
+
+SELECT * FROM renamed
+  );
+[0m07:44:56.491656 [debug] [Thread-1 (]: Opening a new connection, currently in state init
+[0m07:44:56.763542 [debug] [Thread-1 (]: SQL status: CREATE VIEW in 0.272 seconds
+[0m07:44:56.802566 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:44:56.808048 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_production_logs"} */
+alter table "neondb"."staging"."stg_production_logs" rename to "stg_production_logs__dbt_backup"
+[0m07:44:56.842063 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.031 seconds
+[0m07:44:56.862521 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:44:56.867149 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_production_logs"} */
+alter table "neondb"."staging"."stg_production_logs__dbt_tmp" rename to "stg_production_logs"
+[0m07:44:56.900474 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.030 seconds
+[0m07:44:57.009542 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: COMMIT
+[0m07:44:57.012012 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:44:57.014549 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: COMMIT
+[0m07:44:57.045958 [debug] [Thread-1 (]: SQL status: COMMIT in 0.028 seconds
+[0m07:44:57.094949 [debug] [Thread-1 (]: Applying DROP to: "neondb"."staging"."stg_production_logs__dbt_backup"
+[0m07:44:57.134446 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_production_logs"
+[0m07:44:57.137512 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_production_logs"} */
+drop view if exists "neondb"."staging"."stg_production_logs__dbt_backup" cascade
+[0m07:44:57.171437 [debug] [Thread-1 (]: SQL status: DROP VIEW in 0.031 seconds
+[0m07:44:57.194276 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_production_logs: Close
+[0m07:44:57.205146 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': 'c24e8f7a-d918-4cf5-8f40-539bbb2c72e4', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028D49B1E710>]}
+[0m07:44:57.209673 [info ] [Thread-1 (]: 1 of 5 OK created sql view model staging.stg_production_logs ................... [[32mCREATE VIEW[0m in 1.03s]
+[0m07:44:57.216802 [debug] [Thread-1 (]: Finished running node model.jeans_mfg_data_pipeline.stg_production_logs
+[0m07:44:57.219684 [debug] [Thread-1 (]: Began running node model.jeans_mfg_data_pipeline.stg_shipping_logs
+[0m07:44:57.232962 [info ] [Thread-1 (]: 2 of 5 START sql view model staging.stg_shipping_logs .......................... [RUN]
+[0m07:44:57.243116 [debug] [Thread-1 (]: Re-using an available connection from the pool (formerly model.jeans_mfg_data_pipeline.stg_production_logs, now model.jeans_mfg_data_pipeline.stg_shipping_logs)
+[0m07:44:57.245936 [debug] [Thread-1 (]: Began compiling node model.jeans_mfg_data_pipeline.stg_shipping_logs
+[0m07:44:57.267104 [debug] [Thread-1 (]: Writing injected SQL for node "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:44:57.284123 [debug] [Thread-1 (]: Began executing node model.jeans_mfg_data_pipeline.stg_shipping_logs
+[0m07:44:57.301427 [debug] [Thread-1 (]: Writing runtime sql for node "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:44:57.310727 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:44:57.312753 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_shipping_logs"} */
+
+  create view "neondb"."staging"."stg_shipping_logs__dbt_tmp"
+    
+    
+  as (
+    with source as (
+    select * from "neondb"."public"."raw_shipping_logs"
+),
+renamed as (
+    select
+        order_form_no,
+        courier,
+        tracking_number,
+        shipped_at,
+        status
+    from source
+)
+select * from renamed
+  );
+[0m07:44:57.318904 [debug] [Thread-1 (]: Opening a new connection, currently in state closed
+[0m07:44:57.561868 [debug] [Thread-1 (]: SQL status: CREATE VIEW in 0.243 seconds
+[0m07:44:57.576730 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:44:57.579274 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_shipping_logs"} */
+alter table "neondb"."staging"."stg_shipping_logs" rename to "stg_shipping_logs__dbt_backup"
+[0m07:44:57.607563 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.026 seconds
+[0m07:44:57.623513 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:44:57.628504 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_shipping_logs"} */
+alter table "neondb"."staging"."stg_shipping_logs__dbt_tmp" rename to "stg_shipping_logs"
+[0m07:44:57.657246 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.025 seconds
+[0m07:44:57.662432 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: COMMIT
+[0m07:44:57.665962 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:44:57.669499 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: COMMIT
+[0m07:44:57.699878 [debug] [Thread-1 (]: SQL status: COMMIT in 0.026 seconds
+[0m07:44:57.711327 [debug] [Thread-1 (]: Applying DROP to: "neondb"."staging"."stg_shipping_logs__dbt_backup"
+[0m07:44:57.715854 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_shipping_logs"
+[0m07:44:57.717909 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_shipping_logs"} */
+drop view if exists "neondb"."staging"."stg_shipping_logs__dbt_backup" cascade
+[0m07:44:57.749129 [debug] [Thread-1 (]: SQL status: DROP VIEW in 0.025 seconds
+[0m07:44:57.759025 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_shipping_logs: Close
+[0m07:44:57.762562 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': 'c24e8f7a-d918-4cf5-8f40-539bbb2c72e4', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028D49FB73D0>]}
+[0m07:44:57.766268 [info ] [Thread-1 (]: 2 of 5 OK created sql view model staging.stg_shipping_logs ..................... [[32mCREATE VIEW[0m in 0.52s]
+[0m07:44:57.770281 [debug] [Thread-1 (]: Finished running node model.jeans_mfg_data_pipeline.stg_shipping_logs
+[0m07:44:57.772094 [debug] [Thread-1 (]: Began running node model.jeans_mfg_data_pipeline.stg_unpivoted_orders
+[0m07:44:57.776916 [info ] [Thread-1 (]: 3 of 5 START sql view model staging.stg_unpivoted_orders ....................... [RUN]
+[0m07:44:57.783511 [debug] [Thread-1 (]: Re-using an available connection from the pool (formerly model.jeans_mfg_data_pipeline.stg_shipping_logs, now model.jeans_mfg_data_pipeline.stg_unpivoted_orders)
+[0m07:44:57.787164 [debug] [Thread-1 (]: Began compiling node model.jeans_mfg_data_pipeline.stg_unpivoted_orders
+[0m07:44:57.803990 [debug] [Thread-1 (]: Writing injected SQL for node "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:44:57.808331 [debug] [Thread-1 (]: Began executing node model.jeans_mfg_data_pipeline.stg_unpivoted_orders
+[0m07:44:57.830841 [debug] [Thread-1 (]: Writing runtime sql for node "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:44:57.840658 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:44:57.843471 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"} */
+
+  create view "neondb"."staging"."stg_unpivoted_orders__dbt_tmp"
+    
+    
+  as (
+    -- models/staging/stg_unpivoted_orders.sql
+
+
+
+WITH source_orders AS (
+
+    SELECT *
+    FROM "neondb"."public"."raw_orders"
+
+),
+
+unpivoted AS (
+
+    SELECT
+        o.order_form_no,
+        o.order_date,
+        o.buyer_name,
+        o.buyer_location,
+        o.s_no,
+        o.style_number,
+        o.unit_price,
+        o.line_item_total,
+        o.total_qty_line_item,
+        o.ingested_at,
+        u.size,
+        u.quantity_ordered AS quantity
+    FROM source_orders o
+    CROSS JOIN LATERAL (
+        VALUES
+            ('18', o.size_18_qty),
+            ('20', o.size_20_qty),
+            ('22', o.size_22_qty),
+            ('24', o.size_24_qty),
+            ('26', o.size_26_qty),
+            ('28', o.size_28_qty),
+            ('30', o.size_30_qty),
+            ('32', o.size_32_qty),
+            ('34', o.size_34_qty),
+            ('36', o.size_36_qty),
+            ('38', o.size_38_qty),
+            ('40', o.size_40_qty),
+            ('42', o.size_42_qty)
+    ) AS u(size, quantity_ordered)
+
+)
+
+SELECT *
+FROM unpivoted
+WHERE quantity > 0
+  );
+[0m07:44:57.846278 [debug] [Thread-1 (]: Opening a new connection, currently in state closed
+[0m07:44:58.257728 [debug] [Thread-1 (]: SQL status: CREATE VIEW in 0.411 seconds
+[0m07:44:58.292000 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:44:58.303018 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"} */
+alter table "neondb"."staging"."stg_unpivoted_orders" rename to "stg_unpivoted_orders__dbt_backup"
+[0m07:44:58.341715 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.035 seconds
+[0m07:44:58.381627 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:44:58.385337 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"} */
+alter table "neondb"."staging"."stg_unpivoted_orders__dbt_tmp" rename to "stg_unpivoted_orders"
+[0m07:44:58.436820 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.030 seconds
+[0m07:44:58.457969 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: COMMIT
+[0m07:44:58.469889 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:44:58.473284 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: COMMIT
+[0m07:44:58.509007 [debug] [Thread-1 (]: SQL status: COMMIT in 0.031 seconds
+[0m07:44:58.542039 [debug] [Thread-1 (]: Applying DROP to: "neondb"."staging"."stg_unpivoted_orders__dbt_backup"
+[0m07:44:58.552393 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"
+[0m07:44:58.555957 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.stg_unpivoted_orders"} */
+drop view if exists "neondb"."staging"."stg_unpivoted_orders__dbt_backup" cascade
+[0m07:44:58.591321 [debug] [Thread-1 (]: SQL status: DROP VIEW in 0.032 seconds
+[0m07:44:58.598852 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.stg_unpivoted_orders: Close
+[0m07:44:58.604530 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': 'c24e8f7a-d918-4cf5-8f40-539bbb2c72e4', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028D4A07A650>]}
+[0m07:44:58.610339 [info ] [Thread-1 (]: 3 of 5 OK created sql view model staging.stg_unpivoted_orders .................. [[32mCREATE VIEW[0m in 0.82s]
+[0m07:44:58.619365 [debug] [Thread-1 (]: Finished running node model.jeans_mfg_data_pipeline.stg_unpivoted_orders
+[0m07:44:58.636800 [debug] [Thread-1 (]: Began running node model.jeans_mfg_data_pipeline.fact_material_requirements
+[0m07:44:58.661485 [info ] [Thread-1 (]: 4 of 5 START sql table model marts.fact_material_requirements .................. [RUN]
+[0m07:44:58.680519 [debug] [Thread-1 (]: Re-using an available connection from the pool (formerly model.jeans_mfg_data_pipeline.stg_unpivoted_orders, now model.jeans_mfg_data_pipeline.fact_material_requirements)
+[0m07:44:58.685768 [debug] [Thread-1 (]: Began compiling node model.jeans_mfg_data_pipeline.fact_material_requirements
+[0m07:44:58.723562 [debug] [Thread-1 (]: Writing injected SQL for node "model.jeans_mfg_data_pipeline.fact_material_requirements"
+[0m07:44:58.730006 [debug] [Thread-1 (]: Began executing node model.jeans_mfg_data_pipeline.fact_material_requirements
+[0m07:44:59.041869 [debug] [Thread-1 (]: Writing runtime sql for node "model.jeans_mfg_data_pipeline.fact_material_requirements"
+[0m07:44:59.046629 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.fact_material_requirements"
+[0m07:44:59.050054 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fact_material_requirements: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.fact_material_requirements"} */
+
+  
+    
+
+  create  table "neondb"."marts"."fact_material_requirements__dbt_tmp"
+  
+  
+    as
+  
+  (
+    -- models/marts/fact_material_requirements.sql
+
+ -- Final models are often tables for performance
+
+SELECT
+    o.order_form_no,
+    o.order_date,
+    o.buyer_name,
+    o.buyer_location,
+    o.s_no,
+    o.style_number,
+    CAST(o.size AS INT) AS size, -- Cast size_text back to INT for joining
+    o.quantity, -- Renamed from quantity_ordered in staging
+    b.material_type,
+    b.material_qty_per_unit,
+    b.unit_of_measure,
+    -- Calculate total material needed for this line item
+    o.quantity * b.material_qty_per_unit AS total_material_needed_for_line_item,
+    o.ingested_at AS order_ingested_at
+FROM
+    "neondb"."staging"."stg_unpivoted_orders" o -- Reference our staging model
+JOIN
+    "neondb"."public"."raw_bill_of_materials" b -- Reference the BOM source
+ON
+    o.style_number = b.style_number
+    AND CAST(o.size AS INT) = b.size -- Cast to INT for join
+WHERE
+    o.quantity > 0
+  );
+  
+[0m07:44:59.056786 [debug] [Thread-1 (]: Opening a new connection, currently in state closed
+[0m07:44:59.345763 [debug] [Thread-1 (]: SQL status: SELECT 7000 in 0.289 seconds
+[0m07:44:59.391234 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.fact_material_requirements"
+[0m07:44:59.393235 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fact_material_requirements: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.fact_material_requirements"} */
+alter table "neondb"."marts"."fact_material_requirements__dbt_tmp" rename to "fact_material_requirements"
+[0m07:44:59.421167 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.024 seconds
+[0m07:44:59.425645 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fact_material_requirements: COMMIT
+[0m07:44:59.427236 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.fact_material_requirements"
+[0m07:44:59.429304 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fact_material_requirements: COMMIT
+[0m07:44:59.455818 [debug] [Thread-1 (]: SQL status: COMMIT in 0.024 seconds
+[0m07:44:59.466783 [debug] [Thread-1 (]: Applying DROP to: "neondb"."marts"."fact_material_requirements__dbt_backup"
+[0m07:44:59.479148 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.fact_material_requirements"
+[0m07:44:59.482781 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fact_material_requirements: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.fact_material_requirements"} */
+drop table if exists "neondb"."marts"."fact_material_requirements__dbt_backup" cascade
+[0m07:44:59.509672 [debug] [Thread-1 (]: SQL status: DROP TABLE in 0.024 seconds
+[0m07:44:59.516937 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fact_material_requirements: Close
+[0m07:44:59.519451 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': 'c24e8f7a-d918-4cf5-8f40-539bbb2c72e4', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028D4A06C650>]}
+[0m07:44:59.523902 [info ] [Thread-1 (]: 4 of 5 OK created sql table model marts.fact_material_requirements ............. [[32mSELECT 7000[0m in 0.84s]
+[0m07:44:59.528808 [debug] [Thread-1 (]: Finished running node model.jeans_mfg_data_pipeline.fact_material_requirements
+[0m07:44:59.533250 [debug] [Thread-1 (]: Began running node model.jeans_mfg_data_pipeline.fct_order_fulfillment
+[0m07:44:59.535832 [info ] [Thread-1 (]: 5 of 5 START sql table model marts.fct_order_fulfillment ....................... [RUN]
+[0m07:44:59.538142 [debug] [Thread-1 (]: Re-using an available connection from the pool (formerly model.jeans_mfg_data_pipeline.fact_material_requirements, now model.jeans_mfg_data_pipeline.fct_order_fulfillment)
+[0m07:44:59.539169 [debug] [Thread-1 (]: Began compiling node model.jeans_mfg_data_pipeline.fct_order_fulfillment
+[0m07:44:59.561437 [debug] [Thread-1 (]: Writing injected SQL for node "model.jeans_mfg_data_pipeline.fct_order_fulfillment"
+[0m07:44:59.573638 [debug] [Thread-1 (]: Began executing node model.jeans_mfg_data_pipeline.fct_order_fulfillment
+[0m07:44:59.608074 [debug] [Thread-1 (]: Writing runtime sql for node "model.jeans_mfg_data_pipeline.fct_order_fulfillment"
+[0m07:44:59.614499 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.fct_order_fulfillment"
+[0m07:44:59.619246 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fct_order_fulfillment: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.fct_order_fulfillment"} */
+
+  
+    
+
+  create  table "neondb"."marts"."fct_order_fulfillment__dbt_tmp"
+  
+  
+    as
+  
+  (
+    -- models/marts/fct_order_fulfillment.sql
+
+
+
+WITH orders AS (
+    SELECT * FROM "neondb"."staging"."stg_unpivoted_orders"
+),
+
+prod_logs AS (
+    SELECT * FROM "neondb"."staging"."stg_production_logs"
+),
+
+shipping_logs AS (
+    SELECT * FROM "neondb"."staging"."stg_shipping_logs"
+),
+
+latest_prod AS (
+    SELECT 
+        order_form_no,
+        stage AS current_production_stage,
+        updated_at AS last_stage_updated_at
+    FROM (
+        SELECT *, ROW_NUMBER() OVER (PARTITION BY order_form_no ORDER BY updated_at DESC) as rn
+        FROM prod_logs
+    ) t
+    WHERE rn = 1
+)
+
+SELECT
+    o.order_form_no,
+    o.order_date,
+    o.buyer_name,
+    o.buyer_location,
+    o.style_number,
+    SUM(o.quantity) as total_order_quantity,
+    MAX(lp.current_production_stage) as current_production_stage,
+    MAX(lp.last_stage_updated_at) as last_stage_updated_at,
+    MAX(EXTRACT(DAY FROM CURRENT_TIMESTAMP - lp.last_stage_updated_at)) AS days_in_current_stage,
+    CAST(MAX(CASE WHEN s.shipped_at IS NOT NULL THEN 1 ELSE 0 END) AS BOOLEAN) AS is_shipped,
+    MAX(s.shipped_at) AS shipped_at,
+    MAX(s.courier) AS courier,
+    MAX(s.tracking_number) AS tracking_number,
+    CAST(MAX(CASE WHEN s.shipped_at IS NULL AND EXTRACT(DAY FROM CURRENT_TIMESTAMP - lp.last_stage_updated_at) > 5 THEN 1 ELSE 0 END) AS BOOLEAN) AS is_delayed
+FROM orders o
+LEFT JOIN latest_prod lp ON o.order_form_no = lp.order_form_no
+LEFT JOIN shipping_logs s ON o.order_form_no = s.order_form_no
+GROUP BY 
+    o.order_form_no,
+    o.order_date,
+    o.buyer_name,
+    o.buyer_location,
+    o.style_number
+  );
+  
+[0m07:44:59.620765 [debug] [Thread-1 (]: Opening a new connection, currently in state closed
+[0m07:44:59.909429 [debug] [Thread-1 (]: SQL status: SELECT 919 in 0.289 seconds
+[0m07:44:59.925536 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.fct_order_fulfillment"
+[0m07:44:59.927558 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fct_order_fulfillment: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.fct_order_fulfillment"} */
+alter table "neondb"."marts"."fct_order_fulfillment" rename to "fct_order_fulfillment__dbt_backup"
+[0m07:44:59.955905 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.027 seconds
+[0m07:44:59.969372 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.fct_order_fulfillment"
+[0m07:44:59.972145 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fct_order_fulfillment: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.fct_order_fulfillment"} */
+alter table "neondb"."marts"."fct_order_fulfillment__dbt_tmp" rename to "fct_order_fulfillment"
+[0m07:45:00.000390 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.027 seconds
+[0m07:45:00.007794 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fct_order_fulfillment: COMMIT
+[0m07:45:00.009794 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.fct_order_fulfillment"
+[0m07:45:00.011304 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fct_order_fulfillment: COMMIT
+[0m07:45:00.049172 [debug] [Thread-1 (]: SQL status: COMMIT in 0.030 seconds
+[0m07:45:00.066753 [debug] [Thread-1 (]: Applying DROP to: "neondb"."marts"."fct_order_fulfillment__dbt_backup"
+[0m07:45:00.072475 [debug] [Thread-1 (]: Using postgres connection "model.jeans_mfg_data_pipeline.fct_order_fulfillment"
+[0m07:45:00.076338 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fct_order_fulfillment: /* {"app": "dbt", "dbt_version": "1.11.2", "profile_name": "jeans_mfg_data_pipeline", "target_name": "cloud", "node_id": "model.jeans_mfg_data_pipeline.fct_order_fulfillment"} */
+drop table if exists "neondb"."marts"."fct_order_fulfillment__dbt_backup" cascade
+[0m07:45:00.110367 [debug] [Thread-1 (]: SQL status: DROP TABLE in 0.031 seconds
+[0m07:45:00.121854 [debug] [Thread-1 (]: On model.jeans_mfg_data_pipeline.fct_order_fulfillment: Close
+[0m07:45:00.129780 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': 'c24e8f7a-d918-4cf5-8f40-539bbb2c72e4', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028D49F44D90>]}
+[0m07:45:00.134930 [info ] [Thread-1 (]: 5 of 5 OK created sql table model marts.fct_order_fulfillment .................. [[32mSELECT 919[0m in 0.59s]
+[0m07:45:00.143264 [debug] [Thread-1 (]: Finished running node model.jeans_mfg_data_pipeline.fct_order_fulfillment
+[0m07:45:00.149524 [debug] [MainThread]: On master: COMMIT
+[0m07:45:00.153192 [debug] [MainThread]: Using postgres connection "master"
+[0m07:45:00.157585 [debug] [MainThread]: On master: COMMIT
+[0m07:45:00.161095 [debug] [MainThread]: Opening a new connection, currently in state closed
+[0m07:45:00.411064 [debug] [MainThread]: SQL status: COMMIT in 0.250 seconds
+[0m07:45:00.425184 [debug] [MainThread]: On master: Close
+[0m07:45:00.429502 [debug] [MainThread]: Connection 'master' was properly closed.
+[0m07:45:00.431540 [debug] [MainThread]: Connection 'list_neondb' was properly closed.
+[0m07:45:00.434614 [debug] [MainThread]: Connection 'list_neondb_staging' was properly closed.
+[0m07:45:00.438163 [debug] [MainThread]: Connection 'model.jeans_mfg_data_pipeline.fct_order_fulfillment' was properly closed.
+[0m07:45:00.442417 [info ] [MainThread]: 
+[0m07:45:00.448928 [info ] [MainThread]: Finished running 2 table models, 3 view models in 0 hours 0 minutes and 6.72 seconds (6.72s).
+[0m07:45:00.459030 [debug] [MainThread]: Command end result
+[0m07:45:00.793046 [debug] [MainThread]: Wrote artifact WritableManifest to C:\Data Engineering\jeans_mfg_data_pipeline\target\manifest.json
+[0m07:45:00.808868 [debug] [MainThread]: Wrote artifact SemanticManifest to C:\Data Engineering\jeans_mfg_data_pipeline\target\semantic_manifest.json
+[0m07:45:00.845821 [debug] [MainThread]: Wrote artifact RunExecutionResult to C:\Data Engineering\jeans_mfg_data_pipeline\target\run_results.json
+[0m07:45:00.847987 [info ] [MainThread]: 
+[0m07:45:00.850584 [info ] [MainThread]: [32mCompleted successfully[0m
+[0m07:45:00.855446 [info ] [MainThread]: 
+[0m07:45:00.860237 [info ] [MainThread]: Done. PASS=5 WARN=0 ERROR=0 SKIP=0 NO-OP=0 TOTAL=5
+[0m07:45:00.885752 [debug] [MainThread]: Command `dbt run` succeeded at 07:45:00.884138 after 14.75 seconds
+[0m07:45:00.892411 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028D4730C4D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028D416F6010>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000028D416F5B10>]}
+[0m07:45:00.897411 [debug] [MainThread]: Flushing usage events
+[0m07:45:03.630185 [debug] [MainThread]: An error was encountered while trying to flush usage events

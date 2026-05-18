@@ -13,3 +13,14 @@ jeans_mfg_data_pipeline:
       schema: analytics
 
       threads: 1
+
+    cloud:
+      type: postgres
+      host: ep-green-frog-alo9hq5t-pooler.c-3.eu-central-1.aws.neon.tech
+      port: 5432
+      user: neondb_owner
+      password: npg_Qf9WicMD4SxP
+      dbname: neondb
+      schema: analytics
+      threads: 1
+      sslmode: require

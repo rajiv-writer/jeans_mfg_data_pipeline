@@ -2,7 +2,6 @@ version: 2
 
 sources:
   - name: raw
-    database: jeans_source_db
     schema: public
     tables:
       - name: raw_orders
